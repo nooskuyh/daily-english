@@ -4795,5 +4795,496 @@
       "We chose a date to review it together.",
       "I added the milestone to my project plan."
     ]
+  },
+  {
+    "id": "r03-001",
+    "category": "research",
+    "categoryTitle": "Asking questions in computer science and math classes",
+    "frequencyRank": 2,
+    "bad": "Could you explain again?",
+    "good": "Could you go over that step again?",
+    "why": "“Explain again” is understandable, but it can sound abrupt and does not say what you missed. “Go over that step again” politely asks the instructor to repeat a specific part.",
+    "tags": [
+      "clarification",
+      "class",
+      "CS",
+      "math"
+    ],
+    "story": [
+      "The instructor moved quickly through a proof at the board.",
+      "I understood the setup but lost track of one transformation.",
+      "I waited until there was a pause so I would not interrupt the explanation.",
+      "I raised my hand and said, “Could you go over that step again?”",
+      "The instructor repeated the transformation and named the rule being used.",
+      "I wrote the rule beside the line in my notes.",
+      "After class, I could follow the rest of the proof on my own."
+    ]
+  },
+  {
+    "id": "r03-002",
+    "category": "research",
+    "categoryTitle": "Asking questions in computer science and math classes",
+    "frequencyRank": 2,
+    "bad": "What is this?",
+    "good": "What does this notation mean?",
+    "why": "“What is this?” does not identify the symbol or expression, so the instructor may not know what you mean. Naming the notation makes the question clear and easy to answer.",
+    "tags": [
+      "notation",
+      "math",
+      "class"
+    ],
+    "story": [
+      "A new symbol appeared in the lecture notes.",
+      "I could see how it was used, but I did not know what it represented.",
+      "I pointed to it on the slide when the instructor paused.",
+      "I asked, “What does this notation mean?”",
+      "The instructor explained that it represented a set of neighboring nodes.",
+      "I added the definition next to the symbol in my notes.",
+      "The next example made much more sense."
+    ]
+  },
+  {
+    "id": "r03-003",
+    "category": "research",
+    "categoryTitle": "Asking questions in computer science and math classes",
+    "frequencyRank": 2,
+    "bad": "Why do this?",
+    "good": "Why do we need this step?",
+    "why": "“Why do this?” can sound impatient because it is very brief. “Why do we need this step?” clearly asks about the purpose of a particular part of a derivation or algorithm.",
+    "tags": [
+      "clarification",
+      "math",
+      "CS"
+    ],
+    "story": [
+      "We were simplifying an expression before applying a theorem.",
+      "I could do the algebra, but I was unsure why the extra step was useful.",
+      "I wanted to understand the reasoning rather than just copy the procedure.",
+      "I asked, “Why do we need this step?”",
+      "The instructor showed that the transformation made the theorem applicable.",
+      "I noted the connection between the simplification and the theorem.",
+      "I recognized the same strategy in a later problem."
+    ]
+  },
+  {
+    "id": "r03-004",
+    "category": "research",
+    "categoryTitle": "Asking questions in computer science and math classes",
+    "frequencyRank": 2,
+    "bad": "Can you give example?",
+    "good": "Could you give an example of that?",
+    "why": "Use “an example” with the article “an.” Adding “Could you” makes the request sound polite in a classroom, while “of that” connects it to the idea just introduced.",
+    "tags": [
+      "examples",
+      "class",
+      "CS",
+      "math"
+    ],
+    "story": [
+      "The lecture introduced the idea of a data structure invariant.",
+      "The definition sounded abstract without a concrete case.",
+      "I wanted to see how the invariant applied to an actual structure.",
+      "I asked, “Could you give an example of that?”",
+      "The instructor used a queue and traced how its invariant held after each operation.",
+      "I followed the example in my notebook.",
+      "Then I tried to construct a second example myself."
+    ]
+  },
+  {
+    "id": "r03-005",
+    "category": "research",
+    "categoryTitle": "Asking questions in computer science and math classes",
+    "frequencyRank": 2,
+    "bad": "I have a question about this equation.",
+    "good": "Could you clarify what this equation represents?",
+    "why": "The first sentence is grammatical and natural, but it only announces a question. If you want an explanation, asking what the equation represents tells the instructor what you need.",
+    "tags": [
+      "equations",
+      "math",
+      "clarification"
+    ],
+    "story": [
+      "A model was written as an equation during the lecture.",
+      "I could read each term but was not sure how they fit together.",
+      "I wanted to connect the formula to the quantity being predicted.",
+      "I asked, “Could you clarify what this equation represents?”",
+      "The instructor explained what each term measured and how they related.",
+      "I labeled the terms in my notes.",
+      "The equation became easier to interpret in the next example."
+    ]
+  },
+  {
+    "id": "r03-006",
+    "category": "research",
+    "categoryTitle": "Asking questions in computer science and math classes",
+    "frequencyRank": 2,
+    "bad": "Is there another way to solve?",
+    "good": "Is there another way to solve this?",
+    "why": "The original needs an object after “solve.” Adding “this” makes the question complete and natural when asking about another solution method.",
+    "tags": [
+      "problem solving",
+      "math",
+      "class"
+    ],
+    "story": [
+      "We had just finished solving a system of equations by substitution.",
+      "I understood the method but wondered whether it was the only useful approach.",
+      "I wanted to compare the amount of work each method required.",
+      "I asked, “Is there another way to solve this?”",
+      "The instructor showed how elimination worked on the same system.",
+      "We compared the two methods and discussed when each was convenient.",
+      "I chose a method more confidently on the homework."
+    ]
+  },
+  {
+    "id": "r03-007",
+    "category": "research",
+    "categoryTitle": "Asking questions in computer science and math classes",
+    "frequencyRank": 3,
+    "bad": "Can you explain the code line?",
+    "good": "Could you explain what this line of code does?",
+    "why": "“The code line” is possible but sounds less natural here; “this line of code” is the usual phrasing when pointing to a line. The question asks directly about its behavior.",
+    "tags": [
+      "programming",
+      "CS",
+      "clarification"
+    ],
+    "story": [
+      "During a programming lecture, the instructor displayed a short function.",
+      "One line used a list comprehension I had not seen before.",
+      "I pointed to the line while the class was discussing the output.",
+      "I asked, “Could you explain what this line of code does?”",
+      "The instructor broke the expression into its filtering and mapping parts.",
+      "I tested a small input by hand to check my understanding.",
+      "The pattern was easier to recognize in the next example."
+    ]
+  },
+  {
+    "id": "r03-008",
+    "category": "research",
+    "categoryTitle": "Asking questions in computer science and math classes",
+    "frequencyRank": 3,
+    "bad": "Why the program return this?",
+    "good": "Why does the program return this value?",
+    "why": "In a direct question, use “does” before the subject and the base verb “return.” “This value” identifies what the program produced.",
+    "tags": [
+      "debugging",
+      "programming",
+      "CS"
+    ],
+    "story": [
+      "Our class traced a function with several conditional branches.",
+      "My result did not match the example output.",
+      "I checked the input and followed the path through the function again.",
+      "I asked, “Why does the program return this value?”",
+      "The instructor pointed out that one condition became true earlier than I expected.",
+      "I corrected my trace and found the branch I had missed.",
+      "Afterward, I used the same method to debug another example."
+    ]
+  },
+  {
+    "id": "r03-009",
+    "category": "research",
+    "categoryTitle": "Asking questions in computer science and math classes",
+    "frequencyRank": 3,
+    "bad": "What happen if input is empty?",
+    "good": "What happens if the input is empty?",
+    "why": "With the singular subject “what,” use “happens.” “The input” is a natural way to refer to the value passed to a function or program.",
+    "tags": [
+      "edge cases",
+      "programming",
+      "CS"
+    ],
+    "story": [
+      "We were discussing how a function handles different inputs.",
+      "The examples all used nonempty lists.",
+      "I wondered whether the function had a special case for an empty list.",
+      "I asked, “What happens if the input is empty?”",
+      "The instructor showed that the function returned an empty result without an error.",
+      "We discussed why that behavior mattered for the caller.",
+      "I added an empty-list test to my own implementation."
+    ]
+  },
+  {
+    "id": "r03-010",
+    "category": "research",
+    "categoryTitle": "Asking questions in computer science and math classes",
+    "frequencyRank": 3,
+    "bad": "Does it always work?",
+    "good": "Does this approach always work?",
+    "why": "“It” may be unclear when a class is comparing several methods. Naming “this approach” makes the question specific and invites discussion of its assumptions or limits.",
+    "tags": [
+      "assumptions",
+      "algorithms",
+      "CS",
+      "math"
+    ],
+    "story": [
+      "The class had just seen an algorithm solve a small example.",
+      "I wondered whether the same method would work for every valid input.",
+      "I wanted to know what conditions the proof depended on.",
+      "I asked, “Does this approach always work?”",
+      "The instructor explained that the algorithm required nonnegative edge weights.",
+      "We looked at a counterexample with a negative weight.",
+      "I wrote down the condition as part of the algorithm’s assumptions."
+    ]
+  },
+  {
+    "id": "r03-011",
+    "category": "research",
+    "categoryTitle": "Asking questions in computer science and math classes",
+    "frequencyRank": 3,
+    "bad": "How we know this algorithm is correct?",
+    "good": "How do we know this algorithm is correct?",
+    "why": "Questions with “how” use an auxiliary verb before the subject: “How do we know…?” This phrasing asks for the reasoning or proof behind the algorithm.",
+    "tags": [
+      "proof",
+      "algorithms",
+      "CS"
+    ],
+    "story": [
+      "We had studied an algorithm that selected one item at each iteration.",
+      "I could follow the steps but wanted to understand why the result was guaranteed.",
+      "The instructor had mentioned an invariant earlier in the lecture.",
+      "I asked, “How do we know this algorithm is correct?”",
+      "The instructor used the invariant to explain what remained true after every iteration.",
+      "We checked that it held initially and at termination.",
+      "I then understood how the proof supported the algorithm."
+    ]
+  },
+  {
+    "id": "r03-012",
+    "category": "research",
+    "categoryTitle": "Asking questions in computer science and math classes",
+    "frequencyRank": 3,
+    "bad": "What is difference of these?",
+    "good": "What is the difference between these two methods?",
+    "why": "Say “the difference between A and B,” rather than “difference of.” Naming “these two methods” also makes the comparison clear.",
+    "tags": [
+      "comparison",
+      "CS",
+      "math"
+    ],
+    "story": [
+      "Two methods for multiplying matrices were presented in class.",
+      "Their steps looked different, but I was unsure how their costs compared.",
+      "I wanted to understand when one method would be preferable.",
+      "I asked, “What is the difference between these two methods?”",
+      "The instructor compared their assumptions and operation counts.",
+      "We discussed how matrix size affected the comparison.",
+      "I added the key distinction to my study notes."
+    ]
+  },
+  {
+    "id": "r03-013",
+    "category": "research",
+    "categoryTitle": "Asking questions in computer science and math classes",
+    "frequencyRank": 3,
+    "bad": "I don’t understand this part.",
+    "good": "I’m not sure I follow this part of the proof.",
+    "why": "“I don’t understand this part” is natural, but it does not identify what is confusing. The alternative narrows the issue to the proof and uses a conversational, non-confrontational phrase.",
+    "tags": [
+      "proof",
+      "math",
+      "clarification"
+    ],
+    "story": [
+      "We were following a proof with several nested cases.",
+      "I understood the first two cases but lost the argument in the final one.",
+      "I wanted to ask about the exact point where my understanding stopped.",
+      "I said, “I’m not sure I follow this part of the proof.”",
+      "The instructor restated the goal of the final case.",
+      "That helped me see how it followed from the previous result.",
+      "I asked one more question to check the boundary condition."
+    ]
+  },
+  {
+    "id": "r03-014",
+    "category": "research",
+    "categoryTitle": "Asking questions in computer science and math classes",
+    "frequencyRank": 3,
+    "bad": "Can you repeat?",
+    "good": "Could you repeat the last part, please?",
+    "why": "“Can you repeat?” is grammatical, but without context it can sound blunt or unclear about what should be repeated. “Could you” softens the request, and “the last part” specifies it.",
+    "tags": [
+      "classroom language",
+      "clarification",
+      "polite",
+      "class"
+    ],
+    "story": [
+      "The instructor answered a question while writing on the board.",
+      "I heard the beginning but missed the final explanation.",
+      "I waited for a pause before asking for it again.",
+      "I said, “Could you repeat the last part, please?”",
+      "The instructor repeated the explanation more slowly.",
+      "I caught the connection between the two equations.",
+      "I thanked them and continued following the lecture."
+    ]
+  },
+  {
+    "id": "r03-015",
+    "category": "research",
+    "categoryTitle": "Asking questions in computer science and math classes",
+    "frequencyRank": 3,
+    "bad": "Is this answer right?",
+    "good": "Could you check whether my reasoning is on the right track?",
+    "why": "“Is this answer right?” is natural when checking a final answer. When you want feedback on your method, asking whether your reasoning is on the right track gives the instructor more useful context.",
+    "tags": [
+      "feedback",
+      "problem solving",
+      "math"
+    ],
+    "story": [
+      "I worked through a proof exercise before class ended.",
+      "I had a result, but I was not confident about one inference.",
+      "I showed the instructor the steps I had written down.",
+      "I asked, “Could you check whether my reasoning is on the right track?”",
+      "The instructor confirmed the setup and pointed out one unsupported step.",
+      "I added a justification and checked the conclusion again.",
+      "I left knowing which part of my approach was sound."
+    ]
+  },
+  {
+    "id": "r03-016",
+    "category": "research",
+    "categoryTitle": "Asking questions in computer science and math classes",
+    "frequencyRank": 3,
+    "bad": "Can you tell me the answer?",
+    "good": "Could you give me a hint about how to approach this problem?",
+    "why": "Asking directly for the answer can skip the learning process. If you want help getting started, asking for a hint makes that goal clear and leaves room to solve the problem yourself.",
+    "tags": [
+      "problem solving",
+      "office hours",
+      "math",
+      "CS"
+    ],
+    "story": [
+      "I was stuck on a homework problem involving recursion.",
+      "I had tried two approaches but could not see a useful base case.",
+      "I wanted guidance without being given the full solution.",
+      "I asked, “Could you give me a hint about how to approach this problem?”",
+      "The teaching assistant asked what smaller version of the problem I could solve.",
+      "That question helped me identify a suitable base case.",
+      "I finished the implementation and understood why it worked."
+    ]
+  },
+  {
+    "id": "r03-017",
+    "category": "research",
+    "categoryTitle": "Asking questions in computer science and math classes",
+    "frequencyRank": 3,
+    "bad": "What does professor mean?",
+    "good": "What do you mean by “state” in this theorem?",
+    "why": "In a question about meaning, include the subject with “do you mean.” Quoting the term being discussed helps the instructor identify exactly what you are asking about.",
+    "tags": [
+      "definitions",
+      "math",
+      "CS",
+      "clarification"
+    ],
+    "story": [
+      "A theorem used the word “state” in a specific technical sense.",
+      "I knew the everyday meaning but suspected the theorem used a formal definition.",
+      "I asked while the instructor was discussing the assumptions.",
+      "I said, “What do you mean by ‘state’ in this theorem?”",
+      "The instructor defined a state as a configuration of the system at a given step.",
+      "We compared that definition with the everyday use of the word.",
+      "I understood how the term fit into the proof."
+    ]
+  },
+  {
+    "id": "r03-018",
+    "category": "research",
+    "categoryTitle": "Asking questions in computer science and math classes",
+    "frequencyRank": 3,
+    "bad": "Can I ask question?",
+    "good": "Could I ask a question about the last example?",
+    "why": "Use “a question” with the article. In a classroom, naming the topic makes the request more useful; “Could I” is a polite way to get the floor.",
+    "tags": [
+      "classroom language",
+      "polite",
+      "questions",
+      "CS",
+      "class"
+    ],
+    "story": [
+      "The instructor had just finished an example of a hash table.",
+      "I had a question about what happened when two keys mapped to the same index.",
+      "I waited until the example was complete before speaking.",
+      "I asked, “Could I ask a question about the last example?”",
+      "The instructor invited me to continue.",
+      "I asked how the collision was handled in that implementation.",
+      "The answer helped me connect the example to the general strategy."
+    ]
+  },
+  {
+    "id": "r03-019",
+    "category": "research",
+    "categoryTitle": "Asking questions in computer science and math classes",
+    "frequencyRank": 3,
+    "bad": "When we use this theorem?",
+    "good": "When do we use this theorem?",
+    "why": "Use “do” before the subject in a present simple question: “When do we use…?” This asks about the situations where the theorem is useful.",
+    "tags": [
+      "theorems",
+      "math",
+      "class"
+    ],
+    "story": [
+      "A theorem appeared after a long derivation in lecture.",
+      "I understood its statement but did not know when to apply it.",
+      "I wanted to connect the theorem to the kinds of problems we were solving.",
+      "I asked, “When do we use this theorem?”",
+      "The instructor showed a problem where its conditions were satisfied.",
+      "We compared that problem with one where a condition failed.",
+      "I could recognize when the theorem might help on future assignments."
+    ]
+  },
+  {
+    "id": "r03-020",
+    "category": "research",
+    "categoryTitle": "Asking questions in computer science and math classes",
+    "frequencyRank": 3,
+    "bad": "Is my understanding correct?",
+    "good": "So, if I understand correctly, the running time doubles when the input size doubles?",
+    "why": "The first question is natural but very broad. Restating your specific understanding lets the instructor confirm or correct the exact idea, and the question mark makes the check conversational.",
+    "tags": [
+      "checking understanding",
+      "complexity",
+      "CS"
+    ],
+    "story": [
+      "We were discussing how input size affects an algorithm’s running time.",
+      "I thought the runtime grew linearly, but wanted to confirm the implication.",
+      "I turned the idea into a concrete statement.",
+      "I asked, “So, if I understand correctly, the running time doubles when the input size doubles?”",
+      "The instructor confirmed that this followed for a linear-time algorithm.",
+      "They contrasted it with a quadratic-time example.",
+      "I left with a clearer sense of how growth rates compare."
+    ]
+  },
+  {
+    "id": "r03-021",
+    "category": "research",
+    "categoryTitle": "Asking questions in computer science and math classes",
+    "frequencyRank": 3,
+    "bad": "Why we need prove this?",
+    "good": "Why do we need to prove this property?",
+    "why": "In a direct question, put “do” before “we” and use the base form “need.” Adding “property” identifies what the proof is meant to establish.",
+    "tags": [
+      "proof",
+      "math",
+      "CS"
+    ],
+    "story": [
+      "A lecture introduced a property that seemed obvious from several examples.",
+      "I wondered why the class needed a formal proof.",
+      "I wanted to understand what examples could not guarantee.",
+      "I asked, “Why do we need to prove this property?”",
+      "The instructor explained that the claim had to hold for every valid input.",
+      "We discussed how a counterexample could expose a hidden assumption.",
+      "The proof showed the claim beyond the examples we had tested."
+    ]
   }
 ]

@@ -4,7 +4,7 @@ A mobile-first English practice app for Korean speakers. It is a static site wit
 
 ## Content database
 
-The root `database.json` is a manifest listing the category file, lesson files, and original lesson order. Category names are in `data/categories.json`; each category's lessons are in `data/lessons/<category-id>.json`. The database includes 301 examples from the reference guide, 40 additional question patterns, 24 common everyday conversation examples, and 48 teaching and research examples, arranged in five broad categories. Lessons are ordered by estimated everyday usefulness; this is an editorial ranking, not a measured corpus frequency.
+The root `database.json` is a manifest listing the category file, lesson files, and original lesson order. Category names are in `data/categories.json`; each category's lessons are in `data/lessons/<category-id>.json`. The database includes 301 examples from the reference guide, 40 additional question patterns, 24 common everyday conversation examples, and 48 teaching and research examples, including 21 classroom question patterns, arranged in five broad categories. Lessons are ordered by estimated everyday usefulness; this is an editorial ranking, not a measured corpus frequency.
 
 To add a lesson, add an object to the matching category file and add its ID to `lessonOrder` in the root manifest. Keep the incorrect example in `bad`; stories should model the natural alternative and never repeat the less-natural wording. Stories display as prose in the app.
 

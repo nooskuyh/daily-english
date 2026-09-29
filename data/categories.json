@@ -1,0 +1,26 @@
+[
+  {
+    "id": "translated",
+    "name": "Sounds translated",
+    "icon": "✍️",
+    "desc": "English that follows Korean phrasing"
+  },
+  {
+    "id": "tone",
+    "name": "Tone & clarity",
+    "icon": "💬",
+    "desc": "Say it without sounding too direct"
+  },
+  {
+    "id": "ideas",
+    "name": "Ideas & opinions",
+    "icon": "💭",
+    "desc": "Share your thoughts with confidence"
+  },
+  {
+    "id": "everyday",
+    "name": "Everyday conversations",
+    "icon": "☕",
+    "desc": "Natural English for daily life"
+  }
+]

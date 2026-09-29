@@ -1,0 +1,1104 @@
+[
+  {
+    "id": "s01-001",
+    "category": "translated",
+    "bad": "I discussed about it.",
+    "good": "I discussed it.",
+    "why": "discuss does not take about.",
+    "tags": [
+      "research"
+    ],
+    "story": [
+      "A friend saw me on campus and asked about my day.",
+      "I told them what had happened earlier in the week.",
+      "I tried to give a clear answer instead of translating word for word.",
+      "I said, “I discussed it.”",
+      "They understood the situation and asked how things were going now.",
+      "We talked for a few more minutes before class started.",
+      "I left knowing I had described the experience clearly.",
+      "The same phrase came in handy again later."
+    ],
+    "categoryTitle": "Grammar, Collocations, and Literal Translation",
+    "frequencyRank": 4
+  },
+  {
+    "id": "s01-002",
+    "category": "translated",
+    "bad": "I researched about retrieval-augmented generation last semester.",
+    "good": "I researched retrieval-augmented generation last semester.",
+    "why": "research usually takes a direct object.",
+    "tags": [
+      "research"
+    ],
+    "story": [
+      "A friend saw me on campus and asked about my day.",
+      "I told them what had happened earlier in the week.",
+      "I tried to give a clear answer instead of translating word for word.",
+      "I said, “I researched retrieval-augmented generation last semester.”",
+      "They understood the situation and asked how things were going now.",
+      "We talked for a few more minutes before class started.",
+      "I left knowing I had described the experience clearly.",
+      "The same phrase came in handy again later."
+    ],
+    "categoryTitle": "Grammar, Collocations, and Literal Translation",
+    "frequencyRank": 4
+  },
+  {
+    "id": "s01-003",
+    "category": "translated",
+    "bad": "I study about distributed systems.",
+    "good": "I study distributed systems.",
+    "why": "study usually takes a direct object.",
+    "tags": [
+      "research"
+    ],
+    "story": [
+      "A friend saw me on campus and asked about my day.",
+      "I told them what had happened earlier in the week.",
+      "I tried to give a clear answer instead of translating word for word.",
+      "I said, “I study distributed systems.”",
+      "They understood the situation and asked how things were going now.",
+      "We talked for a few more minutes before class started.",
+      "I left knowing I had described the experience clearly.",
+      "The same phrase came in handy again later."
+    ],
+    "categoryTitle": "Grammar, Collocations, and Literal Translation",
+    "frequencyRank": 4
+  },
+  {
+    "id": "s01-004",
+    "category": "translated",
+    "bad": "I am interested about language models.",
+    "good": "I'm interested in language models.",
+    "why": "Wrong preposition.",
+    "tags": [
+      "research"
+    ],
+    "story": [
+      "A friend saw me on campus and asked about my day.",
+      "I told them what had happened earlier in the week.",
+      "I tried to give a clear answer instead of translating word for word.",
+      "I said, “I'm interested in language models.”",
+      "They understood the situation and asked how things were going now.",
+      "We talked for a few more minutes before class started.",
+      "I left knowing I had described the experience clearly.",
+      "The same phrase came in handy again later."
+    ],
+    "categoryTitle": "Grammar, Collocations, and Literal Translation",
+    "frequencyRank": 4
+  },
+  {
+    "id": "s01-005",
+    "category": "translated",
+    "bad": "This problem is related with data quality.",
+    "good": "This problem is related to data quality.",
+    "why": "Wrong collocation.",
+    "tags": [
+      "research"
+    ],
+    "story": [
+      "A friend saw me on campus and asked about my day.",
+      "I told them what had happened earlier in the week.",
+      "I tried to give a clear answer instead of translating word for word.",
+      "I said, “This problem is related to data quality.”",
+      "They understood the situation and asked how things were going now.",
+      "We talked for a few more minutes before class started.",
+      "I left knowing I had described the experience clearly.",
+      "The same phrase came in handy again later."
+    ],
+    "categoryTitle": "Grammar, Collocations, and Literal Translation",
+    "frequencyRank": 4
+  },
+  {
+    "id": "s01-006",
+    "category": "translated",
+    "bad": "Our approach is similar with the baseline method.",
+    "good": "Our approach is similar to the baseline method.",
+    "why": "Wrong collocation.",
+    "tags": [
+      "research"
+    ],
+    "story": [
+      "A friend saw me on campus and asked about my day.",
+      "I told them what had happened earlier in the week.",
+      "I tried to give a clear answer instead of translating word for word.",
+      "I said, “Our approach is similar to the baseline method.”",
+      "They understood the situation and asked how things were going now.",
+      "We talked for a few more minutes before class started.",
+      "I left knowing I had described the experience clearly.",
+      "The same phrase came in handy again later."
+    ],
+    "categoryTitle": "Grammar, Collocations, and Literal Translation",
+    "frequencyRank": 4
+  },
+  {
+    "id": "s01-007",
+    "category": "translated",
+    "bad": "Our setting is different with the one used in the paper.",
+    "good": "Our setting is different from the one used in the paper.",
+    "why": "Wrong collocation.",
+    "tags": [
+      "research"
+    ],
+    "story": [
+      "A friend saw me on campus and asked about my day.",
+      "I told them what had happened earlier in the week.",
+      "I tried to give a clear answer instead of translating word for word.",
+      "I said, “Our setting is different from the one used in the paper.”",
+      "They understood the situation and asked how things were going now.",
+      "We talked for a few more minutes before class started.",
+      "I left knowing I had described the experience clearly.",
+      "The same phrase came in handy again later."
+    ],
+    "categoryTitle": "Grammar, Collocations, and Literal Translation",
+    "frequencyRank": 4
+  },
+  {
+    "id": "s01-008",
+    "category": "translated",
+    "bad": "This configuration is same with the previous experiment.",
+    "good": "This configuration is the same as the previous experiment.",
+    "why": "Wrong collocation.",
+    "tags": [
+      "research"
+    ],
+    "story": [
+      "A friend saw me on campus and asked about my day.",
+      "I told them what had happened earlier in the week.",
+      "I tried to give a clear answer instead of translating word for word.",
+      "I said, “This configuration is the same as the previous experiment.”",
+      "They understood the situation and asked how things were going now.",
+      "We talked for a few more minutes before class started.",
+      "I left knowing I had described the experience clearly.",
+      "The same phrase came in handy again later."
+    ],
+    "categoryTitle": "Grammar, Collocations, and Literal Translation",
+    "frequencyRank": 4
+  },
+  {
+    "id": "s01-009",
+    "category": "translated",
+    "bad": "He explained me.",
+    "good": "He explained it to me.",
+    "why": "explain requires to before the person.",
+    "tags": [
+      "presentation"
+    ],
+    "story": [
+      "A friend saw me on campus and asked about my day.",
+      "I told them what had happened earlier in the week.",
+      "I tried to give a clear answer instead of translating word for word.",
+      "I said, “He explained it to me.”",
+      "They understood the situation and asked how things were going now.",
+      "We talked for a few more minutes before class started.",
+      "I left knowing I had described the experience clearly.",
+      "The same phrase came in handy again later."
+    ],
+    "categoryTitle": "Grammar, Collocations, and Literal Translation",
+    "frequencyRank": 4
+  },
+  {
+    "id": "s01-010",
+    "category": "translated",
+    "bad": "My professor said me that the idea was promising.",
+    "good": "My professor told me that the idea was promising.",
+    "why": "say cannot be used this way.",
+    "tags": [
+      "formal"
+    ],
+    "story": [
+      "A friend saw me on campus and asked about my day.",
+      "I told them what had happened earlier in the week.",
+      "I tried to give a clear answer instead of translating word for word.",
+      "I said, “My professor told me that the idea was promising.”",
+      "They understood the situation and asked how things were going now.",
+      "We talked for a few more minutes before class started.",
+      "I left knowing I had described the experience clearly.",
+      "The same phrase came in handy again later."
+    ],
+    "categoryTitle": "Grammar, Collocations, and Literal Translation",
+    "frequencyRank": 4
+  },
+  {
+    "id": "s01-011",
+    "category": "translated",
+    "bad": "He suggested me to try a larger batch size.",
+    "good": "He suggested that I try a larger batch size.",
+    "why": "Incorrect verb pattern.",
+    "tags": [
+      "research"
+    ],
+    "story": [
+      "A friend saw me on campus and asked about my day.",
+      "I told them what had happened earlier in the week.",
+      "I tried to give a clear answer instead of translating word for word.",
+      "I said, “He suggested that I try a larger batch size.”",
+      "They understood the situation and asked how things were going now.",
+      "We talked for a few more minutes before class started.",
+      "I left knowing I had described the experience clearly.",
+      "The same phrase came in handy again later."
+    ],
+    "categoryTitle": "Grammar, Collocations, and Literal Translation",
+    "frequencyRank": 4
+  },
+  {
+    "id": "s01-012",
+    "category": "translated",
+    "bad": "I suggest you to compare against the strongest baseline.",
+    "good": "I suggest that you compare against the strongest baseline.",
+    "why": "Incorrect verb pattern.",
+    "tags": [
+      "research"
+    ],
+    "story": [
+      "A friend saw me on campus and asked about my day.",
+      "I told them what had happened earlier in the week.",
+      "I tried to give a clear answer instead of translating word for word.",
+      "I said, “I suggest that you compare against the strongest baseline.”",
+      "They understood the situation and asked how things were going now.",
+      "We talked for a few more minutes before class started.",
+      "I left knowing I had described the experience clearly.",
+      "The same phrase came in handy again later."
+    ],
+    "categoryTitle": "Grammar, Collocations, and Literal Translation",
+    "frequencyRank": 4
+  },
+  {
+    "id": "s01-013",
+    "category": "translated",
+    "bad": "I recommend you to read this paper before the meeting.",
+    "good": "I recommend that you read this paper before the meeting.",
+    "why": "Awkward verb pattern in American English.",
+    "tags": [
+      "research",
+      "presentation"
+    ],
+    "story": [
+      "A friend saw me on campus and asked about my day.",
+      "I told them what had happened earlier in the week.",
+      "I tried to give a clear answer instead of translating word for word.",
+      "I said, “I recommend that you read this paper before the meeting.”",
+      "They understood the situation and asked how things were going now.",
+      "We talked for a few more minutes before class started.",
+      "I left knowing I had described the experience clearly.",
+      "The same phrase came in handy again later."
+    ],
+    "categoryTitle": "Grammar, Collocations, and Literal Translation",
+    "frequencyRank": 4
+  },
+  {
+    "id": "s01-014",
+    "category": "translated",
+    "bad": "I entered PhD.",
+    "good": "I started my PhD.",
+    "why": "Non-native phrasing.",
+    "tags": [
+      "research"
+    ],
+    "story": [
+      "A friend saw me on campus and asked about my day.",
+      "I told them what had happened earlier in the week.",
+      "I tried to give a clear answer instead of translating word for word.",
+      "I said, “I started my PhD.”",
+      "They understood the situation and asked how things were going now.",
+      "We talked for a few more minutes before class started.",
+      "I left knowing I had described the experience clearly.",
+      "The same phrase came in handy again later."
+    ],
+    "categoryTitle": "Grammar, Collocations, and Literal Translation",
+    "frequencyRank": 4
+  },
+  {
+    "id": "s01-015",
+    "category": "translated",
+    "bad": "I entered graduate school.",
+    "good": "I started grad school.",
+    "why": "Understandable, but sounds translated.",
+    "tags": [
+      "research"
+    ],
+    "story": [
+      "A friend saw me on campus and asked about my day.",
+      "I told them what had happened earlier in the week.",
+      "I tried to give a clear answer instead of translating word for word.",
+      "I said, “I started grad school.”",
+      "They understood the situation and asked how things were going now.",
+      "We talked for a few more minutes before class started.",
+      "I left knowing I had described the experience clearly.",
+      "The same phrase came in handy again later."
+    ],
+    "categoryTitle": "Grammar, Collocations, and Literal Translation",
+    "frequencyRank": 4
+  },
+  {
+    "id": "s01-016",
+    "category": "translated",
+    "bad": "I'm first year.",
+    "good": "I'm a first-year PhD student.",
+    "why": "Missing article and noun.",
+    "tags": [
+      "research"
+    ],
+    "story": [
+      "A friend saw me on campus and asked about my day.",
+      "I told them what had happened earlier in the week.",
+      "I tried to give a clear answer instead of translating word for word.",
+      "I said, “I'm a first-year PhD student.”",
+      "They understood the situation and asked how things were going now.",
+      "We talked for a few more minutes before class started.",
+      "I left knowing I had described the experience clearly.",
+      "The same phrase came in handy again later."
+    ],
+    "categoryTitle": "Grammar, Collocations, and Literal Translation",
+    "frequencyRank": 4
+  },
+  {
+    "id": "s01-017",
+    "category": "translated",
+    "bad": "I'm in first year.",
+    "good": "I'm in my first year.",
+    "why": "Less natural in American English.",
+    "tags": [
+      "research"
+    ],
+    "story": [
+      "A friend saw me on campus and asked about my day.",
+      "I told them what had happened earlier in the week.",
+      "I tried to give a clear answer instead of translating word for word.",
+      "I said, “I'm in my first year.”",
+      "They understood the situation and asked how things were going now.",
+      "We talked for a few more minutes before class started.",
+      "I left knowing I had described the experience clearly.",
+      "The same phrase came in handy again later."
+    ],
+    "categoryTitle": "Grammar, Collocations, and Literal Translation",
+    "frequencyRank": 4
+  },
+  {
+    "id": "s01-018",
+    "category": "translated",
+    "bad": "My senior told me that this conference is very competitive.",
+    "good": "A senior PhD student in my lab told me that this conference is very competitive.",
+    "why": "senior is ambiguous in English.",
+    "tags": [
+      "research"
+    ],
+    "story": [
+      "A friend saw me on campus and asked about my day.",
+      "I told them what had happened earlier in the week.",
+      "I tried to give a clear answer instead of translating word for word.",
+      "I said, “A senior PhD student in my lab told me that this conference is very competitive.”",
+      "They understood the situation and asked how things were going now.",
+      "We talked for a few more minutes before class started.",
+      "I left knowing I had described the experience clearly.",
+      "The same phrase came in handy again later."
+    ],
+    "categoryTitle": "Grammar, Collocations, and Literal Translation",
+    "frequencyRank": 4
+  },
+  {
+    "id": "s01-019",
+    "category": "translated",
+    "bad": "My junior asked me how to run the experiment.",
+    "good": "A more junior student in my lab asked me how to run the experiment.",
+    "why": "Not normally used as a noun for a less senior student.",
+    "tags": [
+      "research"
+    ],
+    "story": [
+      "A friend saw me on campus and asked about my day.",
+      "I told them what had happened earlier in the week.",
+      "I tried to give a clear answer instead of translating word for word.",
+      "I said, “A more junior student in my lab asked me how to run the experiment.”",
+      "They understood the situation and asked how things were going now.",
+      "We talked for a few more minutes before class started.",
+      "I left knowing I had described the experience clearly.",
+      "The same phrase came in handy again later."
+    ],
+    "categoryTitle": "Grammar, Collocations, and Literal Translation",
+    "frequencyRank": 4
+  },
+  {
+    "id": "s01-020",
+    "category": "translated",
+    "bad": "My lab people usually have lunch together on Fridays.",
+    "good": "People in my lab usually have lunch together on Fridays.",
+    "why": "Non-native phrasing.",
+    "tags": [
+      "research",
+      "casual"
+    ],
+    "story": [
+      "A friend saw me on campus and asked about my day.",
+      "I told them what had happened earlier in the week.",
+      "I tried to give a clear answer instead of translating word for word.",
+      "I said, “People in my lab usually have lunch together on Fridays.”",
+      "They understood the situation and asked how things were going now.",
+      "We talked for a few more minutes before class started.",
+      "I left knowing I had described the experience clearly.",
+      "The same phrase came in handy again later."
+    ],
+    "categoryTitle": "Grammar, Collocations, and Literal Translation",
+    "frequencyRank": 4
+  },
+  {
+    "id": "s01-021",
+    "category": "translated",
+    "bad": "I have another schedule.",
+    "good": "I have another commitment. / I already have plans.",
+    "why": "Korean 스케줄이 있다 does not map naturally.",
+    "tags": [
+      "casual"
+    ],
+    "story": [
+      "After seminar, a classmate and I talked about meeting again.",
+      "We checked our schedules and thought about what would work.",
+      "I wanted to make my plans clear without overexplaining.",
+      "I said, “I have another commitment.”",
+      "My classmate understood and suggested another option.",
+      "We exchanged contact details so we could follow up later.",
+      "By the time we left, we both knew what to expect.",
+      "The conversation ended on a friendly note."
+    ],
+    "categoryTitle": "Grammar, Collocations, and Literal Translation",
+    "frequencyRank": 4
+  },
+  {
+    "id": "s01-022",
+    "category": "translated",
+    "bad": "I have a promise.",
+    "good": "I have plans.",
+    "why": "Korean 약속 is being translated literally.",
+    "tags": [
+      "casual"
+    ],
+    "story": [
+      "After seminar, a classmate and I talked about meeting again.",
+      "We checked our schedules and thought about what would work.",
+      "I wanted to make my plans clear without overexplaining.",
+      "I said, “I have plans.”",
+      "My classmate understood and suggested another option.",
+      "We exchanged contact details so we could follow up later.",
+      "By the time we left, we both knew what to expect.",
+      "The conversation ended on a friendly note."
+    ],
+    "categoryTitle": "Grammar, Collocations, and Literal Translation",
+    "frequencyRank": 4
+  },
+  {
+    "id": "s01-023",
+    "category": "translated",
+    "bad": "I made a promise with my friend.",
+    "good": "I made plans with a friend.",
+    "why": "Sounds like a serious personal promise.",
+    "tags": [
+      "casual"
+    ],
+    "story": [
+      "After seminar, a classmate and I talked about meeting again.",
+      "We checked our schedules and thought about what would work.",
+      "I wanted to make my plans clear without overexplaining.",
+      "I said, “I made plans with a friend.”",
+      "My classmate understood and suggested another option.",
+      "We exchanged contact details so we could follow up later.",
+      "By the time we left, we both knew what to expect.",
+      "The conversation ended on a friendly note."
+    ],
+    "categoryTitle": "Grammar, Collocations, and Literal Translation",
+    "frequencyRank": 4
+  },
+  {
+    "id": "s01-024",
+    "category": "translated",
+    "bad": "I will contact you later.",
+    "good": "I'll follow up later. / I'll get back to you.",
+    "why": "Grammatically correct but stiff.",
+    "tags": [
+      "formal"
+    ],
+    "story": [
+      "After seminar, a classmate and I talked about meeting again.",
+      "We checked our schedules and thought about what would work.",
+      "I wanted to make my plans clear without overexplaining.",
+      "I said, “I'll follow up later.”",
+      "My classmate understood and suggested another option.",
+      "We exchanged contact details so we could follow up later.",
+      "By the time we left, we both knew what to expect.",
+      "The conversation ended on a friendly note."
+    ],
+    "categoryTitle": "Grammar, Collocations, and Literal Translation",
+    "frequencyRank": 4
+  },
+  {
+    "id": "s01-025",
+    "category": "translated",
+    "bad": "Let's contact later.",
+    "good": "Let's stay in touch.",
+    "why": "Non-native phrasing.",
+    "tags": [
+      "research"
+    ],
+    "story": [
+      "After seminar, a classmate and I talked about meeting again.",
+      "We checked our schedules and thought about what would work.",
+      "I wanted to make my plans clear without overexplaining.",
+      "I said, “Let's stay in touch.”",
+      "My classmate understood and suggested another option.",
+      "We exchanged contact details so we could follow up later.",
+      "By the time we left, we both knew what to expect.",
+      "The conversation ended on a friendly note."
+    ],
+    "categoryTitle": "Grammar, Collocations, and Literal Translation",
+    "frequencyRank": 4
+  },
+  {
+    "id": "s01-026",
+    "category": "translated",
+    "bad": "I checked your email.",
+    "good": "I saw your email.",
+    "why": "Can sound like you inspected it.",
+    "tags": [
+      "formal"
+    ],
+    "story": [
+      "A labmate and I were following up after a research meeting.",
+      "We had both seen a recent message and a paper draft.",
+      "They asked what I had read so far, and I answered carefully.",
+      "I said, “I saw your email.”",
+      "We clarified which part needed another look.",
+      "Then we opened the document and checked the details together.",
+      "That helped us decide what to discuss at the next meeting.",
+      "I left with a clear task for the afternoon."
+    ],
+    "categoryTitle": "Grammar, Collocations, and Literal Translation",
+    "frequencyRank": 4
+  },
+  {
+    "id": "s01-027",
+    "category": "translated",
+    "bad": "I checked the paper.",
+    "good": "I took a look at the paper. / I read through the paper.",
+    "why": "Ambiguous: read, reviewed, or verified?",
+    "tags": [
+      "research"
+    ],
+    "story": [
+      "A labmate and I were following up after a research meeting.",
+      "We had both seen a recent message and a paper draft.",
+      "They asked what I had read so far, and I answered carefully.",
+      "I said, “I took a look at the paper.”",
+      "We clarified which part needed another look.",
+      "Then we opened the document and checked the details together.",
+      "That helped us decide what to discuss at the next meeting.",
+      "I left with a clear task for the afternoon."
+    ],
+    "categoryTitle": "Grammar, Collocations, and Literal Translation",
+    "frequencyRank": 4
+  },
+  {
+    "id": "s01-028",
+    "category": "translated",
+    "bad": "I studied the paper.",
+    "good": "I went through the paper carefully.",
+    "why": "Sounds overly literal.",
+    "tags": [
+      "research"
+    ],
+    "story": [
+      "A labmate and I were following up after a research meeting.",
+      "We had both seen a recent message and a paper draft.",
+      "They asked what I had read so far, and I answered carefully.",
+      "I said, “I went through the paper carefully.”",
+      "We clarified which part needed another look.",
+      "Then we opened the document and checked the details together.",
+      "That helped us decide what to discuss at the next meeting.",
+      "I left with a clear task for the afternoon."
+    ],
+    "categoryTitle": "Grammar, Collocations, and Literal Translation",
+    "frequencyRank": 4
+  },
+  {
+    "id": "s01-029",
+    "category": "translated",
+    "bad": "I saw it in the internet.",
+    "good": "I saw it online.",
+    "why": "Wrong preposition.",
+    "tags": [
+      "research"
+    ],
+    "story": [
+      "At lunch, a friend mentioned a topic we had both heard about.",
+      "They asked where I had seen the information.",
+      "I explained what I knew without making the story sound bigger than it was.",
+      "I said, “I saw it online.”",
+      "My friend asked where they could read more about it.",
+      "I shared the source and we compared what it actually said.",
+      "The conversation moved on once we had the facts straight.",
+      "I was glad I had described it clearly."
+    ],
+    "categoryTitle": "Grammar, Collocations, and Literal Translation",
+    "frequencyRank": 4
+  },
+  {
+    "id": "s01-030",
+    "category": "translated",
+    "bad": "I saw a news.",
+    "good": "I saw a news article.",
+    "why": "news is uncountable.",
+    "tags": [
+      "research"
+    ],
+    "story": [
+      "At lunch, a friend mentioned a topic we had both heard about.",
+      "They asked where I had seen the information.",
+      "I explained what I knew without making the story sound bigger than it was.",
+      "I said, “I saw a news article.”",
+      "My friend asked where they could read more about it.",
+      "I shared the source and we compared what it actually said.",
+      "The conversation moved on once we had the facts straight.",
+      "I was glad I had described it clearly."
+    ],
+    "categoryTitle": "Grammar, Collocations, and Literal Translation",
+    "frequencyRank": 4
+  },
+  {
+    "id": "s01-031",
+    "category": "translated",
+    "bad": "I got an information.",
+    "good": "I got some information.",
+    "why": "information is uncountable.",
+    "tags": [
+      "research"
+    ],
+    "story": [
+      "At lunch, a friend mentioned a topic we had both heard about.",
+      "They asked where I had seen the information.",
+      "I explained what I knew without making the story sound bigger than it was.",
+      "I said, “I got some information.”",
+      "My friend asked where they could read more about it.",
+      "I shared the source and we compared what it actually said.",
+      "The conversation moved on once we had the facts straight.",
+      "I was glad I had described it clearly."
+    ],
+    "categoryTitle": "Grammar, Collocations, and Literal Translation",
+    "frequencyRank": 4
+  },
+  {
+    "id": "s01-032",
+    "category": "translated",
+    "bad": "I have many experiences.",
+    "good": "I have a lot of experience.",
+    "why": "Usually wrong when referring to accumulated expertise.",
+    "tags": [
+      "research"
+    ],
+    "story": [
+      "I was talking with a colleague about work I had done before.",
+      "They wanted to know which tools and topics I knew best.",
+      "I described my background in simple terms.",
+      "I said, “I have a lot of experience.”",
+      "My colleague asked a follow-up about one of my projects.",
+      "I gave a short example of what I had worked on.",
+      "We found an area where our experience overlapped.",
+      "That made it easier to plan our next collaboration."
+    ],
+    "categoryTitle": "Grammar, Collocations, and Literal Translation",
+    "frequencyRank": 4
+  },
+  {
+    "id": "s01-033",
+    "category": "translated",
+    "bad": "I have an experience of working with PyTorch.",
+    "good": "I have experience working with PyTorch.",
+    "why": "Non-native collocation.",
+    "tags": [
+      "research"
+    ],
+    "story": [
+      "I was talking with a colleague about work I had done before.",
+      "They wanted to know which tools and topics I knew best.",
+      "I described my background in simple terms.",
+      "I said, “I have experience working with PyTorch.”",
+      "My colleague asked a follow-up about one of my projects.",
+      "I gave a short example of what I had worked on.",
+      "We found an area where our experience overlapped.",
+      "That made it easier to plan our next collaboration."
+    ],
+    "categoryTitle": "Grammar, Collocations, and Literal Translation",
+    "frequencyRank": 4
+  },
+  {
+    "id": "s01-034",
+    "category": "translated",
+    "bad": "I have a career in machine learning.",
+    "good": "I have experience in machine learning.",
+    "why": "Often too broad if you simply mean prior work.",
+    "tags": [
+      "research"
+    ],
+    "story": [
+      "I was talking with a colleague about work I had done before.",
+      "They wanted to know which tools and topics I knew best.",
+      "I described my background in simple terms.",
+      "I said, “I have experience in machine learning.”",
+      "My colleague asked a follow-up about one of my projects.",
+      "I gave a short example of what I had worked on.",
+      "We found an area where our experience overlapped.",
+      "That made it easier to plan our next collaboration."
+    ],
+    "categoryTitle": "Grammar, Collocations, and Literal Translation",
+    "frequencyRank": 4
+  },
+  {
+    "id": "s01-035",
+    "category": "translated",
+    "bad": "I am confusing.",
+    "good": "I'm confused.",
+    "why": "Means you confuse other people.",
+    "tags": [
+      "research"
+    ],
+    "story": [
+      "Before our meeting, a friend asked how I had been feeling lately.",
+      "I paused and thought about how to describe it honestly.",
+      "I chose a simple phrase that matched my experience.",
+      "I said, “I'm confused.”",
+      "My friend listened and asked if there was anything they could do.",
+      "We talked about what had been difficult that week.",
+      "It helped to say how I felt without making it more dramatic.",
+      "Afterward, I felt a little more understood."
+    ],
+    "categoryTitle": "Grammar, Collocations, and Literal Translation",
+    "frequencyRank": 4
+  },
+  {
+    "id": "s01-036",
+    "category": "translated",
+    "bad": "I am boring.",
+    "good": "I'm bored.",
+    "why": "Means you are a boring person.",
+    "tags": [
+      "research"
+    ],
+    "story": [
+      "Before our meeting, a friend asked how I had been feeling lately.",
+      "I paused and thought about how to describe it honestly.",
+      "I chose a simple phrase that matched my experience.",
+      "I said, “I'm bored.”",
+      "My friend listened and asked if there was anything they could do.",
+      "We talked about what had been difficult that week.",
+      "It helped to say how I felt without making it more dramatic.",
+      "Afterward, I felt a little more understood."
+    ],
+    "categoryTitle": "Grammar, Collocations, and Literal Translation",
+    "frequencyRank": 4
+  },
+  {
+    "id": "s01-037",
+    "category": "translated",
+    "bad": "I am stressful.",
+    "good": "I'm stressed.",
+    "why": "Means you cause stress.",
+    "tags": [
+      "research"
+    ],
+    "story": [
+      "Before our meeting, a friend asked how I had been feeling lately.",
+      "I paused and thought about how to describe it honestly.",
+      "I chose a simple phrase that matched my experience.",
+      "I said, “I'm stressed.”",
+      "My friend listened and asked if there was anything they could do.",
+      "We talked about what had been difficult that week.",
+      "It helped to say how I felt without making it more dramatic.",
+      "Afterward, I felt a little more understood."
+    ],
+    "categoryTitle": "Grammar, Collocations, and Literal Translation",
+    "frequencyRank": 4
+  },
+  {
+    "id": "s01-038",
+    "category": "translated",
+    "bad": "I am hard.",
+    "good": "I'm having a hard time.",
+    "why": "Incorrect for “힘들다.”",
+    "tags": [
+      "research"
+    ],
+    "story": [
+      "Before our meeting, a friend asked how I had been feeling lately.",
+      "I paused and thought about how to describe it honestly.",
+      "I chose a simple phrase that matched my experience.",
+      "I said, “I'm having a hard time.”",
+      "My friend listened and asked if there was anything they could do.",
+      "We talked about what had been difficult that week.",
+      "It helped to say how I felt without making it more dramatic.",
+      "Afterward, I felt a little more understood."
+    ],
+    "categoryTitle": "Grammar, Collocations, and Literal Translation",
+    "frequencyRank": 4
+  },
+  {
+    "id": "s01-039",
+    "category": "translated",
+    "bad": "It is burden.",
+    "good": "It's a lot to take on.",
+    "why": "Literal translation of 부담이다.",
+    "tags": [
+      "research"
+    ],
+    "story": [
+      "Before our meeting, a friend asked how I had been feeling lately.",
+      "I paused and thought about how to describe it honestly.",
+      "I chose a simple phrase that matched my experience.",
+      "I said, “It's a lot to take on.”",
+      "My friend listened and asked if there was anything they could do.",
+      "We talked about what had been difficult that week.",
+      "It helped to say how I felt without making it more dramatic.",
+      "Afterward, I felt a little more understood."
+    ],
+    "categoryTitle": "Grammar, Collocations, and Literal Translation",
+    "frequencyRank": 4
+  },
+  {
+    "id": "s01-040",
+    "category": "translated",
+    "bad": "I feel burdened.",
+    "good": "I feel a lot of pressure.",
+    "why": "Grammatically possible but often unnatural in everyday speech.",
+    "tags": [
+      "research"
+    ],
+    "story": [
+      "Before our meeting, a friend asked how I had been feeling lately.",
+      "I paused and thought about how to describe it honestly.",
+      "I chose a simple phrase that matched my experience.",
+      "I said, “I feel a lot of pressure.”",
+      "My friend listened and asked if there was anything they could do.",
+      "We talked about what had been difficult that week.",
+      "It helped to say how I felt without making it more dramatic.",
+      "Afterward, I felt a little more understood."
+    ],
+    "categoryTitle": "Grammar, Collocations, and Literal Translation",
+    "frequencyRank": 4
+  },
+  {
+    "id": "s01-041",
+    "category": "translated",
+    "bad": "I have pressure.",
+    "good": "I'm under a lot of pressure.",
+    "why": "Non-native phrasing.",
+    "tags": [
+      "research"
+    ],
+    "story": [
+      "Before our meeting, a friend asked how I had been feeling lately.",
+      "I paused and thought about how to describe it honestly.",
+      "I chose a simple phrase that matched my experience.",
+      "I said, “I'm under a lot of pressure.”",
+      "My friend listened and asked if there was anything they could do.",
+      "We talked about what had been difficult that week.",
+      "It helped to say how I felt without making it more dramatic.",
+      "Afterward, I felt a little more understood."
+    ],
+    "categoryTitle": "Grammar, Collocations, and Literal Translation",
+    "frequencyRank": 4
+  },
+  {
+    "id": "s01-042",
+    "category": "translated",
+    "bad": "My condition is bad.",
+    "good": "I'm not feeling great today.",
+    "why": "Sounds medical or athletic.",
+    "tags": [
+      "casual"
+    ],
+    "story": [
+      "A friend saw me on campus and asked about my day.",
+      "I told them what had happened earlier in the week.",
+      "I tried to give a clear answer instead of translating word for word.",
+      "I said, “I'm not feeling great today.”",
+      "They understood the situation and asked how things were going now.",
+      "We talked for a few more minutes before class started.",
+      "I left knowing I had described the experience clearly.",
+      "The same phrase came in handy again later."
+    ],
+    "categoryTitle": "Grammar, Collocations, and Literal Translation",
+    "frequencyRank": 4
+  },
+  {
+    "id": "s01-043",
+    "category": "translated",
+    "bad": "My body is not good.",
+    "good": "I'm not feeling well.",
+    "why": "Non-native phrasing.",
+    "tags": [
+      "research"
+    ],
+    "story": [
+      "A friend saw me on campus and asked about my day.",
+      "I told them what had happened earlier in the week.",
+      "I tried to give a clear answer instead of translating word for word.",
+      "I said, “I'm not feeling well.”",
+      "They understood the situation and asked how things were going now.",
+      "We talked for a few more minutes before class started.",
+      "I left knowing I had described the experience clearly.",
+      "The same phrase came in handy again later."
+    ],
+    "categoryTitle": "Grammar, Collocations, and Literal Translation",
+    "frequencyRank": 4
+  },
+  {
+    "id": "s01-044",
+    "category": "translated",
+    "bad": "I slept late.",
+    "good": "I went to bed late.",
+    "why": "Often means you woke up late.",
+    "tags": [
+      "research"
+    ],
+    "story": [
+      "A friend saw me on campus and asked about my day.",
+      "I told them what had happened earlier in the week.",
+      "I tried to give a clear answer instead of translating word for word.",
+      "I said, “I went to bed late.”",
+      "They understood the situation and asked how things were going now.",
+      "We talked for a few more minutes before class started.",
+      "I left knowing I had described the experience clearly.",
+      "The same phrase came in handy again later."
+    ],
+    "categoryTitle": "Grammar, Collocations, and Literal Translation",
+    "frequencyRank": 4
+  },
+  {
+    "id": "s01-045",
+    "category": "translated",
+    "bad": "I slept at 2.",
+    "good": "I went to bed at 2.",
+    "why": "Non-native phrasing.",
+    "tags": [
+      "research"
+    ],
+    "story": [
+      "A friend saw me on campus and asked about my day.",
+      "I told them what had happened earlier in the week.",
+      "I tried to give a clear answer instead of translating word for word.",
+      "I said, “I went to bed at 2.”",
+      "They understood the situation and asked how things were going now.",
+      "We talked for a few more minutes before class started.",
+      "I left knowing I had described the experience clearly.",
+      "The same phrase came in handy again later."
+    ],
+    "categoryTitle": "Grammar, Collocations, and Literal Translation",
+    "frequencyRank": 4
+  },
+  {
+    "id": "s01-046",
+    "category": "translated",
+    "bad": "I took a rest.",
+    "good": "I rested. / I took a break.",
+    "why": "Understandable but unnatural in American English.",
+    "tags": [
+      "research"
+    ],
+    "story": [
+      "A friend saw me on campus and asked about my day.",
+      "I told them what had happened earlier in the week.",
+      "I tried to give a clear answer instead of translating word for word.",
+      "I said, “I rested.”",
+      "They understood the situation and asked how things were going now.",
+      "We talked for a few more minutes before class started.",
+      "I left knowing I had described the experience clearly.",
+      "The same phrase came in handy again later."
+    ],
+    "categoryTitle": "Grammar, Collocations, and Literal Translation",
+    "frequencyRank": 4
+  },
+  {
+    "id": "s01-047",
+    "category": "translated",
+    "bad": "I went to hospital.",
+    "good": "I went to the hospital.",
+    "why": "American English usually needs the.",
+    "tags": [
+      "research"
+    ],
+    "story": [
+      "A friend saw me on campus and asked about my day.",
+      "I told them what had happened earlier in the week.",
+      "I tried to give a clear answer instead of translating word for word.",
+      "I said, “I went to the hospital.”",
+      "They understood the situation and asked how things were going now.",
+      "We talked for a few more minutes before class started.",
+      "I left knowing I had described the experience clearly.",
+      "The same phrase came in handy again later."
+    ],
+    "categoryTitle": "Grammar, Collocations, and Literal Translation",
+    "frequencyRank": 4
+  },
+  {
+    "id": "s01-048",
+    "category": "translated",
+    "bad": "I went to company.",
+    "good": "I went to work. / I went to the office.",
+    "why": "Non-native phrasing.",
+    "tags": [
+      "research"
+    ],
+    "story": [
+      "A friend saw me on campus and asked about my day.",
+      "I told them what had happened earlier in the week.",
+      "I tried to give a clear answer instead of translating word for word.",
+      "I said, “I went to work.”",
+      "They understood the situation and asked how things were going now.",
+      "We talked for a few more minutes before class started.",
+      "I left knowing I had described the experience clearly.",
+      "The same phrase came in handy again later."
+    ],
+    "categoryTitle": "Grammar, Collocations, and Literal Translation",
+    "frequencyRank": 4
+  },
+  {
+    "id": "s01-049",
+    "category": "translated",
+    "bad": "I came to school.",
+    "good": "I came to campus.",
+    "why": "Can sound like K-12 student language in a PhD context.",
+    "tags": [
+      "research"
+    ],
+    "story": [
+      "A friend saw me on campus and asked about my day.",
+      "I told them what had happened earlier in the week.",
+      "I tried to give a clear answer instead of translating word for word.",
+      "I said, “I came to campus.”",
+      "They understood the situation and asked how things were going now.",
+      "We talked for a few more minutes before class started.",
+      "I left knowing I had described the experience clearly.",
+      "The same phrase came in handy again later."
+    ],
+    "categoryTitle": "Grammar, Collocations, and Literal Translation",
+    "frequencyRank": 4
+  },
+  {
+    "id": "s01-050",
+    "category": "translated",
+    "bad": "I go to lab.",
+    "good": "I go to the lab.",
+    "why": "Missing article.",
+    "tags": [
+      "research"
+    ],
+    "story": [
+      "A friend saw me on campus and asked about my day.",
+      "I told them what had happened earlier in the week.",
+      "I tried to give a clear answer instead of translating word for word.",
+      "I said, “I go to the lab.”",
+      "They understood the situation and asked how things were going now.",
+      "We talked for a few more minutes before class started.",
+      "I left knowing I had described the experience clearly.",
+      "The same phrase came in handy again later."
+    ],
+    "categoryTitle": "Grammar, Collocations, and Literal Translation",
+    "frequencyRank": 4
+  }
+]

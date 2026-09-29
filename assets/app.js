@@ -264,13 +264,22 @@ document.addEventListener('click', event => {
   previousListScroll = window.scrollY;
   try { sessionStorage.setItem(RETURN_ROUTE_STORE, previousListRoute); sessionStorage.setItem(`${RETURN_ROUTE_STORE}-scroll`, String(previousListScroll)); } catch {}
 });
-fetch('./database.json').then(response => {
-  if (!response.ok) throw new Error('Could not load the lesson database.');
-  return response.json();
-}).then(data => {
-  db = data;
+function loadJson(path) {
+  return fetch(path).then(response => {
+    if (!response.ok) throw new Error(`Could not load ${path}.`);
+    return response.json();
+  });
+}
+loadJson('./database.json').then(async manifest => {
+  const [categories, ...lessonGroups] = await Promise.all([
+    loadJson(manifest.categories),
+    ...manifest.lessonFiles.map(item => loadJson(item.file))
+  ]);
+  const lessons = lessonGroups.flat();
+  const originalOrder = new Map(manifest.lessonOrder.map((id,index) => [id,index]));
+  db = { categories, lessons };
   db.lessons.push(...readCustomLessons());
-  db.lessons.sort((a,b) => (a.frequencyRank ?? 5) - (b.frequencyRank ?? 5));
+  db.lessons.sort((a,b) => (a.frequencyRank ?? 5) - (b.frequencyRank ?? 5) || (originalOrder.get(a.id) ?? Number.MAX_SAFE_INTEGER) - (originalOrder.get(b.id) ?? Number.MAX_SAFE_INTEGER));
   render();
 }).catch(() => {
   setPage('<div class="empty-state"><div class="empty-icon">☁</div><h2>Could not load lessons</h2><p>Open this app through a local web server or its GitHub Pages link.</p></div>');

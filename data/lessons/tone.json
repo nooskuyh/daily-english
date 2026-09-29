@@ -1,0 +1,2739 @@
+[
+  {
+    "id": "q16",
+    "category": "tone",
+    "bad": "When is good for you?",
+    "good": "What time works for you?",
+    "why": "“What time works for you?” is the usual conversational way to ask about someone’s availability.",
+    "tags": [
+      "questioning",
+      "planning"
+    ],
+    "story": [
+      "We needed to find a time for a short meeting.",
+      "We were coordinating a small task with a colleague.",
+      "I wanted to ask for the information without sounding demanding.",
+      "I explained briefly why I was asking, then said, “What time works for you?”",
+      "My colleague answered when they had a moment.",
+      "I thanked them and checked that I had understood the details.",
+      "That helped us agree on a practical next step.",
+      "The exchange stayed friendly and clear.",
+      "I used the same phrasing again the next time I needed to ask."
+    ],
+    "categoryTitle": "Natural questions",
+    "frequencyRank": 1
+  },
+  {
+    "id": "q20",
+    "category": "tone",
+    "bad": "Is this okay to you?",
+    "good": "Does this work for you?",
+    "why": "“Does this work for you?” is a natural way to check whether a plan or option is acceptable.",
+    "tags": [
+      "questioning",
+      "planning"
+    ],
+    "story": [
+      "I suggested a meeting time to a collaborator.",
+      "We were coordinating a small task with a colleague.",
+      "I wanted to ask for the information without sounding demanding.",
+      "I explained briefly why I was asking, then said, “Does this work for you?”",
+      "My colleague answered when they had a moment.",
+      "I thanked them and checked that I had understood the details.",
+      "That helped us agree on a practical next step.",
+      "The exchange stayed friendly and clear.",
+      "I used the same phrasing again the next time I needed to ask."
+    ],
+    "categoryTitle": "Natural questions",
+    "frequencyRank": 1
+  },
+  {
+    "id": "q12",
+    "category": "tone",
+    "bad": "Can you help me about this?",
+    "good": "Could you help me with this?",
+    "why": "The usual collocation is “help someone with something.” “Could you” makes the request sound considerate.",
+    "tags": [
+      "questioning",
+      "formal"
+    ],
+    "story": [
+      "I had a question about a figure in a draft.",
+      "We were coordinating a small task with a colleague.",
+      "I wanted to ask for the information without sounding demanding.",
+      "I explained briefly why I was asking, then said, “Could you help me with this?”",
+      "My colleague answered when they had a moment.",
+      "I thanked them and checked that I had understood the details.",
+      "That helped us agree on a practical next step.",
+      "The exchange stayed friendly and clear.",
+      "I used the same phrasing again the next time I needed to ask."
+    ],
+    "categoryTitle": "Natural questions",
+    "frequencyRank": 2
+  },
+  {
+    "id": "q13",
+    "category": "tone",
+    "bad": "Can you explain me this?",
+    "good": "Could you explain this to me?",
+    "why": "“Explain” takes the thing being explained as its object; use “to” before the person.",
+    "tags": [
+      "questioning",
+      "formal"
+    ],
+    "story": [
+      "I was reviewing a new procedure with a labmate.",
+      "We were coordinating a small task with a colleague.",
+      "I wanted to ask for the information without sounding demanding.",
+      "I explained briefly why I was asking, then said, “Could you explain this to me?”",
+      "My colleague answered when they had a moment.",
+      "I thanked them and checked that I had understood the details.",
+      "That helped us agree on a practical next step.",
+      "The exchange stayed friendly and clear.",
+      "I used the same phrasing again the next time I needed to ask."
+    ],
+    "categoryTitle": "Natural questions",
+    "frequencyRank": 2
+  },
+  {
+    "id": "q14",
+    "category": "tone",
+    "bad": "Can you give me an advice?",
+    "good": "Could you give me some advice?",
+    "why": "“Advice” is uncountable, so use “some advice,” not “an advice.” “Could you” softens the request.",
+    "tags": [
+      "questioning",
+      "formal"
+    ],
+    "story": [
+      "I was deciding how to approach a challenging assignment.",
+      "We were coordinating a small task with a colleague.",
+      "I wanted to ask for the information without sounding demanding.",
+      "I explained briefly why I was asking, then said, “Could you give me some advice?”",
+      "My colleague answered when they had a moment.",
+      "I thanked them and checked that I had understood the details.",
+      "That helped us agree on a practical next step.",
+      "The exchange stayed friendly and clear.",
+      "I used the same phrasing again the next time I needed to ask."
+    ],
+    "categoryTitle": "Natural questions",
+    "frequencyRank": 2
+  },
+  {
+    "id": "q15",
+    "category": "tone",
+    "bad": "Can I know your opinion?",
+    "good": "Could I get your opinion on this?",
+    "why": "“Could I get your opinion on…?” is a natural way to invite someone’s view. “Can I know” is understandable but often sounds translated.",
+    "tags": [
+      "questioning",
+      "formal"
+    ],
+    "story": [
+      "I had drafted two possible openings for a presentation.",
+      "We were coordinating a small task with a colleague.",
+      "I wanted to ask for the information without sounding demanding.",
+      "I explained briefly why I was asking, then said, “Could I get your opinion on this?”",
+      "My colleague answered when they had a moment.",
+      "I thanked them and checked that I had understood the details.",
+      "That helped us agree on a practical next step.",
+      "The exchange stayed friendly and clear.",
+      "I used the same phrasing again the next time I needed to ask."
+    ],
+    "categoryTitle": "Natural questions",
+    "frequencyRank": 2
+  },
+  {
+    "id": "q17",
+    "category": "tone",
+    "bad": "Can you tell me what is the deadline?",
+    "good": "Could you tell me what the deadline is?",
+    "why": "In an indirect question after “Could you tell me,” keep statement word order: “what the deadline is.”",
+    "tags": [
+      "questioning",
+      "formal"
+    ],
+    "story": [
+      "I was planning the final steps for a submission.",
+      "We were coordinating a small task with a colleague.",
+      "I wanted to ask for the information without sounding demanding.",
+      "I explained briefly why I was asking, then said, “Could you tell me what the deadline is?”",
+      "My colleague answered when they had a moment.",
+      "I thanked them and checked that I had understood the details.",
+      "That helped us agree on a practical next step.",
+      "The exchange stayed friendly and clear.",
+      "I used the same phrasing again the next time I needed to ask."
+    ],
+    "categoryTitle": "Natural questions",
+    "frequencyRank": 2
+  },
+  {
+    "id": "q18",
+    "category": "tone",
+    "bad": "Could you tell me where is the office?",
+    "good": "Could you tell me where the office is?",
+    "why": "In an indirect question, the subject comes before the verb: “where the office is.”",
+    "tags": [
+      "questioning",
+      "formal"
+    ],
+    "story": [
+      "I was visiting another department for the first time.",
+      "We were coordinating a small task with a colleague.",
+      "I wanted to ask for the information without sounding demanding.",
+      "I explained briefly why I was asking, then said, “Could you tell me where the office is?”",
+      "My colleague answered when they had a moment.",
+      "I thanked them and checked that I had understood the details.",
+      "That helped us agree on a practical next step.",
+      "The exchange stayed friendly and clear.",
+      "I used the same phrasing again the next time I needed to ask."
+    ],
+    "categoryTitle": "Natural questions",
+    "frequencyRank": 2
+  },
+  {
+    "id": "q21",
+    "category": "tone",
+    "bad": "Can you give me more detail about?",
+    "good": "Could you tell me a little more about it?",
+    "why": "“Tell me more about…” needs an object, such as “it” or the topic you mean. “Could you” keeps the request polite.",
+    "tags": [
+      "questioning",
+      "formal"
+    ],
+    "story": [
+      "A colleague mentioned a project I had not heard about.",
+      "We were coordinating a small task with a colleague.",
+      "I wanted to ask for the information without sounding demanding.",
+      "I explained briefly why I was asking, then said, “Could you tell me a little more about it?”",
+      "My colleague answered when they had a moment.",
+      "I thanked them and checked that I had understood the details.",
+      "That helped us agree on a practical next step.",
+      "The exchange stayed friendly and clear.",
+      "I used the same phrasing again the next time I needed to ask."
+    ],
+    "categoryTitle": "Natural questions",
+    "frequencyRank": 2
+  },
+  {
+    "id": "q19",
+    "category": "tone",
+    "bad": "I wonder if you can help me with this.",
+    "good": "I was wondering if you could help me with this.",
+    "why": "The past progressive “I was wondering” is a conventional way to make a polite request. The present version is also grammatical, but can sound more direct.",
+    "tags": [
+      "questioning",
+      "formal"
+    ],
+    "story": [
+      "I needed a colleague’s help checking one part of a report.",
+      "We were coordinating a small task with a colleague.",
+      "I wanted to ask for the information without sounding demanding.",
+      "I explained briefly why I was asking, then said, “I was wondering if you could help me with this.”",
+      "My colleague answered when they had a moment.",
+      "I thanked them and checked that I had understood the details.",
+      "That helped us agree on a practical next step.",
+      "The exchange stayed friendly and clear.",
+      "I used the same phrasing again the next time I needed to ask."
+    ],
+    "categoryTitle": "Natural questions",
+    "frequencyRank": 3
+  },
+  {
+    "id": "q22",
+    "category": "tone",
+    "bad": "Is it possible you can send me the file today?",
+    "good": "Would you be able to send me the file today?",
+    "why": "“Would you be able to…?” is a natural, polite way to ask about someone’s ability or availability.",
+    "tags": [
+      "questioning",
+      "email"
+    ],
+    "story": [
+      "I needed a file to finish preparing for a meeting.",
+      "We were coordinating a small task with a colleague.",
+      "I wanted to ask for the information without sounding demanding.",
+      "I explained briefly why I was asking, then said, “Would you be able to send me the file today?”",
+      "My colleague answered when they had a moment.",
+      "I thanked them and checked that I had understood the details.",
+      "That helped us agree on a practical next step.",
+      "The exchange stayed friendly and clear.",
+      "I used the same phrasing again the next time I needed to ask."
+    ],
+    "categoryTitle": "Natural questions",
+    "frequencyRank": 3
+  },
+  {
+    "id": "q23",
+    "category": "tone",
+    "bad": "Could you explain me how it works?",
+    "good": "Could you explain how it works?",
+    "why": "“Explain” does not take the person directly as its object. In many cases, the clearest version simply asks “Could you explain how it works?”",
+    "tags": [
+      "questioning",
+      "research"
+    ],
+    "story": [
+      "A teammate showed me a tool I had not used before.",
+      "We were coordinating a small task with a colleague.",
+      "I wanted to ask for the information without sounding demanding.",
+      "I explained briefly why I was asking, then said, “Could you explain how it works?”",
+      "My colleague answered when they had a moment.",
+      "I thanked them and checked that I had understood the details.",
+      "That helped us agree on a practical next step.",
+      "The exchange stayed friendly and clear.",
+      "I used the same phrasing again the next time I needed to ask."
+    ],
+    "categoryTitle": "Natural questions",
+    "frequencyRank": 3
+  },
+  {
+    "id": "s03-001",
+    "category": "tone",
+    "bad": "I don't know.",
+    "good": "I'm not sure.",
+    "why": "Can sound abrupt or disengaged.",
+    "tags": [
+      "formal"
+    ],
+    "story": [
+      "A visiting researcher gave a short talk about a new project.",
+      "I followed most of the explanation, but one detail was unfamiliar.",
+      "When the speaker paused, I asked about the point I had missed.",
+      "I said, “I'm not sure.”",
+      "The speaker explained it another way and checked that the example helped.",
+      "I asked one follow-up question to make sure I had understood.",
+      "Afterward, I could describe the main idea to a classmate.",
+      "The exchange reminded me that a clear question can keep a conversation moving."
+    ],
+    "categoryTitle": "Listening, Clarification, and Checking Understanding",
+    "frequencyRank": 4
+  },
+  {
+    "id": "s03-002",
+    "category": "tone",
+    "bad": "I don't know well.",
+    "good": "I'm not very familiar with that.",
+    "why": "Non-native phrasing.",
+    "tags": [
+      "formal"
+    ],
+    "story": [
+      "A visiting researcher gave a short talk about a new project.",
+      "I followed most of the explanation, but one detail was unfamiliar.",
+      "When the speaker paused, I asked about the point I had missed.",
+      "I said, “I'm not very familiar with that.”",
+      "The speaker explained it another way and checked that the example helped.",
+      "I asked one follow-up question to make sure I had understood.",
+      "Afterward, I could describe the main idea to a classmate.",
+      "The exchange reminded me that a clear question can keep a conversation moving."
+    ],
+    "categoryTitle": "Listening, Clarification, and Checking Understanding",
+    "frequencyRank": 4
+  },
+  {
+    "id": "s03-003",
+    "category": "tone",
+    "bad": "I don't know exactly.",
+    "good": "I'm not entirely sure.",
+    "why": "Slightly unnatural.",
+    "tags": [
+      "formal"
+    ],
+    "story": [
+      "A visiting researcher gave a short talk about a new project.",
+      "I followed most of the explanation, but one detail was unfamiliar.",
+      "When the speaker paused, I asked about the point I had missed.",
+      "I said, “I'm not entirely sure.”",
+      "The speaker explained it another way and checked that the example helped.",
+      "I asked one follow-up question to make sure I had understood.",
+      "Afterward, I could describe the main idea to a classmate.",
+      "The exchange reminded me that a clear question can keep a conversation moving."
+    ],
+    "categoryTitle": "Listening, Clarification, and Checking Understanding",
+    "frequencyRank": 4
+  },
+  {
+    "id": "s03-004",
+    "category": "tone",
+    "bad": "I have no idea.",
+    "good": "I'm not sure yet.",
+    "why": "Much stronger than Korean speakers sometimes intend.",
+    "tags": [
+      "formal"
+    ],
+    "story": [
+      "A visiting researcher gave a short talk about a new project.",
+      "I followed most of the explanation, but one detail was unfamiliar.",
+      "When the speaker paused, I asked about the point I had missed.",
+      "I said, “I'm not sure yet.”",
+      "The speaker explained it another way and checked that the example helped.",
+      "I asked one follow-up question to make sure I had understood.",
+      "Afterward, I could describe the main idea to a classmate.",
+      "The exchange reminded me that a clear question can keep a conversation moving."
+    ],
+    "categoryTitle": "Listening, Clarification, and Checking Understanding",
+    "frequencyRank": 4
+  },
+  {
+    "id": "s03-005",
+    "category": "tone",
+    "bad": "I don't understand.",
+    "good": "I'm not sure I follow.",
+    "why": "Natural, but can sound abrupt in academic discussion.",
+    "tags": [
+      "presentation"
+    ],
+    "story": [
+      "A visiting researcher gave a short talk about a new project.",
+      "I followed most of the explanation, but one detail was unfamiliar.",
+      "When the speaker paused, I asked about the point I had missed.",
+      "I said, “I'm not sure I follow.”",
+      "The speaker explained it another way and checked that the example helped.",
+      "I asked one follow-up question to make sure I had understood.",
+      "Afterward, I could describe the main idea to a classmate.",
+      "The exchange reminded me that a clear question can keep a conversation moving."
+    ],
+    "categoryTitle": "Listening, Clarification, and Checking Understanding",
+    "frequencyRank": 4
+  },
+  {
+    "id": "s03-006",
+    "category": "tone",
+    "bad": "I cannot catch you.",
+    "good": "I didn't catch that.",
+    "why": "Non-native.",
+    "tags": [
+      "formal"
+    ],
+    "story": [
+      "A visiting researcher gave a short talk about a new project.",
+      "I followed most of the explanation, but one detail was unfamiliar.",
+      "When the speaker paused, I asked about the point I had missed.",
+      "I said, “I didn't catch that.”",
+      "The speaker explained it another way and checked that the example helped.",
+      "I asked one follow-up question to make sure I had understood.",
+      "Afterward, I could describe the main idea to a classmate.",
+      "The exchange reminded me that a clear question can keep a conversation moving."
+    ],
+    "categoryTitle": "Listening, Clarification, and Checking Understanding",
+    "frequencyRank": 4
+  },
+  {
+    "id": "s03-007",
+    "category": "tone",
+    "bad": "Say again.",
+    "good": "Could you say that again?",
+    "why": "Sounds like a command.",
+    "tags": [
+      "formal"
+    ],
+    "story": [
+      "A visiting researcher gave a short talk about a new project.",
+      "I followed most of the explanation, but one detail was unfamiliar.",
+      "When the speaker paused, I asked about the point I had missed.",
+      "I said, “Could you say that again?”",
+      "The speaker explained it another way and checked that the example helped.",
+      "I asked one follow-up question to make sure I had understood.",
+      "Afterward, I could describe the main idea to a classmate.",
+      "The exchange reminded me that a clear question can keep a conversation moving."
+    ],
+    "categoryTitle": "Listening, Clarification, and Checking Understanding",
+    "frequencyRank": 4
+  },
+  {
+    "id": "s03-008",
+    "category": "tone",
+    "bad": "One more time, please.",
+    "good": "Could you repeat that?",
+    "why": "Understandable but classroom-like.",
+    "tags": [
+      "casual"
+    ],
+    "story": [
+      "A visiting researcher gave a short talk about a new project.",
+      "I followed most of the explanation, but one detail was unfamiliar.",
+      "When the speaker paused, I asked about the point I had missed.",
+      "I said, “Could you repeat that?”",
+      "The speaker explained it another way and checked that the example helped.",
+      "I asked one follow-up question to make sure I had understood.",
+      "Afterward, I could describe the main idea to a classmate.",
+      "The exchange reminded me that a clear question can keep a conversation moving."
+    ],
+    "categoryTitle": "Listening, Clarification, and Checking Understanding",
+    "frequencyRank": 4
+  },
+  {
+    "id": "s03-009",
+    "category": "tone",
+    "bad": "Speak slowly, please.",
+    "good": "Could you slow down a little?",
+    "why": "Sounds directive.",
+    "tags": [
+      "formal"
+    ],
+    "story": [
+      "A visiting researcher gave a short talk about a new project.",
+      "I followed most of the explanation, but one detail was unfamiliar.",
+      "When the speaker paused, I asked about the point I had missed.",
+      "I said, “Could you slow down a little?”",
+      "The speaker explained it another way and checked that the example helped.",
+      "I asked one follow-up question to make sure I had understood.",
+      "Afterward, I could describe the main idea to a classmate.",
+      "The exchange reminded me that a clear question can keep a conversation moving."
+    ],
+    "categoryTitle": "Listening, Clarification, and Checking Understanding",
+    "frequencyRank": 4
+  },
+  {
+    "id": "s03-010",
+    "category": "tone",
+    "bad": "Your English is too fast.",
+    "good": "I'm having a little trouble keeping up.",
+    "why": "Places the problem on the other speaker.",
+    "tags": [
+      "formal"
+    ],
+    "story": [
+      "A visiting researcher gave a short talk about a new project.",
+      "I followed most of the explanation, but one detail was unfamiliar.",
+      "When the speaker paused, I asked about the point I had missed.",
+      "I said, “I'm having a little trouble keeping up.”",
+      "The speaker explained it another way and checked that the example helped.",
+      "I asked one follow-up question to make sure I had understood.",
+      "Afterward, I could describe the main idea to a classmate.",
+      "The exchange reminded me that a clear question can keep a conversation moving."
+    ],
+    "categoryTitle": "Listening, Clarification, and Checking Understanding",
+    "frequencyRank": 4
+  },
+  {
+    "id": "s03-011",
+    "category": "tone",
+    "bad": "What do you mean?",
+    "good": "Could you clarify what you mean by that?",
+    "why": "Natural but can sound confrontational depending on tone.",
+    "tags": [
+      "formal"
+    ],
+    "story": [
+      "A visiting researcher gave a short talk about a new project.",
+      "I followed most of the explanation, but one detail was unfamiliar.",
+      "When the speaker paused, I asked about the point I had missed.",
+      "I said, “Could you clarify what you mean by that?”",
+      "The speaker explained it another way and checked that the example helped.",
+      "I asked one follow-up question to make sure I had understood.",
+      "Afterward, I could describe the main idea to a classmate.",
+      "The exchange reminded me that a clear question can keep a conversation moving."
+    ],
+    "categoryTitle": "Listening, Clarification, and Checking Understanding",
+    "frequencyRank": 4
+  },
+  {
+    "id": "s03-012",
+    "category": "tone",
+    "bad": "Explain more.",
+    "good": "Could you elaborate on that?",
+    "why": "Too direct.",
+    "tags": [
+      "research",
+      "presentation"
+    ],
+    "story": [
+      "A visiting researcher gave a short talk about a new project.",
+      "I followed most of the explanation, but one detail was unfamiliar.",
+      "When the speaker paused, I asked about the point I had missed.",
+      "I said, “Could you elaborate on that?”",
+      "The speaker explained it another way and checked that the example helped.",
+      "I asked one follow-up question to make sure I had understood.",
+      "Afterward, I could describe the main idea to a classmate.",
+      "The exchange reminded me that a clear question can keep a conversation moving."
+    ],
+    "categoryTitle": "Listening, Clarification, and Checking Understanding",
+    "frequencyRank": 4
+  },
+  {
+    "id": "s03-013",
+    "category": "tone",
+    "bad": "Can you explain this?",
+    "good": "Could you walk me through this?",
+    "why": "Can sound like testing the person.",
+    "tags": [
+      "presentation"
+    ],
+    "story": [
+      "A visiting researcher gave a short talk about a new project.",
+      "I followed most of the explanation, but one detail was unfamiliar.",
+      "When the speaker paused, I asked about the point I had missed.",
+      "I said, “Could you walk me through this?”",
+      "The speaker explained it another way and checked that the example helped.",
+      "I asked one follow-up question to make sure I had understood.",
+      "Afterward, I could describe the main idea to a classmate.",
+      "The exchange reminded me that a clear question can keep a conversation moving."
+    ],
+    "categoryTitle": "Listening, Clarification, and Checking Understanding",
+    "frequencyRank": 4
+  },
+  {
+    "id": "s03-014",
+    "category": "tone",
+    "bad": "Do you understand?",
+    "good": "Does that make sense?",
+    "why": "Sounds teacher-to-student.",
+    "tags": [
+      "formal"
+    ],
+    "story": [
+      "A visiting researcher gave a short talk about a new project.",
+      "I followed most of the explanation, but one detail was unfamiliar.",
+      "When the speaker paused, I asked about the point I had missed.",
+      "I said, “Does that make sense?”",
+      "The speaker explained it another way and checked that the example helped.",
+      "I asked one follow-up question to make sure I had understood.",
+      "Afterward, I could describe the main idea to a classmate.",
+      "The exchange reminded me that a clear question can keep a conversation moving."
+    ],
+    "categoryTitle": "Listening, Clarification, and Checking Understanding",
+    "frequencyRank": 4
+  },
+  {
+    "id": "s03-015",
+    "category": "tone",
+    "bad": "Understand?",
+    "good": "Does that make sense?",
+    "why": "Very commanding.",
+    "tags": [
+      "formal"
+    ],
+    "story": [
+      "A visiting researcher gave a short talk about a new project.",
+      "I followed most of the explanation, but one detail was unfamiliar.",
+      "When the speaker paused, I asked about the point I had missed.",
+      "I said, “Does that make sense?”",
+      "The speaker explained it another way and checked that the example helped.",
+      "I asked one follow-up question to make sure I had understood.",
+      "Afterward, I could describe the main idea to a classmate.",
+      "The exchange reminded me that a clear question can keep a conversation moving."
+    ],
+    "categoryTitle": "Listening, Clarification, and Checking Understanding",
+    "frequencyRank": 4
+  },
+  {
+    "id": "s03-016",
+    "category": "tone",
+    "bad": "You don't know this benchmark?",
+    "good": "Have you come across this benchmark before?",
+    "why": "Can sound condescending.",
+    "tags": [
+      "research"
+    ],
+    "story": [
+      "A visiting researcher gave a short talk about a new project.",
+      "I followed most of the explanation, but one detail was unfamiliar.",
+      "When the speaker paused, I asked about the point I had missed.",
+      "I said, “Have you come across this benchmark before?”",
+      "The speaker explained it another way and checked that the example helped.",
+      "I asked one follow-up question to make sure I had understood.",
+      "Afterward, I could describe the main idea to a classmate.",
+      "The exchange reminded me that a clear question can keep a conversation moving."
+    ],
+    "categoryTitle": "Listening, Clarification, and Checking Understanding",
+    "frequencyRank": 4
+  },
+  {
+    "id": "s03-017",
+    "category": "tone",
+    "bad": "Do you know this paper?",
+    "good": "Are you familiar with this paper?",
+    "why": "Understandable but slightly less natural.",
+    "tags": [
+      "research"
+    ],
+    "story": [
+      "A visiting researcher gave a short talk about a new project.",
+      "I followed most of the explanation, but one detail was unfamiliar.",
+      "When the speaker paused, I asked about the point I had missed.",
+      "I said, “Are you familiar with this paper?”",
+      "The speaker explained it another way and checked that the example helped.",
+      "I asked one follow-up question to make sure I had understood.",
+      "Afterward, I could describe the main idea to a classmate.",
+      "The exchange reminded me that a clear question can keep a conversation moving."
+    ],
+    "categoryTitle": "Listening, Clarification, and Checking Understanding",
+    "frequencyRank": 4
+  },
+  {
+    "id": "s03-018",
+    "category": "tone",
+    "bad": "I expected you know.",
+    "good": "I thought you might know.",
+    "why": "Incorrect and confrontational.",
+    "tags": [
+      "formal"
+    ],
+    "story": [
+      "A visiting researcher gave a short talk about a new project.",
+      "I followed most of the explanation, but one detail was unfamiliar.",
+      "When the speaker paused, I asked about the point I had missed.",
+      "I said, “I thought you might know.”",
+      "The speaker explained it another way and checked that the example helped.",
+      "I asked one follow-up question to make sure I had understood.",
+      "Afterward, I could describe the main idea to a classmate.",
+      "The exchange reminded me that a clear question can keep a conversation moving."
+    ],
+    "categoryTitle": "Listening, Clarification, and Checking Understanding",
+    "frequencyRank": 4
+  },
+  {
+    "id": "s03-019",
+    "category": "tone",
+    "bad": "You should know.",
+    "good": "I thought this might be relevant to your work.",
+    "why": "Sounds accusatory.",
+    "tags": [
+      "formal"
+    ],
+    "story": [
+      "A visiting researcher gave a short talk about a new project.",
+      "I followed most of the explanation, but one detail was unfamiliar.",
+      "When the speaker paused, I asked about the point I had missed.",
+      "I said, “I thought this might be relevant to your work.”",
+      "The speaker explained it another way and checked that the example helped.",
+      "I asked one follow-up question to make sure I had understood.",
+      "Afterward, I could describe the main idea to a classmate.",
+      "The exchange reminded me that a clear question can keep a conversation moving."
+    ],
+    "categoryTitle": "Listening, Clarification, and Checking Understanding",
+    "frequencyRank": 4
+  },
+  {
+    "id": "s03-020",
+    "category": "tone",
+    "bad": "I disagree.",
+    "good": "I'm not sure I agree with that.",
+    "why": "Natural, but can sound abrupt in some academic settings.",
+    "tags": [
+      "formal"
+    ],
+    "story": [
+      "A visiting researcher gave a short talk about a new project.",
+      "I followed most of the explanation, but one detail was unfamiliar.",
+      "When the speaker paused, I asked about the point I had missed.",
+      "I said, “I'm not sure I agree with that.”",
+      "The speaker explained it another way and checked that the example helped.",
+      "I asked one follow-up question to make sure I had understood.",
+      "Afterward, I could describe the main idea to a classmate.",
+      "The exchange reminded me that a clear question can keep a conversation moving."
+    ],
+    "categoryTitle": "Listening, Clarification, and Checking Understanding",
+    "frequencyRank": 4
+  },
+  {
+    "id": "s03-021",
+    "category": "tone",
+    "bad": "You are wrong.",
+    "good": "I don't think that's correct.",
+    "why": "Targets the person directly.",
+    "tags": [
+      "formal"
+    ],
+    "story": [
+      "A visiting researcher gave a short talk about a new project.",
+      "I followed most of the explanation, but one detail was unfamiliar.",
+      "When the speaker paused, I asked about the point I had missed.",
+      "I said, “I don't think that's correct.”",
+      "The speaker explained it another way and checked that the example helped.",
+      "I asked one follow-up question to make sure I had understood.",
+      "Afterward, I could describe the main idea to a classmate.",
+      "The exchange reminded me that a clear question can keep a conversation moving."
+    ],
+    "categoryTitle": "Listening, Clarification, and Checking Understanding",
+    "frequencyRank": 4
+  },
+  {
+    "id": "s04-001",
+    "category": "tone",
+    "bad": "That's wrong.",
+    "good": "I don't think that's quite right.",
+    "why": "Strong rejection.",
+    "tags": [
+      "formal"
+    ],
+    "story": [
+      "Our reading group was discussing a paper after lunch.",
+      "One claim seemed to need more support, so I looked back at the evidence.",
+      "I wanted to raise the concern while keeping the discussion focused on the argument.",
+      "I said, “I don't think that's quite right.”",
+      "The author of the presentation explained how they had read that section.",
+      "We compared the interpretation with the results shown in the paper.",
+      "The group found a more precise way to describe the limitation.",
+      "We finished the discussion with a question to investigate next."
+    ],
+    "categoryTitle": "Disagreement, Criticism, and Research Discussion",
+    "frequencyRank": 4
+  },
+  {
+    "id": "s04-002",
+    "category": "tone",
+    "bad": "That's not true.",
+    "good": "I'm not sure that's accurate.",
+    "why": "Can sound confrontational.",
+    "tags": [
+      "formal"
+    ],
+    "story": [
+      "Our reading group was discussing a paper after lunch.",
+      "One claim seemed to need more support, so I looked back at the evidence.",
+      "I wanted to raise the concern while keeping the discussion focused on the argument.",
+      "I said, “I'm not sure that's accurate.”",
+      "The author of the presentation explained how they had read that section.",
+      "We compared the interpretation with the results shown in the paper.",
+      "The group found a more precise way to describe the limitation.",
+      "We finished the discussion with a question to investigate next."
+    ],
+    "categoryTitle": "Disagreement, Criticism, and Research Discussion",
+    "frequencyRank": 4
+  },
+  {
+    "id": "s04-003",
+    "category": "tone",
+    "bad": "I don't agree with you.",
+    "good": "I don't agree with that interpretation.",
+    "why": "Sounds like opposition to the person.",
+    "tags": [
+      "formal"
+    ],
+    "story": [
+      "Our reading group was discussing a paper after lunch.",
+      "One claim seemed to need more support, so I looked back at the evidence.",
+      "I wanted to raise the concern while keeping the discussion focused on the argument.",
+      "I said, “I don't agree with that interpretation.”",
+      "The author of the presentation explained how they had read that section.",
+      "We compared the interpretation with the results shown in the paper.",
+      "The group found a more precise way to describe the limitation.",
+      "We finished the discussion with a question to investigate next."
+    ],
+    "categoryTitle": "Disagreement, Criticism, and Research Discussion",
+    "frequencyRank": 4
+  },
+  {
+    "id": "s04-004",
+    "category": "tone",
+    "bad": "Your idea has a problem because it assumes access to labeled data.",
+    "good": "One concern I have is that the idea assumes access to labeled data.",
+    "why": "Sounds personally critical.",
+    "tags": [
+      "research"
+    ],
+    "story": [
+      "Our reading group was discussing a paper after lunch.",
+      "One claim seemed to need more support, so I looked back at the evidence.",
+      "I wanted to raise the concern while keeping the discussion focused on the argument.",
+      "I said, “One concern I have is that the idea assumes access to labeled data.”",
+      "The author of the presentation explained how they had read that section.",
+      "We compared the interpretation with the results shown in the paper.",
+      "The group found a more precise way to describe the limitation.",
+      "We finished the discussion with a question to investigate next."
+    ],
+    "categoryTitle": "Disagreement, Criticism, and Research Discussion",
+    "frequencyRank": 4
+  },
+  {
+    "id": "s04-005",
+    "category": "tone",
+    "bad": "This method has many problems.",
+    "good": "There are a few limitations we should consider.",
+    "why": "Too broad and negative.",
+    "tags": [
+      "formal"
+    ],
+    "story": [
+      "Our reading group was discussing a paper after lunch.",
+      "One claim seemed to need more support, so I looked back at the evidence.",
+      "I wanted to raise the concern while keeping the discussion focused on the argument.",
+      "I said, “There are a few limitations we should consider.”",
+      "The author of the presentation explained how they had read that section.",
+      "We compared the interpretation with the results shown in the paper.",
+      "The group found a more precise way to describe the limitation.",
+      "We finished the discussion with a question to investigate next."
+    ],
+    "categoryTitle": "Disagreement, Criticism, and Research Discussion",
+    "frequencyRank": 4
+  },
+  {
+    "id": "s04-006",
+    "category": "tone",
+    "bad": "Your logic is strange.",
+    "good": "I'm not sure the argument follows from that assumption.",
+    "why": "Sounds insulting.",
+    "tags": [
+      "formal"
+    ],
+    "story": [
+      "Our reading group was discussing a paper after lunch.",
+      "One claim seemed to need more support, so I looked back at the evidence.",
+      "I wanted to raise the concern while keeping the discussion focused on the argument.",
+      "I said, “I'm not sure the argument follows from that assumption.”",
+      "The author of the presentation explained how they had read that section.",
+      "We compared the interpretation with the results shown in the paper.",
+      "The group found a more precise way to describe the limitation.",
+      "We finished the discussion with a question to investigate next."
+    ],
+    "categoryTitle": "Disagreement, Criticism, and Research Discussion",
+    "frequencyRank": 4
+  },
+  {
+    "id": "s04-007",
+    "category": "tone",
+    "bad": "That doesn't make sense because the assumption doesn't imply the conclusion.",
+    "good": "I'm not sure I see how that assumption leads to the conclusion.",
+    "why": "Natural but can sound harsh.",
+    "tags": [
+      "formal"
+    ],
+    "story": [
+      "Our reading group was discussing a paper after lunch.",
+      "One claim seemed to need more support, so I looked back at the evidence.",
+      "I wanted to raise the concern while keeping the discussion focused on the argument.",
+      "I said, “I'm not sure I see how that assumption leads to the conclusion.”",
+      "The author of the presentation explained how they had read that section.",
+      "We compared the interpretation with the results shown in the paper.",
+      "The group found a more precise way to describe the limitation.",
+      "We finished the discussion with a question to investigate next."
+    ],
+    "categoryTitle": "Disagreement, Criticism, and Research Discussion",
+    "frequencyRank": 4
+  },
+  {
+    "id": "s04-008",
+    "category": "tone",
+    "bad": "It's nonsense.",
+    "good": "I don't think the evidence supports that conclusion.",
+    "why": "Very aggressive.",
+    "tags": [
+      "formal"
+    ],
+    "story": [
+      "Our reading group was discussing a paper after lunch.",
+      "One claim seemed to need more support, so I looked back at the evidence.",
+      "I wanted to raise the concern while keeping the discussion focused on the argument.",
+      "I said, “I don't think the evidence supports that conclusion.”",
+      "The author of the presentation explained how they had read that section.",
+      "We compared the interpretation with the results shown in the paper.",
+      "The group found a more precise way to describe the limitation.",
+      "We finished the discussion with a question to investigate next."
+    ],
+    "categoryTitle": "Disagreement, Criticism, and Research Discussion",
+    "frequencyRank": 4
+  },
+  {
+    "id": "s04-009",
+    "category": "tone",
+    "bad": "Why did you do that?",
+    "good": "What led you to choose that approach?",
+    "why": "Can sound accusatory.",
+    "tags": [
+      "formal"
+    ],
+    "story": [
+      "Our reading group was discussing a paper after lunch.",
+      "One claim seemed to need more support, so I looked back at the evidence.",
+      "I wanted to raise the concern while keeping the discussion focused on the argument.",
+      "I said, “What led you to choose that approach?”",
+      "The author of the presentation explained how they had read that section.",
+      "We compared the interpretation with the results shown in the paper.",
+      "The group found a more precise way to describe the limitation.",
+      "We finished the discussion with a question to investigate next."
+    ],
+    "categoryTitle": "Disagreement, Criticism, and Research Discussion",
+    "frequencyRank": 4
+  },
+  {
+    "id": "s04-010",
+    "category": "tone",
+    "bad": "Why didn't you use the stronger baseline?",
+    "good": "Was there a reason you decided not to use the stronger baseline?",
+    "why": "Can sound like blame.",
+    "tags": [
+      "research"
+    ],
+    "story": [
+      "Our reading group was discussing a paper after lunch.",
+      "One claim seemed to need more support, so I looked back at the evidence.",
+      "I wanted to raise the concern while keeping the discussion focused on the argument.",
+      "I said, “Was there a reason you decided not to use the stronger baseline?”",
+      "The author of the presentation explained how they had read that section.",
+      "We compared the interpretation with the results shown in the paper.",
+      "The group found a more precise way to describe the limitation.",
+      "We finished the discussion with a question to investigate next."
+    ],
+    "categoryTitle": "Disagreement, Criticism, and Research Discussion",
+    "frequencyRank": 4
+  },
+  {
+    "id": "s04-011",
+    "category": "tone",
+    "bad": "Why is this like this?",
+    "good": "Why does this behave this way?",
+    "why": "Non-native and vague.",
+    "tags": [
+      "formal"
+    ],
+    "story": [
+      "Our reading group was discussing a paper after lunch.",
+      "One claim seemed to need more support, so I looked back at the evidence.",
+      "I wanted to raise the concern while keeping the discussion focused on the argument.",
+      "I said, “Why does this behave this way?”",
+      "The author of the presentation explained how they had read that section.",
+      "We compared the interpretation with the results shown in the paper.",
+      "The group found a more precise way to describe the limitation.",
+      "We finished the discussion with a question to investigate next."
+    ],
+    "categoryTitle": "Disagreement, Criticism, and Research Discussion",
+    "frequencyRank": 4
+  },
+  {
+    "id": "s04-012",
+    "category": "tone",
+    "bad": "What is the reason?",
+    "good": "Why is that? / What's driving this?",
+    "why": "Grammatically fine but formal and stiff.",
+    "tags": [
+      "formal"
+    ],
+    "story": [
+      "Our reading group was discussing a paper after lunch.",
+      "One claim seemed to need more support, so I looked back at the evidence.",
+      "I wanted to raise the concern while keeping the discussion focused on the argument.",
+      "I said, “Why is that?”",
+      "The author of the presentation explained how they had read that section.",
+      "We compared the interpretation with the results shown in the paper.",
+      "The group found a more precise way to describe the limitation.",
+      "We finished the discussion with a question to investigate next."
+    ],
+    "categoryTitle": "Disagreement, Criticism, and Research Discussion",
+    "frequencyRank": 4
+  },
+  {
+    "id": "s04-013",
+    "category": "tone",
+    "bad": "How about this problem?",
+    "good": "How should we handle this issue?",
+    "why": "Too vague.",
+    "tags": [
+      "formal"
+    ],
+    "story": [
+      "Our reading group was discussing a paper after lunch.",
+      "One claim seemed to need more support, so I looked back at the evidence.",
+      "I wanted to raise the concern while keeping the discussion focused on the argument.",
+      "I said, “How should we handle this issue?”",
+      "The author of the presentation explained how they had read that section.",
+      "We compared the interpretation with the results shown in the paper.",
+      "The group found a more precise way to describe the limitation.",
+      "We finished the discussion with a question to investigate next."
+    ],
+    "categoryTitle": "Disagreement, Criticism, and Research Discussion",
+    "frequencyRank": 4
+  },
+  {
+    "id": "s04-014",
+    "category": "tone",
+    "bad": "You misunderstood me.",
+    "good": "I don't think I explained that clearly.",
+    "why": "Places responsibility on the listener.",
+    "tags": [
+      "presentation"
+    ],
+    "story": [
+      "Our reading group was discussing a paper after lunch.",
+      "One claim seemed to need more support, so I looked back at the evidence.",
+      "I wanted to raise the concern while keeping the discussion focused on the argument.",
+      "I said, “I don't think I explained that clearly.”",
+      "The author of the presentation explained how they had read that section.",
+      "We compared the interpretation with the results shown in the paper.",
+      "The group found a more precise way to describe the limitation.",
+      "We finished the discussion with a question to investigate next."
+    ],
+    "categoryTitle": "Disagreement, Criticism, and Research Discussion",
+    "frequencyRank": 4
+  },
+  {
+    "id": "s04-015",
+    "category": "tone",
+    "bad": "You didn't understand my point.",
+    "good": "I don't think my point came across clearly.",
+    "why": "Sounds blaming.",
+    "tags": [
+      "formal"
+    ],
+    "story": [
+      "Our reading group was discussing a paper after lunch.",
+      "One claim seemed to need more support, so I looked back at the evidence.",
+      "I wanted to raise the concern while keeping the discussion focused on the argument.",
+      "I said, “I don't think my point came across clearly.”",
+      "The author of the presentation explained how they had read that section.",
+      "We compared the interpretation with the results shown in the paper.",
+      "The group found a more precise way to describe the limitation.",
+      "We finished the discussion with a question to investigate next."
+    ],
+    "categoryTitle": "Disagreement, Criticism, and Research Discussion",
+    "frequencyRank": 4
+  },
+  {
+    "id": "s04-016",
+    "category": "tone",
+    "bad": "You didn't listen.",
+    "good": "I may not have made that clear earlier.",
+    "why": "Direct blame.",
+    "tags": [
+      "formal"
+    ],
+    "story": [
+      "Our reading group was discussing a paper after lunch.",
+      "One claim seemed to need more support, so I looked back at the evidence.",
+      "I wanted to raise the concern while keeping the discussion focused on the argument.",
+      "I said, “I may not have made that clear earlier.”",
+      "The author of the presentation explained how they had read that section.",
+      "We compared the interpretation with the results shown in the paper.",
+      "The group found a more precise way to describe the limitation.",
+      "We finished the discussion with a question to investigate next."
+    ],
+    "categoryTitle": "Disagreement, Criticism, and Research Discussion",
+    "frequencyRank": 4
+  },
+  {
+    "id": "s04-017",
+    "category": "tone",
+    "bad": "That's not what I mean.",
+    "good": "Let me rephrase that.",
+    "why": "Can sound defensive.",
+    "tags": [
+      "formal"
+    ],
+    "story": [
+      "Our reading group was discussing a paper after lunch.",
+      "One claim seemed to need more support, so I looked back at the evidence.",
+      "I wanted to raise the concern while keeping the discussion focused on the argument.",
+      "I said, “Let me rephrase that.”",
+      "The author of the presentation explained how they had read that section.",
+      "We compared the interpretation with the results shown in the paper.",
+      "The group found a more precise way to describe the limitation.",
+      "We finished the discussion with a question to investigate next."
+    ],
+    "categoryTitle": "Disagreement, Criticism, and Research Discussion",
+    "frequencyRank": 4
+  },
+  {
+    "id": "s04-018",
+    "category": "tone",
+    "bad": "That's what I said.",
+    "good": "Right—that's the point I was trying to make.",
+    "why": "Can sound irritated.",
+    "tags": [
+      "formal"
+    ],
+    "story": [
+      "Our reading group was discussing a paper after lunch.",
+      "One claim seemed to need more support, so I looked back at the evidence.",
+      "I wanted to raise the concern while keeping the discussion focused on the argument.",
+      "I said, “Right—that's the point I was trying to make.”",
+      "The author of the presentation explained how they had read that section.",
+      "We compared the interpretation with the results shown in the paper.",
+      "The group found a more precise way to describe the limitation.",
+      "We finished the discussion with a question to investigate next."
+    ],
+    "categoryTitle": "Disagreement, Criticism, and Research Discussion",
+    "frequencyRank": 4
+  },
+  {
+    "id": "s04-019",
+    "category": "tone",
+    "bad": "I told you.",
+    "good": "That's what I was concerned about earlier.",
+    "why": "Often sounds like “I warned you.”",
+    "tags": [
+      "formal"
+    ],
+    "story": [
+      "Our reading group was discussing a paper after lunch.",
+      "One claim seemed to need more support, so I looked back at the evidence.",
+      "I wanted to raise the concern while keeping the discussion focused on the argument.",
+      "I said, “That's what I was concerned about earlier.”",
+      "The author of the presentation explained how they had read that section.",
+      "We compared the interpretation with the results shown in the paper.",
+      "The group found a more precise way to describe the limitation.",
+      "We finished the discussion with a question to investigate next."
+    ],
+    "categoryTitle": "Disagreement, Criticism, and Research Discussion",
+    "frequencyRank": 4
+  },
+  {
+    "id": "s04-020",
+    "category": "tone",
+    "bad": "Like I said, the main issue is memory usage.",
+    "good": "As I mentioned earlier, the main issue is memory usage.",
+    "why": "Natural, but can sound annoyed.",
+    "tags": [
+      "formal"
+    ],
+    "story": [
+      "Our reading group was discussing a paper after lunch.",
+      "One claim seemed to need more support, so I looked back at the evidence.",
+      "I wanted to raise the concern while keeping the discussion focused on the argument.",
+      "I said, “As I mentioned earlier, the main issue is memory usage.”",
+      "The author of the presentation explained how they had read that section.",
+      "We compared the interpretation with the results shown in the paper.",
+      "The group found a more precise way to describe the limitation.",
+      "We finished the discussion with a question to investigate next."
+    ],
+    "categoryTitle": "Disagreement, Criticism, and Research Discussion",
+    "frequencyRank": 4
+  },
+  {
+    "id": "s04-021",
+    "category": "tone",
+    "bad": "But I think the comparison is still unfair.",
+    "good": "I see your point. My concern is that the comparison may still be unfair.",
+    "why": "Repeatedly starting answers with but sounds adversarial.",
+    "tags": [
+      "casual"
+    ],
+    "story": [
+      "Our reading group was discussing a paper after lunch.",
+      "One claim seemed to need more support, so I looked back at the evidence.",
+      "I wanted to raise the concern while keeping the discussion focused on the argument.",
+      "I said, “I see your point. My concern is that the comparison may still be unfair.”",
+      "The author of the presentation explained how they had read that section.",
+      "We compared the interpretation with the results shown in the paper.",
+      "The group found a more precise way to describe the limitation.",
+      "We finished the discussion with a question to investigate next."
+    ],
+    "categoryTitle": "Disagreement, Criticism, and Research Discussion",
+    "frequencyRank": 4
+  },
+  {
+    "id": "s04-022",
+    "category": "tone",
+    "bad": "Yes, but your baseline uses more training data.",
+    "good": "I agree that the baseline is strong. My concern is that it uses more training data.",
+    "why": "Usually feels like rejection.",
+    "tags": [
+      "research"
+    ],
+    "story": [
+      "Our reading group was discussing a paper after lunch.",
+      "One claim seemed to need more support, so I looked back at the evidence.",
+      "I wanted to raise the concern while keeping the discussion focused on the argument.",
+      "I said, “I agree that the baseline is strong. My concern is that it uses more training data.”",
+      "The author of the presentation explained how they had read that section.",
+      "We compared the interpretation with the results shown in the paper.",
+      "The group found a more precise way to describe the limitation.",
+      "We finished the discussion with a question to investigate next."
+    ],
+    "categoryTitle": "Disagreement, Criticism, and Research Discussion",
+    "frequencyRank": 4
+  },
+  {
+    "id": "s04-023",
+    "category": "tone",
+    "bad": "No, actually, the model was trained for ten epochs.",
+    "good": "I think it's slightly different—the model was trained for ten epochs.",
+    "why": "Strong correction.",
+    "tags": [
+      "research"
+    ],
+    "story": [
+      "Our reading group was discussing a paper after lunch.",
+      "One claim seemed to need more support, so I looked back at the evidence.",
+      "I wanted to raise the concern while keeping the discussion focused on the argument.",
+      "I said, “I think it's slightly different—the model was trained for ten epochs.”",
+      "The author of the presentation explained how they had read that section.",
+      "We compared the interpretation with the results shown in the paper.",
+      "The group found a more precise way to describe the limitation.",
+      "We finished the discussion with a question to investigate next."
+    ],
+    "categoryTitle": "Disagreement, Criticism, and Research Discussion",
+    "frequencyRank": 4
+  },
+  {
+    "id": "s04-024",
+    "category": "tone",
+    "bad": "Actually, this number is wrong.",
+    "good": "I think this number may be incorrect.",
+    "why": "Overuse can make you sound constantly corrective.",
+    "tags": [
+      "formal"
+    ],
+    "story": [
+      "Our reading group was discussing a paper after lunch.",
+      "One claim seemed to need more support, so I looked back at the evidence.",
+      "I wanted to raise the concern while keeping the discussion focused on the argument.",
+      "I said, “I think this number may be incorrect.”",
+      "The author of the presentation explained how they had read that section.",
+      "We compared the interpretation with the results shown in the paper.",
+      "The group found a more precise way to describe the limitation.",
+      "We finished the discussion with a question to investigate next."
+    ],
+    "categoryTitle": "Disagreement, Criticism, and Research Discussion",
+    "frequencyRank": 4
+  },
+  {
+    "id": "s04-025",
+    "category": "tone",
+    "bad": "Obviously, the larger model performs better.",
+    "good": "The results show that the larger model performs better in this setting.",
+    "why": "Implies the point should already be obvious.",
+    "tags": [
+      "research"
+    ],
+    "story": [
+      "Our reading group was discussing a paper after lunch.",
+      "One claim seemed to need more support, so I looked back at the evidence.",
+      "I wanted to raise the concern while keeping the discussion focused on the argument.",
+      "I said, “The results show that the larger model performs better in this setting.”",
+      "The author of the presentation explained how they had read that section.",
+      "We compared the interpretation with the results shown in the paper.",
+      "The group found a more precise way to describe the limitation.",
+      "We finished the discussion with a question to investigate next."
+    ],
+    "categoryTitle": "Disagreement, Criticism, and Research Discussion",
+    "frequencyRank": 4
+  },
+  {
+    "id": "s04-026",
+    "category": "tone",
+    "bad": "Clearly, our method is better.",
+    "good": "The results suggest that our method performs better in this setting.",
+    "why": "Can be too strong without evidence.",
+    "tags": [
+      "formal"
+    ],
+    "story": [
+      "Our reading group was discussing a paper after lunch.",
+      "One claim seemed to need more support, so I looked back at the evidence.",
+      "I wanted to raise the concern while keeping the discussion focused on the argument.",
+      "I said, “The results suggest that our method performs better in this setting.”",
+      "The author of the presentation explained how they had read that section.",
+      "We compared the interpretation with the results shown in the paper.",
+      "The group found a more precise way to describe the limitation.",
+      "We finished the discussion with a question to investigate next."
+    ],
+    "categoryTitle": "Disagreement, Criticism, and Research Discussion",
+    "frequencyRank": 4
+  },
+  {
+    "id": "s04-027",
+    "category": "tone",
+    "bad": "As everyone knows, larger models require more memory.",
+    "good": "It's well established that larger models generally require more memory.",
+    "why": "Pressures the audience to already know.",
+    "tags": [
+      "research",
+      "presentation"
+    ],
+    "story": [
+      "Our reading group was discussing a paper after lunch.",
+      "One claim seemed to need more support, so I looked back at the evidence.",
+      "I wanted to raise the concern while keeping the discussion focused on the argument.",
+      "I said, “It's well established that larger models generally require more memory.”",
+      "The author of the presentation explained how they had read that section.",
+      "We compared the interpretation with the results shown in the paper.",
+      "The group found a more precise way to describe the limitation.",
+      "We finished the discussion with a question to investigate next."
+    ],
+    "categoryTitle": "Disagreement, Criticism, and Research Discussion",
+    "frequencyRank": 4
+  },
+  {
+    "id": "s04-028",
+    "category": "tone",
+    "bad": "Everybody knows that this benchmark is outdated.",
+    "good": "Prior work has shown several limitations of this benchmark.",
+    "why": "Overgeneralized and dismissive.",
+    "tags": [
+      "research"
+    ],
+    "story": [
+      "Our reading group was discussing a paper after lunch.",
+      "One claim seemed to need more support, so I looked back at the evidence.",
+      "I wanted to raise the concern while keeping the discussion focused on the argument.",
+      "I said, “Prior work has shown several limitations of this benchmark.”",
+      "The author of the presentation explained how they had read that section.",
+      "We compared the interpretation with the results shown in the paper.",
+      "The group found a more precise way to describe the limitation.",
+      "We finished the discussion with a question to investigate next."
+    ],
+    "categoryTitle": "Disagreement, Criticism, and Research Discussion",
+    "frequencyRank": 4
+  },
+  {
+    "id": "s04-029",
+    "category": "tone",
+    "bad": "It is common sense.",
+    "good": "That seems like a reasonable assumption.",
+    "why": "Can sound insulting.",
+    "tags": [
+      "formal"
+    ],
+    "story": [
+      "Our reading group was discussing a paper after lunch.",
+      "One claim seemed to need more support, so I looked back at the evidence.",
+      "I wanted to raise the concern while keeping the discussion focused on the argument.",
+      "I said, “That seems like a reasonable assumption.”",
+      "The author of the presentation explained how they had read that section.",
+      "We compared the interpretation with the results shown in the paper.",
+      "The group found a more precise way to describe the limitation.",
+      "We finished the discussion with a question to investigate next."
+    ],
+    "categoryTitle": "Disagreement, Criticism, and Research Discussion",
+    "frequencyRank": 4
+  },
+  {
+    "id": "s04-030",
+    "category": "tone",
+    "bad": "It's basic.",
+    "good": "This is a fairly standard idea.",
+    "why": "Can sound condescending.",
+    "tags": [
+      "formal"
+    ],
+    "story": [
+      "Our reading group was discussing a paper after lunch.",
+      "One claim seemed to need more support, so I looked back at the evidence.",
+      "I wanted to raise the concern while keeping the discussion focused on the argument.",
+      "I said, “This is a fairly standard idea.”",
+      "The author of the presentation explained how they had read that section.",
+      "We compared the interpretation with the results shown in the paper.",
+      "The group found a more precise way to describe the limitation.",
+      "We finished the discussion with a question to investigate next."
+    ],
+    "categoryTitle": "Disagreement, Criticism, and Research Discussion",
+    "frequencyRank": 4
+  },
+  {
+    "id": "s04-031",
+    "category": "tone",
+    "bad": "It's easy.",
+    "good": "This part is fairly straightforward.",
+    "why": "May minimize difficulty.",
+    "tags": [
+      "formal"
+    ],
+    "story": [
+      "Our reading group was discussing a paper after lunch.",
+      "One claim seemed to need more support, so I looked back at the evidence.",
+      "I wanted to raise the concern while keeping the discussion focused on the argument.",
+      "I said, “This part is fairly straightforward.”",
+      "The author of the presentation explained how they had read that section.",
+      "We compared the interpretation with the results shown in the paper.",
+      "The group found a more precise way to describe the limitation.",
+      "We finished the discussion with a question to investigate next."
+    ],
+    "categoryTitle": "Disagreement, Criticism, and Research Discussion",
+    "frequencyRank": 4
+  },
+  {
+    "id": "s04-032",
+    "category": "tone",
+    "bad": "Simple.",
+    "good": "The basic idea is straightforward.",
+    "why": "Can sound dismissive.",
+    "tags": [
+      "formal"
+    ],
+    "story": [
+      "Our reading group was discussing a paper after lunch.",
+      "One claim seemed to need more support, so I looked back at the evidence.",
+      "I wanted to raise the concern while keeping the discussion focused on the argument.",
+      "I said, “The basic idea is straightforward.”",
+      "The author of the presentation explained how they had read that section.",
+      "We compared the interpretation with the results shown in the paper.",
+      "The group found a more precise way to describe the limitation.",
+      "We finished the discussion with a question to investigate next."
+    ],
+    "categoryTitle": "Disagreement, Criticism, and Research Discussion",
+    "frequencyRank": 4
+  },
+  {
+    "id": "s04-033",
+    "category": "tone",
+    "bad": "Just use a larger batch size.",
+    "good": "One option would be to try a larger batch size.",
+    "why": "Can trivialize the task.",
+    "tags": [
+      "formal"
+    ],
+    "story": [
+      "Our reading group was discussing a paper after lunch.",
+      "One claim seemed to need more support, so I looked back at the evidence.",
+      "I wanted to raise the concern while keeping the discussion focused on the argument.",
+      "I said, “One option would be to try a larger batch size.”",
+      "The author of the presentation explained how they had read that section.",
+      "We compared the interpretation with the results shown in the paper.",
+      "The group found a more precise way to describe the limitation.",
+      "We finished the discussion with a question to investigate next."
+    ],
+    "categoryTitle": "Disagreement, Criticism, and Research Discussion",
+    "frequencyRank": 4
+  },
+  {
+    "id": "s04-034",
+    "category": "tone",
+    "bad": "You can just increase the learning rate.",
+    "good": "You could try increasing the learning rate.",
+    "why": "Can make the other person feel the task should be obvious.",
+    "tags": [
+      "formal"
+    ],
+    "story": [
+      "Our reading group was discussing a paper after lunch.",
+      "One claim seemed to need more support, so I looked back at the evidence.",
+      "I wanted to raise the concern while keeping the discussion focused on the argument.",
+      "I said, “You could try increasing the learning rate.”",
+      "The author of the presentation explained how they had read that section.",
+      "We compared the interpretation with the results shown in the paper.",
+      "The group found a more precise way to describe the limitation.",
+      "We finished the discussion with a question to investigate next."
+    ],
+    "categoryTitle": "Disagreement, Criticism, and Research Discussion",
+    "frequencyRank": 4
+  },
+  {
+    "id": "s05-001",
+    "category": "tone",
+    "bad": "Please do this.",
+    "good": "Could you do this?",
+    "why": "More directive than Korean 해주세요.",
+    "tags": [
+      "formal"
+    ],
+    "story": [
+      "I was revising a draft before the next group meeting.",
+      "A colleague had offered to help me check one part of it.",
+      "I sent a short message with the document and a clear request.",
+      "I wrote, “Could you do this?”",
+      "I included the timing that would help me keep the revision on schedule.",
+      "My colleague replied with a time that worked for them.",
+      "Their comments helped me make the draft clearer.",
+      "I thanked them and used the same considerate tone in my reply."
+    ],
+    "categoryTitle": "Requests, Email, Follow-Ups, and Apologies",
+    "frequencyRank": 4
+  },
+  {
+    "id": "s05-002",
+    "category": "tone",
+    "bad": "Please check this.",
+    "good": "Could you take a look at this?",
+    "why": "Sounds like an instruction.",
+    "tags": [
+      "formal"
+    ],
+    "story": [
+      "I was revising a draft before the next group meeting.",
+      "A colleague had offered to help me check one part of it.",
+      "I sent a short message with the document and a clear request.",
+      "I wrote, “Could you take a look at this?”",
+      "I included the timing that would help me keep the revision on schedule.",
+      "My colleague replied with a time that worked for them.",
+      "Their comments helped me make the draft clearer.",
+      "I thanked them and used the same considerate tone in my reply."
+    ],
+    "categoryTitle": "Requests, Email, Follow-Ups, and Apologies",
+    "frequencyRank": 4
+  },
+  {
+    "id": "s05-003",
+    "category": "tone",
+    "bad": "Please confirm that you can attend the meeting.",
+    "good": "Could you confirm whether you can attend the meeting?",
+    "why": "Formal and directive.",
+    "tags": [
+      "presentation"
+    ],
+    "story": [
+      "I was revising a draft before the next group meeting.",
+      "A colleague had offered to help me check one part of it.",
+      "I sent a short message with the document and a clear request.",
+      "I wrote, “Could you confirm whether you can attend the meeting?”",
+      "I included the timing that would help me keep the revision on schedule.",
+      "My colleague replied with a time that worked for them.",
+      "Their comments helped me make the draft clearer.",
+      "I thanked them and used the same considerate tone in my reply."
+    ],
+    "categoryTitle": "Requests, Email, Follow-Ups, and Apologies",
+    "frequencyRank": 4
+  },
+  {
+    "id": "s05-004",
+    "category": "tone",
+    "bad": "Please reply.",
+    "good": "Could you let me know when you get a chance?",
+    "why": "Can sound demanding.",
+    "tags": [
+      "formal"
+    ],
+    "story": [
+      "I was revising a draft before the next group meeting.",
+      "A colleague had offered to help me check one part of it.",
+      "I sent a short message with the document and a clear request.",
+      "I wrote, “Could you let me know when you get a chance?”",
+      "I included the timing that would help me keep the revision on schedule.",
+      "My colleague replied with a time that worked for them.",
+      "Their comments helped me make the draft clearer.",
+      "I thanked them and used the same considerate tone in my reply."
+    ],
+    "categoryTitle": "Requests, Email, Follow-Ups, and Apologies",
+    "frequencyRank": 4
+  },
+  {
+    "id": "s05-005",
+    "category": "tone",
+    "bad": "Please send me the latest draft.",
+    "good": "Could you send me the latest draft?",
+    "why": "Directive.",
+    "tags": [
+      "formal"
+    ],
+    "story": [
+      "I was revising a draft before the next group meeting.",
+      "A colleague had offered to help me check one part of it.",
+      "I sent a short message with the document and a clear request.",
+      "I wrote, “Could you send me the latest draft?”",
+      "I included the timing that would help me keep the revision on schedule.",
+      "My colleague replied with a time that worked for them.",
+      "Their comments helped me make the draft clearer.",
+      "I thanked them and used the same considerate tone in my reply."
+    ],
+    "categoryTitle": "Requests, Email, Follow-Ups, and Apologies",
+    "frequencyRank": 4
+  },
+  {
+    "id": "s05-006",
+    "category": "tone",
+    "bad": "Please give me feedback.",
+    "good": "Could you give me some feedback on this?",
+    "why": "Slightly command-like.",
+    "tags": [
+      "formal"
+    ],
+    "story": [
+      "I was revising a draft before the next group meeting.",
+      "A colleague had offered to help me check one part of it.",
+      "I sent a short message with the document and a clear request.",
+      "I wrote, “Could you give me some feedback on this?”",
+      "I included the timing that would help me keep the revision on schedule.",
+      "My colleague replied with a time that worked for them.",
+      "Their comments helped me make the draft clearer.",
+      "I thanked them and used the same considerate tone in my reply."
+    ],
+    "categoryTitle": "Requests, Email, Follow-Ups, and Apologies",
+    "frequencyRank": 4
+  },
+  {
+    "id": "s05-007",
+    "category": "tone",
+    "bad": "Please let me know ASAP.",
+    "good": "Could you let me know by Thursday afternoon?",
+    "why": "Pressuring and vague.",
+    "tags": [
+      "formal"
+    ],
+    "story": [
+      "I was revising a draft before the next group meeting.",
+      "A colleague had offered to help me check one part of it.",
+      "I sent a short message with the document and a clear request.",
+      "I wrote, “Could you let me know by Thursday afternoon?”",
+      "I included the timing that would help me keep the revision on schedule.",
+      "My colleague replied with a time that worked for them.",
+      "Their comments helped me make the draft clearer.",
+      "I thanked them and used the same considerate tone in my reply."
+    ],
+    "categoryTitle": "Requests, Email, Follow-Ups, and Apologies",
+    "frequencyRank": 4
+  },
+  {
+    "id": "s05-008",
+    "category": "tone",
+    "bad": "As soon as possible.",
+    "good": "Could you send it by Friday at noon?",
+    "why": "Vague deadline.",
+    "tags": [
+      "formal"
+    ],
+    "story": [
+      "I was revising a draft before the next group meeting.",
+      "A colleague had offered to help me check one part of it.",
+      "I sent a short message with the document and a clear request.",
+      "I wrote, “Could you send it by Friday at noon?”",
+      "I included the timing that would help me keep the revision on schedule.",
+      "My colleague replied with a time that worked for them.",
+      "Their comments helped me make the draft clearer.",
+      "I thanked them and used the same considerate tone in my reply."
+    ],
+    "categoryTitle": "Requests, Email, Follow-Ups, and Apologies",
+    "frequencyRank": 4
+  },
+  {
+    "id": "s05-009",
+    "category": "tone",
+    "bad": "I need this today.",
+    "good": "Would you be able to send this today?",
+    "why": "Sounds demanding.",
+    "tags": [
+      "formal"
+    ],
+    "story": [
+      "I was revising a draft before the next group meeting.",
+      "A colleague had offered to help me check one part of it.",
+      "I sent a short message with the document and a clear request.",
+      "I wrote, “Would you be able to send this today?”",
+      "I included the timing that would help me keep the revision on schedule.",
+      "My colleague replied with a time that worked for them.",
+      "Their comments helped me make the draft clearer.",
+      "I thanked them and used the same considerate tone in my reply."
+    ],
+    "categoryTitle": "Requests, Email, Follow-Ups, and Apologies",
+    "frequencyRank": 4
+  },
+  {
+    "id": "s05-010",
+    "category": "tone",
+    "bad": "You didn't send it.",
+    "good": "I don't think I've received it yet.",
+    "why": "Direct blame.",
+    "tags": [
+      "formal"
+    ],
+    "story": [
+      "I was revising a draft before the next group meeting.",
+      "A colleague had offered to help me check one part of it.",
+      "I sent a short message with the document and a clear request.",
+      "I wrote, “I don't think I've received it yet.”",
+      "I included the timing that would help me keep the revision on schedule.",
+      "My colleague replied with a time that worked for them.",
+      "Their comments helped me make the draft clearer.",
+      "I thanked them and used the same considerate tone in my reply."
+    ],
+    "categoryTitle": "Requests, Email, Follow-Ups, and Apologies",
+    "frequencyRank": 4
+  },
+  {
+    "id": "s05-011",
+    "category": "tone",
+    "bad": "You forgot to send me the updated figure.",
+    "good": "I just wanted to follow up on the updated figure.",
+    "why": "Directly points out fault.",
+    "tags": [
+      "formal"
+    ],
+    "story": [
+      "I was revising a draft before the next group meeting.",
+      "A colleague had offered to help me check one part of it.",
+      "I sent a short message with the document and a clear request.",
+      "I wrote, “I just wanted to follow up on the updated figure.”",
+      "I included the timing that would help me keep the revision on schedule.",
+      "My colleague replied with a time that worked for them.",
+      "Their comments helped me make the draft clearer.",
+      "I thanked them and used the same considerate tone in my reply."
+    ],
+    "categoryTitle": "Requests, Email, Follow-Ups, and Apologies",
+    "frequencyRank": 4
+  },
+  {
+    "id": "s05-012",
+    "category": "tone",
+    "bad": "Didn't you see my email?",
+    "good": "Just checking whether you had a chance to see my email.",
+    "why": "Sounds accusatory.",
+    "tags": [
+      "formal"
+    ],
+    "story": [
+      "I was revising a draft before the next group meeting.",
+      "A colleague had offered to help me check one part of it.",
+      "I sent a short message with the document and a clear request.",
+      "I wrote, “Just checking whether you had a chance to see my email.”",
+      "I included the timing that would help me keep the revision on schedule.",
+      "My colleague replied with a time that worked for them.",
+      "Their comments helped me make the draft clearer.",
+      "I thanked them and used the same considerate tone in my reply."
+    ],
+    "categoryTitle": "Requests, Email, Follow-Ups, and Apologies",
+    "frequencyRank": 4
+  },
+  {
+    "id": "s05-013",
+    "category": "tone",
+    "bad": "Why didn't you reply?",
+    "good": "I wanted to follow up on my earlier message.",
+    "why": "Sounds confrontational.",
+    "tags": [
+      "formal"
+    ],
+    "story": [
+      "I was revising a draft before the next group meeting.",
+      "A colleague had offered to help me check one part of it.",
+      "I sent a short message with the document and a clear request.",
+      "I wrote, “I wanted to follow up on my earlier message.”",
+      "I included the timing that would help me keep the revision on schedule.",
+      "My colleague replied with a time that worked for them.",
+      "Their comments helped me make the draft clearer.",
+      "I thanked them and used the same considerate tone in my reply."
+    ],
+    "categoryTitle": "Requests, Email, Follow-Ups, and Apologies",
+    "frequencyRank": 4
+  },
+  {
+    "id": "s05-014",
+    "category": "tone",
+    "bad": "I am waiting for your reply.",
+    "good": "I look forward to hearing from you.",
+    "why": "Sounds demanding and non-native.",
+    "tags": [
+      "formal"
+    ],
+    "story": [
+      "I was revising a draft before the next group meeting.",
+      "A colleague had offered to help me check one part of it.",
+      "I sent a short message with the document and a clear request.",
+      "I wrote, “I look forward to hearing from you.”",
+      "I included the timing that would help me keep the revision on schedule.",
+      "My colleague replied with a time that worked for them.",
+      "Their comments helped me make the draft clearer.",
+      "I thanked them and used the same considerate tone in my reply."
+    ],
+    "categoryTitle": "Requests, Email, Follow-Ups, and Apologies",
+    "frequencyRank": 4
+  },
+  {
+    "id": "s05-015",
+    "category": "tone",
+    "bad": "Thank you for your cooperation.",
+    "good": "Thanks for your help.",
+    "why": "Bureaucratic.",
+    "tags": [
+      "formal"
+    ],
+    "story": [
+      "I was revising a draft before the next group meeting.",
+      "A colleague had offered to help me check one part of it.",
+      "I sent a short message with the document and a clear request.",
+      "I wrote, “Thanks for your help.”",
+      "I included the timing that would help me keep the revision on schedule.",
+      "My colleague replied with a time that worked for them.",
+      "Their comments helped me make the draft clearer.",
+      "I thanked them and used the same considerate tone in my reply."
+    ],
+    "categoryTitle": "Requests, Email, Follow-Ups, and Apologies",
+    "frequencyRank": 4
+  },
+  {
+    "id": "s05-016",
+    "category": "tone",
+    "bad": "Kindly check.",
+    "good": "Could you take a look?",
+    "why": "Stiff in U.S. academic settings.",
+    "tags": [
+      "formal"
+    ],
+    "story": [
+      "I was revising a draft before the next group meeting.",
+      "A colleague had offered to help me check one part of it.",
+      "I sent a short message with the document and a clear request.",
+      "I wrote, “Could you take a look?”",
+      "I included the timing that would help me keep the revision on schedule.",
+      "My colleague replied with a time that worked for them.",
+      "Their comments helped me make the draft clearer.",
+      "I thanked them and used the same considerate tone in my reply."
+    ],
+    "categoryTitle": "Requests, Email, Follow-Ups, and Apologies",
+    "frequencyRank": 4
+  },
+  {
+    "id": "s05-017",
+    "category": "tone",
+    "bad": "Please kindly review the attached draft.",
+    "good": "Could you please review the attached draft?",
+    "why": "Overly formal.",
+    "tags": [
+      "formal"
+    ],
+    "story": [
+      "I was revising a draft before the next group meeting.",
+      "A colleague had offered to help me check one part of it.",
+      "I sent a short message with the document and a clear request.",
+      "I wrote, “Could you please review the attached draft?”",
+      "I included the timing that would help me keep the revision on schedule.",
+      "My colleague replied with a time that worked for them.",
+      "Their comments helped me make the draft clearer.",
+      "I thanked them and used the same considerate tone in my reply."
+    ],
+    "categoryTitle": "Requests, Email, Follow-Ups, and Apologies",
+    "frequencyRank": 4
+  },
+  {
+    "id": "s05-018",
+    "category": "tone",
+    "bad": "Please advise.",
+    "good": "Let me know what you think.",
+    "why": "Formal/corporate.",
+    "tags": [
+      "formal"
+    ],
+    "story": [
+      "I was revising a draft before the next group meeting.",
+      "A colleague had offered to help me check one part of it.",
+      "I sent a short message with the document and a clear request.",
+      "I wrote, “Let me know what you think.”",
+      "I included the timing that would help me keep the revision on schedule.",
+      "My colleague replied with a time that worked for them.",
+      "Their comments helped me make the draft clearer.",
+      "I thanked them and used the same considerate tone in my reply."
+    ],
+    "categoryTitle": "Requests, Email, Follow-Ups, and Apologies",
+    "frequencyRank": 4
+  },
+  {
+    "id": "s05-019",
+    "category": "tone",
+    "bad": "Sorry for bothering you.",
+    "good": "Thanks for taking the time.",
+    "why": "Often over-apologetic.",
+    "tags": [
+      "formal"
+    ],
+    "story": [
+      "I was revising a draft before the next group meeting.",
+      "A colleague had offered to help me check one part of it.",
+      "I sent a short message with the document and a clear request.",
+      "I wrote, “Thanks for taking the time.”",
+      "I included the timing that would help me keep the revision on schedule.",
+      "My colleague replied with a time that worked for them.",
+      "Their comments helped me make the draft clearer.",
+      "I thanked them and used the same considerate tone in my reply."
+    ],
+    "categoryTitle": "Requests, Email, Follow-Ups, and Apologies",
+    "frequencyRank": 4
+  },
+  {
+    "id": "s05-020",
+    "category": "tone",
+    "bad": "Sorry to disturb you.",
+    "good": "Do you have a minute?",
+    "why": "Overly formal.",
+    "tags": [
+      "formal"
+    ],
+    "story": [
+      "Before a lab meeting, I needed to ask a quick question.",
+      "I waited for a natural pause in the conversation.",
+      "I kept the request short and focused on what I needed.",
+      "I said, “Do you have a minute?”",
+      "My colleague gave me a moment to explain the situation.",
+      "We talked through the detail together.",
+      "I thanked them for taking the time to help.",
+      "Afterward, I knew how to move forward."
+    ],
+    "categoryTitle": "Requests, Email, Follow-Ups, and Apologies",
+    "frequencyRank": 4
+  },
+  {
+    "id": "s05-021",
+    "category": "tone",
+    "bad": "Sorry for asking.",
+    "good": "Thanks for clarifying.",
+    "why": "Makes a normal question sound inappropriate.",
+    "tags": [
+      "formal"
+    ],
+    "story": [
+      "Before a lab meeting, I needed to ask a quick question.",
+      "I waited for a natural pause in the conversation.",
+      "I kept the request short and focused on what I needed.",
+      "I said, “Thanks for clarifying.”",
+      "My colleague gave me a moment to explain the situation.",
+      "We talked through the detail together.",
+      "I thanked them for taking the time to help.",
+      "Afterward, I knew how to move forward."
+    ],
+    "categoryTitle": "Requests, Email, Follow-Ups, and Apologies",
+    "frequencyRank": 4
+  },
+  {
+    "id": "s05-022",
+    "category": "tone",
+    "bad": "Sorry for my poor English.",
+    "good": "I may need a second to phrase this.",
+    "why": "Self-deprecating.",
+    "tags": [
+      "formal"
+    ],
+    "story": [
+      "Before a lab meeting, I needed to ask a quick question.",
+      "I waited for a natural pause in the conversation.",
+      "I kept the request short and focused on what I needed.",
+      "I said, “I may need a second to phrase this.”",
+      "My colleague gave me a moment to explain the situation.",
+      "We talked through the detail together.",
+      "I thanked them for taking the time to help.",
+      "Afterward, I knew how to move forward."
+    ],
+    "categoryTitle": "Requests, Email, Follow-Ups, and Apologies",
+    "frequencyRank": 4
+  },
+  {
+    "id": "s05-023",
+    "category": "tone",
+    "bad": "Sorry for the stupid question, but why do we normalize this value?",
+    "good": "I may be missing something, but why do we normalize this value?",
+    "why": "Undermines your own contribution.",
+    "tags": [
+      "formal"
+    ],
+    "story": [
+      "Before a lab meeting, I needed to ask a quick question.",
+      "I waited for a natural pause in the conversation.",
+      "I kept the request short and focused on what I needed.",
+      "I said, “I may be missing something, but why do we normalize this value?”",
+      "My colleague gave me a moment to explain the situation.",
+      "We talked through the detail together.",
+      "I thanked them for taking the time to help.",
+      "Afterward, I knew how to move forward."
+    ],
+    "categoryTitle": "Requests, Email, Follow-Ups, and Apologies",
+    "frequencyRank": 4
+  },
+  {
+    "id": "s05-024",
+    "category": "tone",
+    "bad": "I'm very sorry to bother you again.",
+    "good": "Just following up on my previous message.",
+    "why": "Too apologetic for a normal follow-up.",
+    "tags": [
+      "formal"
+    ],
+    "story": [
+      "I was revising a draft before the next group meeting.",
+      "A colleague had offered to help me check one part of it.",
+      "I sent a short message with the document and a clear request.",
+      "I wrote, “Just following up on my previous message.”",
+      "I included the timing that would help me keep the revision on schedule.",
+      "My colleague replied with a time that worked for them.",
+      "Their comments helped me make the draft clearer.",
+      "I thanked them and used the same considerate tone in my reply."
+    ],
+    "categoryTitle": "Requests, Email, Follow-Ups, and Apologies",
+    "frequencyRank": 4
+  },
+  {
+    "id": "s08-001",
+    "category": "tone",
+    "bad": "I work hard these days.",
+    "good": "I've been working a lot lately.",
+    "why": "Possible, but sometimes sounds translated.",
+    "tags": [
+      "formal"
+    ],
+    "story": [
+      "I had a quick question for someone on my research team.",
+      "They were working, so I made the topic and timing clear before launching into it.",
+      "We found a moment to talk through the situation together.",
+      "I said, “I've been working a lot lately.”",
+      "My teammate responded with a useful suggestion and explained their reasoning.",
+      "We checked the details and agreed on who would handle the next step.",
+      "The short conversation saved us from making different assumptions.",
+      "I thanked them and got back to my work."
+    ],
+    "categoryTitle": "Lab Interaction, Advice, Directives, and Emotional Language",
+    "frequencyRank": 4
+  },
+  {
+    "id": "s08-002",
+    "category": "tone",
+    "bad": "You worked hard.",
+    "good": "You put a lot of work into this.",
+    "why": "Sounds like evaluation from a superior.",
+    "tags": [
+      "formal"
+    ],
+    "story": [
+      "I had a quick question for someone on my research team.",
+      "They were working, so I made the topic and timing clear before launching into it.",
+      "We found a moment to talk through the situation together.",
+      "I said, “You put a lot of work into this.”",
+      "My teammate responded with a useful suggestion and explained their reasoning.",
+      "We checked the details and agreed on who would handle the next step.",
+      "The short conversation saved us from making different assumptions.",
+      "I thanked them and got back to my work."
+    ],
+    "categoryTitle": "Lab Interaction, Advice, Directives, and Emotional Language",
+    "frequencyRank": 4
+  },
+  {
+    "id": "s08-003",
+    "category": "tone",
+    "bad": "Good job.",
+    "good": "That was really well done.",
+    "why": "Natural, but can sound evaluative between peers.",
+    "tags": [
+      "formal"
+    ],
+    "story": [
+      "I had a quick question for someone on my research team.",
+      "They were working, so I made the topic and timing clear before launching into it.",
+      "We found a moment to talk through the situation together.",
+      "I said, “That was really well done.”",
+      "My teammate responded with a useful suggestion and explained their reasoning.",
+      "We checked the details and agreed on who would handle the next step.",
+      "The short conversation saved us from making different assumptions.",
+      "I thanked them and got back to my work."
+    ],
+    "categoryTitle": "Lab Interaction, Advice, Directives, and Emotional Language",
+    "frequencyRank": 4
+  },
+  {
+    "id": "s08-004",
+    "category": "tone",
+    "bad": "You are smart.",
+    "good": "That's a really insightful point.",
+    "why": "Can sound simplistic or childlike.",
+    "tags": [
+      "formal"
+    ],
+    "story": [
+      "I had a quick question for someone on my research team.",
+      "They were working, so I made the topic and timing clear before launching into it.",
+      "We found a moment to talk through the situation together.",
+      "I said, “That's a really insightful point.”",
+      "My teammate responded with a useful suggestion and explained their reasoning.",
+      "We checked the details and agreed on who would handle the next step.",
+      "The short conversation saved us from making different assumptions.",
+      "I thanked them and got back to my work."
+    ],
+    "categoryTitle": "Lab Interaction, Advice, Directives, and Emotional Language",
+    "frequencyRank": 4
+  },
+  {
+    "id": "s08-005",
+    "category": "tone",
+    "bad": "You are diligent.",
+    "good": "You're very thorough.",
+    "why": "Stiff and unnatural in casual American English.",
+    "tags": [
+      "formal"
+    ],
+    "story": [
+      "I had a quick question for someone on my research team.",
+      "They were working, so I made the topic and timing clear before launching into it.",
+      "We found a moment to talk through the situation together.",
+      "I said, “You're very thorough.”",
+      "My teammate responded with a useful suggestion and explained their reasoning.",
+      "We checked the details and agreed on who would handle the next step.",
+      "The short conversation saved us from making different assumptions.",
+      "I thanked them and got back to my work."
+    ],
+    "categoryTitle": "Lab Interaction, Advice, Directives, and Emotional Language",
+    "frequencyRank": 4
+  },
+  {
+    "id": "s08-006",
+    "category": "tone",
+    "bad": "You look busy.",
+    "good": "Is now a bad time?",
+    "why": "Observes the person's state without stating your need.",
+    "tags": [
+      "formal"
+    ],
+    "story": [
+      "I had a quick question for someone on my research team.",
+      "They were working, so I made the topic and timing clear before launching into it.",
+      "We found a moment to talk through the situation together.",
+      "I said, “Is now a bad time?”",
+      "My teammate responded with a useful suggestion and explained their reasoning.",
+      "We checked the details and agreed on who would handle the next step.",
+      "The short conversation saved us from making different assumptions.",
+      "I thanked them and got back to my work."
+    ],
+    "categoryTitle": "Lab Interaction, Advice, Directives, and Emotional Language",
+    "frequencyRank": 4
+  },
+  {
+    "id": "s08-007",
+    "category": "tone",
+    "bad": "Are you busy?",
+    "good": "Do you have a minute to talk about the experiment results?",
+    "why": "Can create unnecessary tension.",
+    "tags": [
+      "research",
+      "presentation",
+      "casual"
+    ],
+    "story": [
+      "I had a quick question for someone on my research team.",
+      "They were working, so I made the topic and timing clear before launching into it.",
+      "We found a moment to talk through the situation together.",
+      "I said, “Do you have a minute to talk about the experiment results?”",
+      "My teammate responded with a useful suggestion and explained their reasoning.",
+      "We checked the details and agreed on who would handle the next step.",
+      "The short conversation saved us from making different assumptions.",
+      "I thanked them and got back to my work."
+    ],
+    "categoryTitle": "Lab Interaction, Advice, Directives, and Emotional Language",
+    "frequencyRank": 4
+  },
+  {
+    "id": "s08-008",
+    "category": "tone",
+    "bad": "Can I talk to you?",
+    "good": "Do you have a few minutes to talk about the paper draft?",
+    "why": "Can sound serious or ominous.",
+    "tags": [
+      "research",
+      "presentation",
+      "formal"
+    ],
+    "story": [
+      "I had a quick question for someone on my research team.",
+      "They were working, so I made the topic and timing clear before launching into it.",
+      "We found a moment to talk through the situation together.",
+      "I said, “Do you have a few minutes to talk about the paper draft?”",
+      "My teammate responded with a useful suggestion and explained their reasoning.",
+      "We checked the details and agreed on who would handle the next step.",
+      "The short conversation saved us from making different assumptions.",
+      "I thanked them and got back to my work."
+    ],
+    "categoryTitle": "Lab Interaction, Advice, Directives, and Emotional Language",
+    "frequencyRank": 4
+  },
+  {
+    "id": "s08-009",
+    "category": "tone",
+    "bad": "I need to talk to you.",
+    "good": "I'd like to get your thoughts on something.",
+    "why": "Often sounds like bad news is coming.",
+    "tags": [
+      "presentation"
+    ],
+    "story": [
+      "I had a quick question for someone on my research team.",
+      "They were working, so I made the topic and timing clear before launching into it.",
+      "We found a moment to talk through the situation together.",
+      "I said, “I'd like to get your thoughts on something.”",
+      "My teammate responded with a useful suggestion and explained their reasoning.",
+      "We checked the details and agreed on who would handle the next step.",
+      "The short conversation saved us from making different assumptions.",
+      "I thanked them and got back to my work."
+    ],
+    "categoryTitle": "Lab Interaction, Advice, Directives, and Emotional Language",
+    "frequencyRank": 4
+  },
+  {
+    "id": "s08-010",
+    "category": "tone",
+    "bad": "We need to talk.",
+    "good": "Could we talk about the experiment results sometime today?",
+    "why": "Strongly associated with serious relationship/problem conversations.",
+    "tags": [
+      "research",
+      "presentation"
+    ],
+    "story": [
+      "I had a quick question for someone on my research team.",
+      "They were working, so I made the topic and timing clear before launching into it.",
+      "We found a moment to talk through the situation together.",
+      "I said, “Could we talk about the experiment results sometime today?”",
+      "My teammate responded with a useful suggestion and explained their reasoning.",
+      "We checked the details and agreed on who would handle the next step.",
+      "The short conversation saved us from making different assumptions.",
+      "I thanked them and got back to my work."
+    ],
+    "categoryTitle": "Lab Interaction, Advice, Directives, and Emotional Language",
+    "frequencyRank": 4
+  },
+  {
+    "id": "s08-011",
+    "category": "tone",
+    "bad": "I have something to discuss.",
+    "good": "I wanted to get your thoughts on something.",
+    "why": "Sounds heavy and formal.",
+    "tags": [
+      "formal"
+    ],
+    "story": [
+      "I had a quick question for someone on my research team.",
+      "They were working, so I made the topic and timing clear before launching into it.",
+      "We found a moment to talk through the situation together.",
+      "I said, “I wanted to get your thoughts on something.”",
+      "My teammate responded with a useful suggestion and explained their reasoning.",
+      "We checked the details and agreed on who would handle the next step.",
+      "The short conversation saved us from making different assumptions.",
+      "I thanked them and got back to my work."
+    ],
+    "categoryTitle": "Lab Interaction, Advice, Directives, and Emotional Language",
+    "frequencyRank": 4
+  },
+  {
+    "id": "s08-012",
+    "category": "tone",
+    "bad": "I have a favor.",
+    "good": "Could I ask you a favor?",
+    "why": "Non-native.",
+    "tags": [
+      "formal"
+    ],
+    "story": [
+      "I had a quick question for someone on my research team.",
+      "They were working, so I made the topic and timing clear before launching into it.",
+      "We found a moment to talk through the situation together.",
+      "I said, “Could I ask you a favor?”",
+      "My teammate responded with a useful suggestion and explained their reasoning.",
+      "We checked the details and agreed on who would handle the next step.",
+      "The short conversation saved us from making different assumptions.",
+      "I thanked them and got back to my work."
+    ],
+    "categoryTitle": "Lab Interaction, Advice, Directives, and Emotional Language",
+    "frequencyRank": 4
+  },
+  {
+    "id": "s08-013",
+    "category": "tone",
+    "bad": "Please understand me.",
+    "good": "I hope that makes sense.",
+    "why": "Sounds emotionally heavy.",
+    "tags": [
+      "formal"
+    ],
+    "story": [
+      "I had a quick question for someone on my research team.",
+      "They were working, so I made the topic and timing clear before launching into it.",
+      "We found a moment to talk through the situation together.",
+      "I said, “I hope that makes sense.”",
+      "My teammate responded with a useful suggestion and explained their reasoning.",
+      "We checked the details and agreed on who would handle the next step.",
+      "The short conversation saved us from making different assumptions.",
+      "I thanked them and got back to my work."
+    ],
+    "categoryTitle": "Lab Interaction, Advice, Directives, and Emotional Language",
+    "frequencyRank": 4
+  },
+  {
+    "id": "s08-014",
+    "category": "tone",
+    "bad": "Please understand my situation because I have two deadlines this week.",
+    "good": "Given my situation, would it be possible to move the deadline to Monday?",
+    "why": "Sounds like pleading.",
+    "tags": [
+      "formal"
+    ],
+    "story": [
+      "I had a quick question for someone on my research team.",
+      "They were working, so I made the topic and timing clear before launching into it.",
+      "We found a moment to talk through the situation together.",
+      "I said, “Given my situation, would it be possible to move the deadline to Monday?”",
+      "My teammate responded with a useful suggestion and explained their reasoning.",
+      "We checked the details and agreed on who would handle the next step.",
+      "The short conversation saved us from making different assumptions.",
+      "I thanked them and got back to my work."
+    ],
+    "categoryTitle": "Lab Interaction, Advice, Directives, and Emotional Language",
+    "frequencyRank": 4
+  },
+  {
+    "id": "s08-015",
+    "category": "tone",
+    "bad": "You should use a stronger baseline.",
+    "good": "You might want to try a stronger baseline.",
+    "why": "Stronger than many Korean speakers realize.",
+    "tags": [
+      "research"
+    ],
+    "story": [
+      "I had a quick question for someone on my research team.",
+      "They were working, so I made the topic and timing clear before launching into it.",
+      "We found a moment to talk through the situation together.",
+      "I said, “You might want to try a stronger baseline.”",
+      "My teammate responded with a useful suggestion and explained their reasoning.",
+      "We checked the details and agreed on who would handle the next step.",
+      "The short conversation saved us from making different assumptions.",
+      "I thanked them and got back to my work."
+    ],
+    "categoryTitle": "Lab Interaction, Advice, Directives, and Emotional Language",
+    "frequencyRank": 4
+  },
+  {
+    "id": "s08-016",
+    "category": "tone",
+    "bad": "You have to rerun the experiment.",
+    "good": "We'll need to rerun the experiment before submission.",
+    "why": "Strong instruction.",
+    "tags": [
+      "research"
+    ],
+    "story": [
+      "I had a quick question for someone on my research team.",
+      "They were working, so I made the topic and timing clear before launching into it.",
+      "We found a moment to talk through the situation together.",
+      "I said, “We'll need to rerun the experiment before submission.”",
+      "My teammate responded with a useful suggestion and explained their reasoning.",
+      "We checked the details and agreed on who would handle the next step.",
+      "The short conversation saved us from making different assumptions.",
+      "I thanked them and got back to my work."
+    ],
+    "categoryTitle": "Lab Interaction, Advice, Directives, and Emotional Language",
+    "frequencyRank": 4
+  },
+  {
+    "id": "s08-017",
+    "category": "tone",
+    "bad": "You must include this baseline.",
+    "good": "We should probably include this baseline before submission.",
+    "why": "Very strong unless it is a rule.",
+    "tags": [
+      "research"
+    ],
+    "story": [
+      "I had a quick question for someone on my research team.",
+      "They were working, so I made the topic and timing clear before launching into it.",
+      "We found a moment to talk through the situation together.",
+      "I said, “We should probably include this baseline before submission.”",
+      "My teammate responded with a useful suggestion and explained their reasoning.",
+      "We checked the details and agreed on who would handle the next step.",
+      "The short conversation saved us from making different assumptions.",
+      "I thanked them and got back to my work."
+    ],
+    "categoryTitle": "Lab Interaction, Advice, Directives, and Emotional Language",
+    "frequencyRank": 4
+  },
+  {
+    "id": "s08-018",
+    "category": "tone",
+    "bad": "You'd better fix this figure before the meeting.",
+    "good": "It would be a good idea to fix this figure before the meeting.",
+    "why": "Often sounds like a warning.",
+    "tags": [
+      "presentation"
+    ],
+    "story": [
+      "I had a quick question for someone on my research team.",
+      "They were working, so I made the topic and timing clear before launching into it.",
+      "We found a moment to talk through the situation together.",
+      "I said, “It would be a good idea to fix this figure before the meeting.”",
+      "My teammate responded with a useful suggestion and explained their reasoning.",
+      "We checked the details and agreed on who would handle the next step.",
+      "The short conversation saved us from making different assumptions.",
+      "I thanked them and got back to my work."
+    ],
+    "categoryTitle": "Lab Interaction, Advice, Directives, and Emotional Language",
+    "frequencyRank": 4
+  },
+  {
+    "id": "s08-019",
+    "category": "tone",
+    "bad": "You need to fix this.",
+    "good": "Could you take another look at this?",
+    "why": "Direct and hierarchical.",
+    "tags": [
+      "formal"
+    ],
+    "story": [
+      "I had a quick question for someone on my research team.",
+      "They were working, so I made the topic and timing clear before launching into it.",
+      "We found a moment to talk through the situation together.",
+      "I said, “Could you take another look at this?”",
+      "My teammate responded with a useful suggestion and explained their reasoning.",
+      "We checked the details and agreed on who would handle the next step.",
+      "The short conversation saved us from making different assumptions.",
+      "I thanked them and got back to my work."
+    ],
+    "categoryTitle": "Lab Interaction, Advice, Directives, and Emotional Language",
+    "frequencyRank": 4
+  },
+  {
+    "id": "s08-020",
+    "category": "tone",
+    "bad": "Come to my office.",
+    "good": "Could you stop by my office?",
+    "why": "Sounds like a command.",
+    "tags": [
+      "formal"
+    ],
+    "story": [
+      "I had a quick question for someone on my research team.",
+      "They were working, so I made the topic and timing clear before launching into it.",
+      "We found a moment to talk through the situation together.",
+      "I said, “Could you stop by my office?”",
+      "My teammate responded with a useful suggestion and explained their reasoning.",
+      "We checked the details and agreed on who would handle the next step.",
+      "The short conversation saved us from making different assumptions.",
+      "I thanked them and got back to my work."
+    ],
+    "categoryTitle": "Lab Interaction, Advice, Directives, and Emotional Language",
+    "frequencyRank": 4
+  },
+  {
+    "id": "s08-021",
+    "category": "tone",
+    "bad": "Wait.",
+    "good": "Hang on a second.",
+    "why": "Abrupt.",
+    "tags": [
+      "formal"
+    ],
+    "story": [
+      "I had a quick question for someone on my research team.",
+      "They were working, so I made the topic and timing clear before launching into it.",
+      "We found a moment to talk through the situation together.",
+      "I said, “Hang on a second.”",
+      "My teammate responded with a useful suggestion and explained their reasoning.",
+      "We checked the details and agreed on who would handle the next step.",
+      "The short conversation saved us from making different assumptions.",
+      "I thanked them and got back to my work."
+    ],
+    "categoryTitle": "Lab Interaction, Advice, Directives, and Emotional Language",
+    "frequencyRank": 4
+  },
+  {
+    "id": "s08-022",
+    "category": "tone",
+    "bad": "Please wait.",
+    "good": "Give me a second.",
+    "why": "Formal/service-style.",
+    "tags": [
+      "formal"
+    ],
+    "story": [
+      "I had a quick question for someone on my research team.",
+      "They were working, so I made the topic and timing clear before launching into it.",
+      "We found a moment to talk through the situation together.",
+      "I said, “Give me a second.”",
+      "My teammate responded with a useful suggestion and explained their reasoning.",
+      "We checked the details and agreed on who would handle the next step.",
+      "The short conversation saved us from making different assumptions.",
+      "I thanked them and got back to my work."
+    ],
+    "categoryTitle": "Lab Interaction, Advice, Directives, and Emotional Language",
+    "frequencyRank": 4
+  },
+  {
+    "id": "s08-023",
+    "category": "tone",
+    "bad": "Listen, this is the most important issue.",
+    "good": "The key point is that the current evaluation does not control for model size.",
+    "why": "Can sound confrontational.",
+    "tags": [
+      "research"
+    ],
+    "story": [
+      "I had a quick question for someone on my research team.",
+      "They were working, so I made the topic and timing clear before launching into it.",
+      "We found a moment to talk through the situation together.",
+      "I said, “The key point is that the current evaluation does not control for model size.”",
+      "My teammate responded with a useful suggestion and explained their reasoning.",
+      "We checked the details and agreed on who would handle the next step.",
+      "The short conversation saved us from making different assumptions.",
+      "I thanked them and got back to my work."
+    ],
+    "categoryTitle": "Lab Interaction, Advice, Directives, and Emotional Language",
+    "frequencyRank": 4
+  },
+  {
+    "id": "s08-024",
+    "category": "tone",
+    "bad": "Look, I don't think this result is convincing.",
+    "good": "I think the main issue is that the result is not statistically stable.",
+    "why": "Can signal disagreement or frustration.",
+    "tags": [
+      "formal"
+    ],
+    "story": [
+      "I had a quick question for someone on my research team.",
+      "They were working, so I made the topic and timing clear before launching into it.",
+      "We found a moment to talk through the situation together.",
+      "I said, “I think the main issue is that the result is not statistically stable.”",
+      "My teammate responded with a useful suggestion and explained their reasoning.",
+      "We checked the details and agreed on who would handle the next step.",
+      "The short conversation saved us from making different assumptions.",
+      "I thanked them and got back to my work."
+    ],
+    "categoryTitle": "Lab Interaction, Advice, Directives, and Emotional Language",
+    "frequencyRank": 4
+  },
+  {
+    "id": "s08-025",
+    "category": "tone",
+    "bad": "Calm down. The deadline is still two weeks away.",
+    "good": "We still have two weeks before the deadline, so I think we have time to work through this.",
+    "why": "Almost always escalates tension.",
+    "tags": [
+      "formal"
+    ],
+    "story": [
+      "I had a quick question for someone on my research team.",
+      "They were working, so I made the topic and timing clear before launching into it.",
+      "We found a moment to talk through the situation together.",
+      "I said, “We still have two weeks before the deadline, so I think we have time to work through this.”",
+      "My teammate responded with a useful suggestion and explained their reasoning.",
+      "We checked the details and agreed on who would handle the next step.",
+      "The short conversation saved us from making different assumptions.",
+      "I thanked them and got back to my work."
+    ],
+    "categoryTitle": "Lab Interaction, Advice, Directives, and Emotional Language",
+    "frequencyRank": 4
+  },
+  {
+    "id": "s08-026",
+    "category": "tone",
+    "bad": "Don't worry.",
+    "good": "I think we'll be okay.",
+    "why": "Can dismiss the person's concern.",
+    "tags": [
+      "formal"
+    ],
+    "story": [
+      "I had a quick question for someone on my research team.",
+      "They were working, so I made the topic and timing clear before launching into it.",
+      "We found a moment to talk through the situation together.",
+      "I said, “I think we'll be okay.”",
+      "My teammate responded with a useful suggestion and explained their reasoning.",
+      "We checked the details and agreed on who would handle the next step.",
+      "The short conversation saved us from making different assumptions.",
+      "I thanked them and got back to my work."
+    ],
+    "categoryTitle": "Lab Interaction, Advice, Directives, and Emotional Language",
+    "frequencyRank": 4
+  },
+  {
+    "id": "s08-027",
+    "category": "tone",
+    "bad": "You don't need to worry.",
+    "good": "I think we have a way to handle it.",
+    "why": "Tells the other person how to feel.",
+    "tags": [
+      "formal"
+    ],
+    "story": [
+      "I had a quick question for someone on my research team.",
+      "They were working, so I made the topic and timing clear before launching into it.",
+      "We found a moment to talk through the situation together.",
+      "I said, “I think we have a way to handle it.”",
+      "My teammate responded with a useful suggestion and explained their reasoning.",
+      "We checked the details and agreed on who would handle the next step.",
+      "The short conversation saved us from making different assumptions.",
+      "I thanked them and got back to my work."
+    ],
+    "categoryTitle": "Lab Interaction, Advice, Directives, and Emotional Language",
+    "frequencyRank": 4
+  },
+  {
+    "id": "s08-028",
+    "category": "tone",
+    "bad": "Take it easy.",
+    "good": "No rush.",
+    "why": "Can sound dismissive in conflict.",
+    "tags": [
+      "formal"
+    ],
+    "story": [
+      "I had a quick question for someone on my research team.",
+      "They were working, so I made the topic and timing clear before launching into it.",
+      "We found a moment to talk through the situation together.",
+      "I said, “No rush.”",
+      "My teammate responded with a useful suggestion and explained their reasoning.",
+      "We checked the details and agreed on who would handle the next step.",
+      "The short conversation saved us from making different assumptions.",
+      "I thanked them and got back to my work."
+    ],
+    "categoryTitle": "Lab Interaction, Advice, Directives, and Emotional Language",
+    "frequencyRank": 4
+  },
+  {
+    "id": "s08-029",
+    "category": "tone",
+    "bad": "Fighting! I hope your presentation goes well.",
+    "good": "Good luck with your presentation today!",
+    "why": "Korean expression does not transfer.",
+    "tags": [
+      "presentation"
+    ],
+    "story": [
+      "I had a quick question for someone on my research team.",
+      "They were working, so I made the topic and timing clear before launching into it.",
+      "We found a moment to talk through the situation together.",
+      "I said, “Good luck with your presentation today!”",
+      "My teammate responded with a useful suggestion and explained their reasoning.",
+      "We checked the details and agreed on who would handle the next step.",
+      "The short conversation saved us from making different assumptions.",
+      "I thanked them and got back to my work."
+    ],
+    "categoryTitle": "Lab Interaction, Advice, Directives, and Emotional Language",
+    "frequencyRank": 4
+  },
+  {
+    "id": "s08-030",
+    "category": "tone",
+    "bad": "Cheer up.",
+    "good": "I hope things get better soon.",
+    "why": "Can sound too light for serious situations.",
+    "tags": [
+      "formal"
+    ],
+    "story": [
+      "I had a quick question for someone on my research team.",
+      "They were working, so I made the topic and timing clear before launching into it.",
+      "We found a moment to talk through the situation together.",
+      "I said, “I hope things get better soon.”",
+      "My teammate responded with a useful suggestion and explained their reasoning.",
+      "We checked the details and agreed on who would handle the next step.",
+      "The short conversation saved us from making different assumptions.",
+      "I thanked them and got back to my work."
+    ],
+    "categoryTitle": "Lab Interaction, Advice, Directives, and Emotional Language",
+    "frequencyRank": 4
+  },
+  {
+    "id": "s08-031",
+    "category": "tone",
+    "bad": "Be strong.",
+    "good": "I'm here if you need anything.",
+    "why": "Can sound like telling someone to suppress emotion.",
+    "tags": [
+      "formal"
+    ],
+    "story": [
+      "I had a quick question for someone on my research team.",
+      "They were working, so I made the topic and timing clear before launching into it.",
+      "We found a moment to talk through the situation together.",
+      "I said, “I'm here if you need anything.”",
+      "My teammate responded with a useful suggestion and explained their reasoning.",
+      "We checked the details and agreed on who would handle the next step.",
+      "The short conversation saved us from making different assumptions.",
+      "I thanked them and got back to my work."
+    ],
+    "categoryTitle": "Lab Interaction, Advice, Directives, and Emotional Language",
+    "frequencyRank": 4
+  },
+  {
+    "id": "s08-032",
+    "category": "tone",
+    "bad": "You must be tired.",
+    "good": "You must've had a long day.",
+    "why": "Assumes the person's state.",
+    "tags": [
+      "formal"
+    ],
+    "story": [
+      "I had a quick question for someone on my research team.",
+      "They were working, so I made the topic and timing clear before launching into it.",
+      "We found a moment to talk through the situation together.",
+      "I said, “You must've had a long day.”",
+      "My teammate responded with a useful suggestion and explained their reasoning.",
+      "We checked the details and agreed on who would handle the next step.",
+      "The short conversation saved us from making different assumptions.",
+      "I thanked them and got back to my work."
+    ],
+    "categoryTitle": "Lab Interaction, Advice, Directives, and Emotional Language",
+    "frequencyRank": 4
+  }
+]

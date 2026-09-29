@@ -1,0 +1,1763 @@
+[
+  {
+    "id": "q01",
+    "category": "everyday",
+    "bad": "Can I ask you question?",
+    "good": "Can I ask you a question?",
+    "why": "Use the article “a” before a singular countable noun like “question.” English normally needs a determiner before one countable item when it is first mentioned: “a question,” “a ticket,” or “a table.”",
+    "tags": [
+      "questioning",
+      "casual"
+    ],
+    "story": [
+      "I was catching up with a friend after class.",
+      "We had a few minutes to talk before heading our separate ways.",
+      "I wanted to ask clearly without making the conversation feel like an interview.",
+      "When there was a natural pause, I asked, “Can I ask you a question?”",
+      "My friend answered and shared a little more about the situation.",
+      "I listened and asked a follow-up only when I needed to know more.",
+      "We found an easy next step that worked for both of us.",
+      "The conversation stayed relaxed and gave us what we needed to know.",
+      "I remembered the phrasing because it fit the moment so well."
+    ],
+    "categoryTitle": "Natural questions",
+    "frequencyRank": 1
+  },
+  {
+    "id": "q02",
+    "category": "everyday",
+    "bad": "Are free tonight?",
+    "good": "Are you free tonight?",
+    "why": "A yes/no question needs a subject. Put “you” after “are”: “Are you free tonight?” With the verb “be,” make the question by moving “are” before the subject; compare “You are free” with “Are you free?”",
+    "tags": [
+      "questioning",
+      "casual"
+    ],
+    "story": [
+      "A friend and I were trying to make plans for the evening.",
+      "We had a few minutes to talk before heading our separate ways.",
+      "I wanted to ask clearly without making the conversation feel like an interview.",
+      "When there was a natural pause, I asked, “Are you free tonight?”",
+      "My friend answered and shared a little more about the situation.",
+      "I listened and asked a follow-up only when I needed to know more.",
+      "We found an easy next step that worked for both of us.",
+      "The conversation stayed relaxed and gave us what we needed to know.",
+      "I remembered the phrasing because it fit the moment so well."
+    ],
+    "categoryTitle": "Natural questions",
+    "frequencyRank": 1
+  },
+  {
+    "id": "q03",
+    "category": "everyday",
+    "bad": "What you want to eat?",
+    "good": "What do you want to eat?",
+    "why": "In a present simple question with “you,” use the auxiliary “do” before the subject. Keep the main verb in its base form after “do”: “What do you want…?” This is the usual pattern for present simple questions unless the main verb is “be” or there is already a modal verb.",
+    "tags": [
+      "questioning",
+      "casual"
+    ],
+    "story": [
+      "My friend and I were looking at the menus near campus.",
+      "We had a few minutes to talk before heading our separate ways.",
+      "I wanted to ask clearly without making the conversation feel like an interview.",
+      "When there was a natural pause, I asked, “What do you want to eat?”",
+      "My friend answered and shared a little more about the situation.",
+      "I listened and asked a follow-up only when I needed to know more.",
+      "We found an easy next step that worked for both of us.",
+      "The conversation stayed relaxed and gave us what we needed to know.",
+      "I remembered the phrasing because it fit the moment so well."
+    ],
+    "categoryTitle": "Natural questions",
+    "frequencyRank": 1
+  },
+  {
+    "id": "q04",
+    "category": "everyday",
+    "bad": "Where we should meet?",
+    "good": "Where should we meet?",
+    "why": "With a modal verb like “should,” put the modal before the subject in a question. The pattern is question word + modal + subject + base verb: “Where should we meet?” In a statement, the subject comes first: “We should meet near the station.”",
+    "tags": [
+      "questioning",
+      "planning"
+    ],
+    "story": [
+      "A few classmates were arranging a place to meet before the talk.",
+      "We had a few minutes to talk before heading our separate ways.",
+      "I wanted to ask clearly without making the conversation feel like an interview.",
+      "When there was a natural pause, I asked, “Where should we meet?”",
+      "My friend answered and shared a little more about the situation.",
+      "I listened and asked a follow-up only when I needed to know more.",
+      "We found an easy next step that worked for both of us.",
+      "The conversation stayed relaxed and gave us what we needed to know.",
+      "I remembered the phrasing because it fit the moment so well."
+    ],
+    "categoryTitle": "Natural questions",
+    "frequencyRank": 1
+  },
+  {
+    "id": "q05",
+    "category": "everyday",
+    "bad": "How long time do you need?",
+    "good": "How much time do you need?",
+    "why": "Use “how much time” to ask about an amount of time. You can also ask “How long will you need?” “Time” is uncountable here, so “much” fits; “how long” asks about duration directly and is often the shorter conversational choice.",
+    "tags": [
+      "questioning",
+      "casual"
+    ],
+    "story": [
+      "I was helping a friend plan the afternoon.",
+      "We had a few minutes to talk before heading our separate ways.",
+      "I wanted to ask clearly without making the conversation feel like an interview.",
+      "When there was a natural pause, I asked, “How much time do you need?”",
+      "My friend answered and shared a little more about the situation.",
+      "I listened and asked a follow-up only when I needed to know more.",
+      "We found an easy next step that worked for both of us.",
+      "The conversation stayed relaxed and gave us what we needed to know.",
+      "I remembered the phrasing because it fit the moment so well."
+    ],
+    "categoryTitle": "Natural questions",
+    "frequencyRank": 1
+  },
+  {
+    "id": "q06",
+    "category": "everyday",
+    "bad": "What time is now?",
+    "good": "What time is it?",
+    "why": "The natural question for asking the current time is “What time is it?” English uses the dummy subject “it” in this expression; “What time is now?” copies a word order that does not work for this question.",
+    "tags": [
+      "questioning",
+      "casual"
+    ],
+    "story": [
+      "I was waiting outside the library with a classmate.",
+      "We had a few minutes to talk before heading our separate ways.",
+      "I wanted to ask clearly without making the conversation feel like an interview.",
+      "When there was a natural pause, I asked, “What time is it?”",
+      "My friend answered and shared a little more about the situation.",
+      "I listened and asked a follow-up only when I needed to know more.",
+      "We found an easy next step that worked for both of us.",
+      "The conversation stayed relaxed and gave us what we needed to know.",
+      "I remembered the phrasing because it fit the moment so well."
+    ],
+    "categoryTitle": "Natural questions",
+    "frequencyRank": 1
+  },
+  {
+    "id": "q07",
+    "category": "everyday",
+    "bad": "How do you think about this movie?",
+    "good": "What do you think of this movie?",
+    "why": "Use “What do you think of/about…?” to ask for someone’s opinion. “How do you think…?” asks about the way they think.",
+    "tags": [
+      "questioning",
+      "casual"
+    ],
+    "story": [
+      "A friend and I had just watched a movie together.",
+      "We had a few minutes to talk before heading our separate ways.",
+      "I wanted to ask clearly without making the conversation feel like an interview.",
+      "When there was a natural pause, I asked, “What do you think of this movie?”",
+      "My friend answered and shared a little more about the situation.",
+      "I listened and asked a follow-up only when I needed to know more.",
+      "We found an easy next step that worked for both of us.",
+      "The conversation stayed relaxed and gave us what we needed to know.",
+      "I remembered the phrasing because it fit the moment so well."
+    ],
+    "categoryTitle": "Natural questions",
+    "frequencyRank": 1
+  },
+  {
+    "id": "q08",
+    "category": "everyday",
+    "bad": "Do you have any plans in this weekend?",
+    "good": "Do you have any plans this weekend?",
+    "why": "Use “this weekend” without “in” when asking about plans. “This” already identifies the time period, so English does not normally add a preposition before it; compare “this weekend” with “in the weekend” (less usual in American English).",
+    "tags": [
+      "questioning",
+      "casual"
+    ],
+    "story": [
+      "I ran into a friend on Friday afternoon.",
+      "We had a few minutes to talk before heading our separate ways.",
+      "I wanted to ask clearly without making the conversation feel like an interview.",
+      "When there was a natural pause, I asked, “Do you have any plans this weekend?”",
+      "My friend answered and shared a little more about the situation.",
+      "I listened and asked a follow-up only when I needed to know more.",
+      "We found an easy next step that worked for both of us.",
+      "The conversation stayed relaxed and gave us what we needed to know.",
+      "I remembered the phrasing because it fit the moment so well."
+    ],
+    "categoryTitle": "Natural questions",
+    "frequencyRank": 1
+  },
+  {
+    "id": "q09",
+    "category": "everyday",
+    "bad": "How long you stay here?",
+    "good": "How long are you staying here?",
+    "why": "Use “are” before the subject and the -ing form to ask about the length of someone’s current visit or stay.",
+    "tags": [
+      "questioning",
+      "casual"
+    ],
+    "story": [
+      "I met a new student at a department event.",
+      "We had a few minutes to talk before heading our separate ways.",
+      "I wanted to ask clearly without making the conversation feel like an interview.",
+      "When there was a natural pause, I asked, “How long are you staying here?”",
+      "My friend answered and shared a little more about the situation.",
+      "I listened and asked a follow-up only when I needed to know more.",
+      "We found an easy next step that worked for both of us.",
+      "The conversation stayed relaxed and gave us what we needed to know.",
+      "I remembered the phrasing because it fit the moment so well."
+    ],
+    "categoryTitle": "Natural questions",
+    "frequencyRank": 2
+  },
+  {
+    "id": "q10",
+    "category": "everyday",
+    "bad": "How was your travel?",
+    "good": "How was your trip?",
+    "why": "“Trip” is the usual noun for a visit or journey. “Travel” usually describes the activity more generally.",
+    "tags": [
+      "questioning",
+      "casual"
+    ],
+    "story": [
+      "A colleague had just returned from a conference.",
+      "We had a few minutes to talk before heading our separate ways.",
+      "I wanted to ask clearly without making the conversation feel like an interview.",
+      "When there was a natural pause, I asked, “How was your trip?”",
+      "My friend answered and shared a little more about the situation.",
+      "I listened and asked a follow-up only when I needed to know more.",
+      "We found an easy next step that worked for both of us.",
+      "The conversation stayed relaxed and gave us what we needed to know.",
+      "I remembered the phrasing because it fit the moment so well."
+    ],
+    "categoryTitle": "Natural questions",
+    "frequencyRank": 2
+  },
+  {
+    "id": "q11",
+    "category": "everyday",
+    "bad": "What do you like to do in the free time?",
+    "good": "What do you like to do in your free time?",
+    "why": "Use “in your free time” when asking about someone’s hobbies or interests. The possessive “your” makes the phrase refer to that person’s available time; “the free time” would need a specific, already-known block of time to sound natural.",
+    "tags": [
+      "questioning",
+      "casual"
+    ],
+    "story": [
+      "I was getting to know a new classmate over coffee.",
+      "We had a few minutes to talk before heading our separate ways.",
+      "I wanted to ask clearly without making the conversation feel like an interview.",
+      "When there was a natural pause, I asked, “What do you like to do in your free time?”",
+      "My friend answered and shared a little more about the situation.",
+      "I listened and asked a follow-up only when I needed to know more.",
+      "We found an easy next step that worked for both of us.",
+      "The conversation stayed relaxed and gave us what we needed to know.",
+      "I remembered the phrasing because it fit the moment so well."
+    ],
+    "categoryTitle": "Natural questions",
+    "frequencyRank": 2
+  },
+  {
+    "id": "s06-001",
+    "category": "everyday",
+    "bad": "I don't care.",
+    "good": "I don't have a preference.",
+    "why": "“I don’t care” often means that you feel no interest or concern, so it can sound harsher than the Korean expression 상관없어. If you simply have no preference, say so directly: “I don’t have a preference.”",
+    "tags": [
+      "casual"
+    ],
+    "story": [
+      "A friend and I were making plans for the weekend.",
+      "We each suggested an option and checked what would fit our schedules.",
+      "I wanted to be honest about what worked for me.",
+      "I said, “I don't have a preference.”",
+      "My friend shared their preference, and we found an option we both liked.",
+      "We agreed on a time and added it to our calendars.",
+      "The plan was simple because we both spoke clearly.",
+      "I was glad we could make the decision together."
+    ],
+    "categoryTitle": "Preferences, Refusals, Plans, and Commitments",
+    "frequencyRank": 3
+  },
+  {
+    "id": "s06-002",
+    "category": "everyday",
+    "bad": "Anything is okay.",
+    "good": "I'm good with anything.",
+    "why": "“Anything is okay” is understandable, but “I’m good with anything” is the more idiomatic casual response when someone offers choices. It clearly says that any option works for you.",
+    "tags": [
+      "casual"
+    ],
+    "story": [
+      "A friend and I were making plans for the weekend.",
+      "We each suggested an option and checked what would fit our schedules.",
+      "I wanted to be honest about what worked for me.",
+      "I said, “I'm good with anything.”",
+      "My friend shared their preference, and we found an option we both liked.",
+      "We agreed on a time and added it to our calendars.",
+      "The plan was simple because we both spoke clearly.",
+      "I was glad we could make the decision together."
+    ],
+    "categoryTitle": "Preferences, Refusals, Plans, and Commitments",
+    "frequencyRank": 3
+  },
+  {
+    "id": "s06-003",
+    "category": "everyday",
+    "bad": "Whatever.",
+    "good": "Either one is fine.",
+    "why": "“Whatever” can sound as if you are annoyed or ending the discussion, especially with a flat tone. “Either one is fine” keeps the same meaning while making your flexibility clear.",
+    "tags": [
+      "casual"
+    ],
+    "story": [
+      "A friend and I were making plans for the weekend.",
+      "We each suggested an option and checked what would fit our schedules.",
+      "I wanted to be honest about what worked for me.",
+      "I said, “Either one is fine.”",
+      "My friend shared their preference, and we found an option we both liked.",
+      "We agreed on a time and added it to our calendars.",
+      "The plan was simple because we both spoke clearly.",
+      "I was glad we could make the decision together."
+    ],
+    "categoryTitle": "Preferences, Refusals, Plans, and Commitments",
+    "frequencyRank": 3
+  },
+  {
+    "id": "s06-004",
+    "category": "everyday",
+    "bad": "Whatever you want.",
+    "good": "I'm happy to go with your preference.",
+    "why": "“Whatever you want” can put the whole decision on the other person and may sound irritated depending on tone. “I’m happy to go with your preference” shows that you are cooperating willingly.",
+    "tags": [
+      "casual"
+    ],
+    "story": [
+      "A friend and I were making plans for the weekend.",
+      "We each suggested an option and checked what would fit our schedules.",
+      "I wanted to be honest about what worked for me.",
+      "I said, “I'm happy to go with your preference.”",
+      "My friend shared their preference, and we found an option we both liked.",
+      "We agreed on a time and added it to our calendars.",
+      "The plan was simple because we both spoke clearly.",
+      "I was glad we could make the decision together."
+    ],
+    "categoryTitle": "Preferences, Refusals, Plans, and Commitments",
+    "frequencyRank": 3
+  },
+  {
+    "id": "s06-005",
+    "category": "everyday",
+    "bad": "It's up to you.",
+    "good": "I'm fine either way, so you can choose.",
+    "why": "“It’s up to you” is not rude by itself, but on its own it can sound as though you are refusing to help decide. Adding “I’m fine either way” explains that you truly have no preference.",
+    "tags": [
+      "casual"
+    ],
+    "story": [
+      "A friend and I were making plans for the weekend.",
+      "We each suggested an option and checked what would fit our schedules.",
+      "I wanted to be honest about what worked for me.",
+      "I said, “I'm fine either way, so you can choose.”",
+      "My friend shared their preference, and we found an option we both liked.",
+      "We agreed on a time and added it to our calendars.",
+      "The plan was simple because we both spoke clearly.",
+      "I was glad we could make the decision together."
+    ],
+    "categoryTitle": "Preferences, Refusals, Plans, and Commitments",
+    "frequencyRank": 3
+  },
+  {
+    "id": "s06-006",
+    "category": "everyday",
+    "bad": "You decide.",
+    "good": "I'm good with either option—what do you prefer?",
+    "why": "“You decide” is a bare imperative, so it can sound abrupt. “I’m good with either option—what do you prefer?” first shares your flexibility, then invites the other person to choose.",
+    "tags": [
+      "casual"
+    ],
+    "story": [
+      "A friend and I were making plans for the weekend.",
+      "We each suggested an option and checked what would fit our schedules.",
+      "I wanted to be honest about what worked for me.",
+      "I said, “I'm good with either option—what do you prefer?”",
+      "My friend shared their preference, and we found an option we both liked.",
+      "We agreed on a time and added it to our calendars.",
+      "The plan was simple because we both spoke clearly.",
+      "I was glad we could make the decision together."
+    ],
+    "categoryTitle": "Preferences, Refusals, Plans, and Commitments",
+    "frequencyRank": 3
+  },
+  {
+    "id": "s06-007",
+    "category": "everyday",
+    "bad": "I don't mind.",
+    "good": "I'm happy with either.",
+    "why": "“I don’t mind” is natural, but it can suggest that you are merely tolerating either choice. “I’m happy with either” gives the same answer a warmer, more positive tone.",
+    "tags": [
+      "casual"
+    ],
+    "story": [
+      "A friend and I were making plans for the weekend.",
+      "We each suggested an option and checked what would fit our schedules.",
+      "I wanted to be honest about what worked for me.",
+      "I said, “I'm happy with either.”",
+      "My friend shared their preference, and we found an option we both liked.",
+      "We agreed on a time and added it to our calendars.",
+      "The plan was simple because we both spoke clearly.",
+      "I was glad we could make the decision together."
+    ],
+    "categoryTitle": "Preferences, Refusals, Plans, and Commitments",
+    "frequencyRank": 3
+  },
+  {
+    "id": "s06-008",
+    "category": "everyday",
+    "bad": "No.",
+    "good": "I don't think so. / Probably not.",
+    "why": "A bare “No” is clear but can feel abrupt in a casual exchange. “I don’t think so” or “Probably not” softens the response while still making your answer understandable.",
+    "tags": [
+      "casual"
+    ],
+    "story": [
+      "A friend and I were making plans for the weekend.",
+      "We each suggested an option and checked what would fit our schedules.",
+      "I wanted to be honest about what worked for me.",
+      "I said, “I don't think so.”",
+      "My friend shared their preference, and we found an option we both liked.",
+      "We agreed on a time and added it to our calendars.",
+      "The plan was simple because we both spoke clearly.",
+      "I was glad we could make the decision together."
+    ],
+    "categoryTitle": "Preferences, Refusals, Plans, and Commitments",
+    "frequencyRank": 3
+  },
+  {
+    "id": "s06-009",
+    "category": "everyday",
+    "bad": "I can't.",
+    "good": "I won't be able to, unfortunately.",
+    "why": "“I can’t” gives no context or softening, so it may sound cold when declining an invitation. “I won’t be able to, unfortunately” remains clear and adds a conventional note of regret.",
+    "tags": [
+      "casual"
+    ],
+    "story": [
+      "A friend and I were making plans for the weekend.",
+      "We each suggested an option and checked what would fit our schedules.",
+      "I wanted to be honest about what worked for me.",
+      "I said, “I won't be able to, unfortunately.”",
+      "My friend shared their preference, and we found an option we both liked.",
+      "We agreed on a time and added it to our calendars.",
+      "The plan was simple because we both spoke clearly.",
+      "I was glad we could make the decision together."
+    ],
+    "categoryTitle": "Preferences, Refusals, Plans, and Commitments",
+    "frequencyRank": 3
+  },
+  {
+    "id": "s06-010",
+    "category": "everyday",
+    "bad": "Maybe next time.",
+    "good": "I can't make it Friday, but I'm free next Tuesday.",
+    "why": "“Maybe next time” can sound like a polite refusal because it does not say whether you actually want to meet. Naming a time you are available makes the alternative concrete and shows interest.",
+    "tags": [
+      "casual"
+    ],
+    "story": [
+      "A friend and I were making plans for the weekend.",
+      "We each suggested an option and checked what would fit our schedules.",
+      "I wanted to be honest about what worked for me.",
+      "I said, “I can't make it Friday, but I'm free next Tuesday.”",
+      "My friend shared their preference, and we found an option we both liked.",
+      "We agreed on a time and added it to our calendars.",
+      "The plan was simple because we both spoke clearly.",
+      "I was glad we could make the decision together."
+    ],
+    "categoryTitle": "Preferences, Refusals, Plans, and Commitments",
+    "frequencyRank": 3
+  },
+  {
+    "id": "s06-011",
+    "category": "everyday",
+    "bad": "Let's see whether I can meet sometime next week.",
+    "good": "I can't meet on Monday, but I'm free Tuesday afternoon.",
+    "why": "“Let’s see whether I can…” leaves your availability unclear and may sound like you are postponing the answer. State the conflict and offer a specific time that works instead.",
+    "tags": [
+      "casual"
+    ],
+    "story": [
+      "A friend and I were making plans for the weekend.",
+      "We each suggested an option and checked what would fit our schedules.",
+      "I wanted to be honest about what worked for me.",
+      "I said, “I can't meet on Monday, but I'm free Tuesday afternoon.”",
+      "My friend shared their preference, and we found an option we both liked.",
+      "We agreed on a time and added it to our calendars.",
+      "The plan was simple because we both spoke clearly.",
+      "I was glad we could make the decision together."
+    ],
+    "categoryTitle": "Preferences, Refusals, Plans, and Commitments",
+    "frequencyRank": 3
+  },
+  {
+    "id": "s06-012",
+    "category": "everyday",
+    "bad": "I will try.",
+    "good": "I'll do my best to have it done by Friday.",
+    "why": "“I will try” does not say what you will do or when it will be finished, and it may sound uncertain. Naming the task and deadline makes your commitment easier to understand without promising more than you can do.",
+    "tags": [
+      "casual"
+    ],
+    "story": [
+      "A friend and I were making plans for the weekend.",
+      "We each suggested an option and checked what would fit our schedules.",
+      "I wanted to be honest about what worked for me.",
+      "I said, “I'll do my best to have it done by Friday.”",
+      "My friend shared their preference, and we found an option we both liked.",
+      "We agreed on a time and added it to our calendars.",
+      "The plan was simple because we both spoke clearly.",
+      "I was glad we could make the decision together."
+    ],
+    "categoryTitle": "Preferences, Refusals, Plans, and Commitments",
+    "frequencyRank": 3
+  },
+  {
+    "id": "s06-013",
+    "category": "everyday",
+    "bad": "I'll try to come.",
+    "good": "I should be able to make it.",
+    "why": "“I’ll try to come” often signals that you probably will not make it. “I should be able to make it” communicates that attending is likely, while still leaving room for a change in plans.",
+    "tags": [
+      "casual"
+    ],
+    "story": [
+      "A friend and I were making plans for the weekend.",
+      "We each suggested an option and checked what would fit our schedules.",
+      "I wanted to be honest about what worked for me.",
+      "I said, “I should be able to make it.”",
+      "My friend shared their preference, and we found an option we both liked.",
+      "We agreed on a time and added it to our calendars.",
+      "The plan was simple because we both spoke clearly.",
+      "I was glad we could make the decision together."
+    ],
+    "categoryTitle": "Preferences, Refusals, Plans, and Commitments",
+    "frequencyRank": 3
+  },
+  {
+    "id": "s06-014",
+    "category": "everyday",
+    "bad": "I will do it.",
+    "good": "Sure, I'll take care of it.",
+    "why": "“I will do it” is grammatical, but as a response to a request it can sound stiff or robotic. “Sure, I’ll take care of it” is a common conversational way to accept responsibility for a task.",
+    "tags": [
+      "casual"
+    ],
+    "story": [
+      "A friend and I were making plans for the weekend.",
+      "We each suggested an option and checked what would fit our schedules.",
+      "I wanted to be honest about what worked for me.",
+      "I said, “Sure, I'll take care of it.”",
+      "My friend shared their preference, and we found an option we both liked.",
+      "We agreed on a time and added it to our calendars.",
+      "The plan was simple because we both spoke clearly.",
+      "I was glad we could make the decision together."
+    ],
+    "categoryTitle": "Preferences, Refusals, Plans, and Commitments",
+    "frequencyRank": 3
+  },
+  {
+    "id": "s06-015",
+    "category": "everyday",
+    "bad": "I'll check it.",
+    "good": "I'll take a look.",
+    "why": "“I’ll check it” does not tell the listener whether you will inspect, review, or verify something. “I’ll take a look” is a natural casual reply when you mean that you will review it.",
+    "tags": [
+      "casual"
+    ],
+    "story": [
+      "A friend and I were making plans for the weekend.",
+      "We each suggested an option and checked what would fit our schedules.",
+      "I wanted to be honest about what worked for me.",
+      "I said, “I'll take a look.”",
+      "My friend shared their preference, and we found an option we both liked.",
+      "We agreed on a time and added it to our calendars.",
+      "The plan was simple because we both spoke clearly.",
+      "I was glad we could make the decision together."
+    ],
+    "categoryTitle": "Preferences, Refusals, Plans, and Commitments",
+    "frequencyRank": 3
+  },
+  {
+    "id": "s06-016",
+    "category": "everyday",
+    "bad": "I'll confirm and tell you.",
+    "good": "I'll check and get back to you.",
+    "why": "English speakers commonly say “check and get back to you” when they need to verify something before replying. It tells the listener both what you will do now and that you will follow up later.",
+    "tags": [
+      "casual"
+    ],
+    "story": [
+      "A friend and I were making plans for the weekend.",
+      "We each suggested an option and checked what would fit our schedules.",
+      "I wanted to be honest about what worked for me.",
+      "I said, “I'll check and get back to you.”",
+      "My friend shared their preference, and we found an option we both liked.",
+      "We agreed on a time and added it to our calendars.",
+      "The plan was simple because we both spoke clearly.",
+      "I was glad we could make the decision together."
+    ],
+    "categoryTitle": "Preferences, Refusals, Plans, and Commitments",
+    "frequencyRank": 3
+  },
+  {
+    "id": "s07-001",
+    "category": "everyday",
+    "bad": "Did you eat?",
+    "good": "How's it going?",
+    "why": "In Korean, this can work as a greeting that shows care. In English, “Did you eat?” is usually understood as a literal question about a meal, so “How’s it going?” is a clearer general greeting.",
+    "tags": [
+      "casual"
+    ],
+    "story": [
+      "I ran into a classmate outside the library one afternoon.",
+      "We stopped for a few minutes and caught up on the week.",
+      "I asked a friendly question and listened to what had been happening for them.",
+      "I said, “How's it going?”",
+      "They answered with a story about a recent class and asked how I was doing.",
+      "We shared a laugh and talked about where to get coffee.",
+      "Before heading off, we made a loose plan to meet again.",
+      "It was a small conversation, but it made campus feel more welcoming."
+    ],
+    "categoryTitle": "Small Talk, Social Questions, and Cultural Generalizations",
+    "frequencyRank": 3
+  },
+  {
+    "id": "s07-002",
+    "category": "everyday",
+    "bad": "Have you eaten?",
+    "good": "Do you want to grab lunch?",
+    "why": "“Have you eaten?” asks about whether someone has already had food; it does not usually invite them to eat with you. “Do you want to grab lunch?” makes the invitation explicit and sounds casual.",
+    "tags": [
+      "casual"
+    ],
+    "story": [
+      "I ran into a classmate outside the library one afternoon.",
+      "We stopped for a few minutes and caught up on the week.",
+      "I asked a friendly question and listened to what had been happening for them.",
+      "I said, “Do you want to grab lunch?”",
+      "They answered with a story about a recent class and asked how I was doing.",
+      "We shared a laugh and talked about where to get coffee.",
+      "Before heading off, we made a loose plan to meet again.",
+      "It was a small conversation, but it made campus feel more welcoming."
+    ],
+    "categoryTitle": "Small Talk, Social Questions, and Cultural Generalizations",
+    "frequencyRank": 3
+  },
+  {
+    "id": "s07-003",
+    "category": "everyday",
+    "bad": "Eat a lot.",
+    "good": "Help yourself. / Have some more.",
+    "why": "“Eat a lot” sounds like a direct command in English. At a meal, “Help yourself” invites someone to take food, while “Have some more” offers an additional serving.",
+    "tags": [
+      "casual"
+    ],
+    "story": [
+      "I ran into a classmate outside the library one afternoon.",
+      "We stopped for a few minutes and caught up on the week.",
+      "I asked a friendly question and listened to what had been happening for them.",
+      "I said, “Help yourself.”",
+      "They answered with a story about a recent class and asked how I was doing.",
+      "We shared a laugh and talked about where to get coffee.",
+      "Before heading off, we made a loose plan to meet again.",
+      "It was a small conversation, but it made campus feel more welcoming."
+    ],
+    "categoryTitle": "Small Talk, Social Questions, and Cultural Generalizations",
+    "frequencyRank": 3
+  },
+  {
+    "id": "s07-004",
+    "category": "everyday",
+    "bad": "Please eat.",
+    "good": "Go ahead. / Dig in.",
+    "why": "“Please eat” is a direct instruction and can sound formal or commanding at the table. “Go ahead” or “Dig in” gives people a relaxed cue that they can start eating.",
+    "tags": [
+      "casual"
+    ],
+    "story": [
+      "I ran into a classmate outside the library one afternoon.",
+      "We stopped for a few minutes and caught up on the week.",
+      "I asked a friendly question and listened to what had been happening for them.",
+      "I said, “Go ahead.”",
+      "They answered with a story about a recent class and asked how I was doing.",
+      "We shared a laugh and talked about where to get coffee.",
+      "Before heading off, we made a loose plan to meet again.",
+      "It was a small conversation, but it made campus feel more welcoming."
+    ],
+    "categoryTitle": "Small Talk, Social Questions, and Cultural Generalizations",
+    "frequencyRank": 3
+  },
+  {
+    "id": "s07-005",
+    "category": "everyday",
+    "bad": "I will buy.",
+    "good": "I've got this. / It's on me.",
+    "why": "“I will buy” does not identify what you are buying and is not the usual way to offer to pay. “I’ve got this” and “It’s on me” make the offer to cover the cost clear.",
+    "tags": [
+      "casual"
+    ],
+    "story": [
+      "I ran into a classmate outside the library one afternoon.",
+      "We stopped for a few minutes and caught up on the week.",
+      "I asked a friendly question and listened to what had been happening for them.",
+      "I said, “I've got this.”",
+      "They answered with a story about a recent class and asked how I was doing.",
+      "We shared a laugh and talked about where to get coffee.",
+      "Before heading off, we made a loose plan to meet again.",
+      "It was a small conversation, but it made campus feel more welcoming."
+    ],
+    "categoryTitle": "Small Talk, Social Questions, and Cultural Generalizations",
+    "frequencyRank": 3
+  },
+  {
+    "id": "s07-006",
+    "category": "everyday",
+    "bad": "I will treat you.",
+    "good": "Lunch is on me.",
+    "why": "“I will treat you” is understandable, but in casual conversation English usually names the meal or says who is paying. “Lunch is on me” clearly offers to pay for lunch.",
+    "tags": [
+      "casual"
+    ],
+    "story": [
+      "I ran into a classmate outside the library one afternoon.",
+      "We stopped for a few minutes and caught up on the week.",
+      "I asked a friendly question and listened to what had been happening for them.",
+      "I said, “Lunch is on me.”",
+      "They answered with a story about a recent class and asked how I was doing.",
+      "We shared a laugh and talked about where to get coffee.",
+      "Before heading off, we made a loose plan to meet again.",
+      "It was a small conversation, but it made campus feel more welcoming."
+    ],
+    "categoryTitle": "Small Talk, Social Questions, and Cultural Generalizations",
+    "frequencyRank": 3
+  },
+  {
+    "id": "s07-007",
+    "category": "everyday",
+    "bad": "Let's eat together sometime.",
+    "good": "We should grab lunch sometime.",
+    "why": "“Let’s eat together sometime” is understandable, but it can sound translated and leaves the invitation broad. “We should grab lunch sometime” is a common casual way to suggest meeting over a meal.",
+    "tags": [
+      "casual"
+    ],
+    "story": [
+      "I ran into a classmate outside the library one afternoon.",
+      "We stopped for a few minutes and caught up on the week.",
+      "I asked a friendly question and listened to what had been happening for them.",
+      "I said, “We should grab lunch sometime.”",
+      "They answered with a story about a recent class and asked how I was doing.",
+      "We shared a laugh and talked about where to get coffee.",
+      "Before heading off, we made a loose plan to meet again.",
+      "It was a small conversation, but it made campus feel more welcoming."
+    ],
+    "categoryTitle": "Small Talk, Social Questions, and Cultural Generalizations",
+    "frequencyRank": 3
+  },
+  {
+    "id": "s07-008",
+    "category": "everyday",
+    "bad": "Let's have a meal.",
+    "good": "Let's grab lunch.",
+    "why": "“Have a meal” is grammatical, but it sounds more formal than a casual invitation. “Grab lunch” is an informal expression for getting lunch together; use it when lunch is what you have in mind.",
+    "tags": [
+      "casual"
+    ],
+    "story": [
+      "I ran into a classmate outside the library one afternoon.",
+      "We stopped for a few minutes and caught up on the week.",
+      "I asked a friendly question and listened to what had been happening for them.",
+      "I said, “Let's grab lunch.”",
+      "They answered with a story about a recent class and asked how I was doing.",
+      "We shared a laugh and talked about where to get coffee.",
+      "Before heading off, we made a loose plan to meet again.",
+      "It was a small conversation, but it made campus feel more welcoming."
+    ],
+    "categoryTitle": "Small Talk, Social Questions, and Cultural Generalizations",
+    "frequencyRank": 3
+  },
+  {
+    "id": "s07-009",
+    "category": "everyday",
+    "bad": "How about your research?",
+    "good": "How's your research going?",
+    "why": "“How about your research?” can sound like you are proposing the topic rather than asking how it is progressing. “How’s your research going?” directly asks about the current state of someone’s work.",
+    "tags": [
+      "research"
+    ],
+    "story": [
+      "I ran into a classmate outside the library one afternoon.",
+      "We stopped for a few minutes and caught up on the week.",
+      "I asked a friendly question and listened to what had been happening for them.",
+      "I said, “How's your research going?”",
+      "They answered with a story about a recent class and asked how I was doing.",
+      "We shared a laugh and talked about where to get coffee.",
+      "Before heading off, we made a loose plan to meet again.",
+      "It was a small conversation, but it made campus feel more welcoming."
+    ],
+    "categoryTitle": "Small Talk, Social Questions, and Cultural Generalizations",
+    "frequencyRank": 3
+  },
+  {
+    "id": "s07-010",
+    "category": "everyday",
+    "bad": "How about the experiment?",
+    "good": "How did the experiment go?",
+    "why": "“How about the experiment?” could introduce a suggestion or ask someone to discuss the experiment, so the question is unclear. “How did the experiment go?” specifically asks about its outcome.",
+    "tags": [
+      "research"
+    ],
+    "story": [
+      "I ran into a classmate outside the library one afternoon.",
+      "We stopped for a few minutes and caught up on the week.",
+      "I asked a friendly question and listened to what had been happening for them.",
+      "I said, “How did the experiment go?”",
+      "They answered with a story about a recent class and asked how I was doing.",
+      "We shared a laugh and talked about where to get coffee.",
+      "Before heading off, we made a loose plan to meet again.",
+      "It was a small conversation, but it made campus feel more welcoming."
+    ],
+    "categoryTitle": "Small Talk, Social Questions, and Cultural Generalizations",
+    "frequencyRank": 3
+  },
+  {
+    "id": "s07-011",
+    "category": "everyday",
+    "bad": "Nothing special.",
+    "good": "Nothing too exciting—I mostly relaxed.",
+    "why": "“Nothing special” is a valid short answer, but it can close down small talk. Adding a small detail, as in “Nothing too exciting—I mostly relaxed,” gives the other person something easy to respond to.",
+    "tags": [
+      "presentation",
+      "casual"
+    ],
+    "story": [
+      "I ran into a classmate outside the library one afternoon.",
+      "We stopped for a few minutes and caught up on the week.",
+      "I asked a friendly question and listened to what had been happening for them.",
+      "I said, “Nothing too exciting—I mostly relaxed.”",
+      "They answered with a story about a recent class and asked how I was doing.",
+      "We shared a laugh and talked about where to get coffee.",
+      "Before heading off, we made a loose plan to meet again.",
+      "It was a small conversation, but it made campus feel more welcoming."
+    ],
+    "categoryTitle": "Small Talk, Social Questions, and Cultural Generalizations",
+    "frequencyRank": 3
+  },
+  {
+    "id": "s07-012",
+    "category": "everyday",
+    "bad": "Same as usual.",
+    "good": "Pretty normal, but good.",
+    "why": "“Same as usual” can sound flat because it gives no hint about how you feel. “Pretty normal, but good” keeps the answer brief while adding a friendly, positive note.",
+    "tags": [
+      "casual"
+    ],
+    "story": [
+      "I ran into a classmate outside the library one afternoon.",
+      "We stopped for a few minutes and caught up on the week.",
+      "I asked a friendly question and listened to what had been happening for them.",
+      "I said, “Pretty normal, but good.”",
+      "They answered with a story about a recent class and asked how I was doing.",
+      "We shared a laugh and talked about where to get coffee.",
+      "Before heading off, we made a loose plan to meet again.",
+      "It was a small conversation, but it made campus feel more welcoming."
+    ],
+    "categoryTitle": "Small Talk, Social Questions, and Cultural Generalizations",
+    "frequencyRank": 3
+  },
+  {
+    "id": "s07-013",
+    "category": "everyday",
+    "bad": "I'm fine.",
+    "good": "I'm good, thanks.",
+    "why": "“I’m fine” is correct and can be perfectly natural. In a casual U.S. conversation it may sound more formal or distant than “I’m good, thanks,” which is a common friendly response.",
+    "tags": [
+      "casual"
+    ],
+    "story": [
+      "I ran into a classmate outside the library one afternoon.",
+      "We stopped for a few minutes and caught up on the week.",
+      "I asked a friendly question and listened to what had been happening for them.",
+      "I said, “I'm good, thanks.”",
+      "They answered with a story about a recent class and asked how I was doing.",
+      "We shared a laugh and talked about where to get coffee.",
+      "Before heading off, we made a loose plan to meet again.",
+      "It was a small conversation, but it made campus feel more welcoming."
+    ],
+    "categoryTitle": "Small Talk, Social Questions, and Cultural Generalizations",
+    "frequencyRank": 3
+  },
+  {
+    "id": "s07-014",
+    "category": "everyday",
+    "bad": "I'm okay.",
+    "good": "I'm doing well.",
+    "why": "“I’m okay” is natural, but listeners may hear it as “I’m not great, but I’m managing.” “I’m doing well” is clearer when you mean that things are going well.",
+    "tags": [
+      "casual"
+    ],
+    "story": [
+      "I ran into a classmate outside the library one afternoon.",
+      "We stopped for a few minutes and caught up on the week.",
+      "I asked a friendly question and listened to what had been happening for them.",
+      "I said, “I'm doing well.”",
+      "They answered with a story about a recent class and asked how I was doing.",
+      "We shared a laugh and talked about where to get coffee.",
+      "Before heading off, we made a loose plan to meet again.",
+      "It was a small conversation, but it made campus feel more welcoming."
+    ],
+    "categoryTitle": "Small Talk, Social Questions, and Cultural Generalizations",
+    "frequencyRank": 3
+  },
+  {
+    "id": "s07-015",
+    "category": "everyday",
+    "bad": "It's so-so.",
+    "good": "It was okay.",
+    "why": "“So-so” is understood, but it is less common in everyday American English. “It was okay” is a more usual way to give a mildly positive or neutral reaction to a past event.",
+    "tags": [
+      "casual"
+    ],
+    "story": [
+      "I ran into a classmate outside the library one afternoon.",
+      "We stopped for a few minutes and caught up on the week.",
+      "I asked a friendly question and listened to what had been happening for them.",
+      "I said, “It was okay.”",
+      "They answered with a story about a recent class and asked how I was doing.",
+      "We shared a laugh and talked about where to get coffee.",
+      "Before heading off, we made a loose plan to meet again.",
+      "It was a small conversation, but it made campus feel more welcoming."
+    ],
+    "categoryTitle": "Small Talk, Social Questions, and Cultural Generalizations",
+    "frequencyRank": 3
+  },
+  {
+    "id": "s07-016",
+    "category": "everyday",
+    "bad": "You look tired.",
+    "good": "Long day?",
+    "why": "“You look tired” comments directly on someone’s appearance and can feel personal. “Long day?” is a brief, gentler question that lets the person choose whether to explain how they feel.",
+    "tags": [
+      "casual"
+    ],
+    "story": [
+      "I ran into a classmate outside the library one afternoon.",
+      "We stopped for a few minutes and caught up on the week.",
+      "I asked a friendly question and listened to what had been happening for them.",
+      "I said, “Long day?”",
+      "They answered with a story about a recent class and asked how I was doing.",
+      "We shared a laugh and talked about where to get coffee.",
+      "Before heading off, we made a loose plan to meet again.",
+      "It was a small conversation, but it made campus feel more welcoming."
+    ],
+    "categoryTitle": "Small Talk, Social Questions, and Cultural Generalizations",
+    "frequencyRank": 3
+  },
+  {
+    "id": "s07-017",
+    "category": "everyday",
+    "bad": "You gained weight since last semester.",
+    "good": "It's good to see you again. How have you been?",
+    "why": "Comments about weight are personal and can embarrass someone, even when intended as an observation. A warm greeting such as “It’s good to see you again” reconnects without evaluating the person’s body.",
+    "tags": [
+      "casual"
+    ],
+    "story": [
+      "I ran into a classmate outside the library one afternoon.",
+      "We stopped for a few minutes and caught up on the week.",
+      "I asked a friendly question and listened to what had been happening for them.",
+      "I said, “It's good to see you again. How have you been?”",
+      "They answered with a story about a recent class and asked how I was doing.",
+      "We shared a laugh and talked about where to get coffee.",
+      "Before heading off, we made a loose plan to meet again.",
+      "It was a small conversation, but it made campus feel more welcoming."
+    ],
+    "categoryTitle": "Small Talk, Social Questions, and Cultural Generalizations",
+    "frequencyRank": 3
+  },
+  {
+    "id": "s07-018",
+    "category": "everyday",
+    "bad": "You lost weight since I last saw you.",
+    "good": "It's good to see you. How have things been going?",
+    "why": "A weight-loss comment is not always received as a compliment because it draws attention to someone’s body and may imply that their earlier appearance was worse. Asking how things have been gives them room to share what they choose.",
+    "tags": [
+      "casual"
+    ],
+    "story": [
+      "I ran into a classmate outside the library one afternoon.",
+      "We stopped for a few minutes and caught up on the week.",
+      "I asked a friendly question and listened to what had been happening for them.",
+      "I said, “It's good to see you. How have things been going?”",
+      "They answered with a story about a recent class and asked how I was doing.",
+      "We shared a laugh and talked about where to get coffee.",
+      "Before heading off, we made a loose plan to meet again.",
+      "It was a small conversation, but it made campus feel more welcoming."
+    ],
+    "categoryTitle": "Small Talk, Social Questions, and Cultural Generalizations",
+    "frequencyRank": 3
+  },
+  {
+    "id": "s07-019",
+    "category": "everyday",
+    "bad": "You look healthy.",
+    "good": "You look great.",
+    "why": "“You look healthy” can be heard as a comment about someone’s weight or appearance rather than a simple compliment. “You look great” is warmer, though compliments about appearance still depend on your relationship and the setting.",
+    "tags": [
+      "casual"
+    ],
+    "story": [
+      "I ran into a classmate outside the library one afternoon.",
+      "We stopped for a few minutes and caught up on the week.",
+      "I asked a friendly question and listened to what had been happening for them.",
+      "I said, “You look great.”",
+      "They answered with a story about a recent class and asked how I was doing.",
+      "We shared a laugh and talked about where to get coffee.",
+      "Before heading off, we made a loose plan to meet again.",
+      "It was a small conversation, but it made campus feel more welcoming."
+    ],
+    "categoryTitle": "Small Talk, Social Questions, and Cultural Generalizations",
+    "frequencyRank": 3
+  },
+  {
+    "id": "s07-020",
+    "category": "everyday",
+    "bad": "Are you married?",
+    "good": "Do you have any plans for the weekend?",
+    "why": "Asking whether someone is married can feel intrusive when you do not know them well. A question about weekend plans is lighter and gives them control over how much personal information to share.",
+    "tags": [
+      "presentation",
+      "casual"
+    ],
+    "story": [
+      "I ran into a classmate outside the library one afternoon.",
+      "We stopped for a few minutes and caught up on the week.",
+      "I asked a friendly question and listened to what had been happening for them.",
+      "I said, “Do you have any plans for the weekend?”",
+      "They answered with a story about a recent class and asked how I was doing.",
+      "We shared a laugh and talked about where to get coffee.",
+      "Before heading off, we made a loose plan to meet again.",
+      "It was a small conversation, but it made campus feel more welcoming."
+    ],
+    "categoryTitle": "Small Talk, Social Questions, and Cultural Generalizations",
+    "frequencyRank": 3
+  },
+  {
+    "id": "s07-021",
+    "category": "everyday",
+    "bad": "How old are you?",
+    "good": "How long have you been in the program?",
+    "why": "Asking an adult’s age can feel overly personal when it is not relevant to the conversation. Asking how long they have been in the program shifts attention to a shared context instead.",
+    "tags": [
+      "casual"
+    ],
+    "story": [
+      "I ran into a classmate outside the library one afternoon.",
+      "We stopped for a few minutes and caught up on the week.",
+      "I asked a friendly question and listened to what had been happening for them.",
+      "I said, “How long have you been in the program?”",
+      "They answered with a story about a recent class and asked how I was doing.",
+      "We shared a laugh and talked about where to get coffee.",
+      "Before heading off, we made a loose plan to meet again.",
+      "It was a small conversation, but it made campus feel more welcoming."
+    ],
+    "categoryTitle": "Small Talk, Social Questions, and Cultural Generalizations",
+    "frequencyRank": 3
+  },
+  {
+    "id": "s07-022",
+    "category": "everyday",
+    "bad": "How much is your salary?",
+    "good": "How do you like working at your company?",
+    "why": "Salary is private information, so asking directly can make a new acquaintance uncomfortable. Asking how they like their work invites conversation without requesting a specific personal figure.",
+    "tags": [
+      "casual"
+    ],
+    "story": [
+      "I ran into a classmate outside the library one afternoon.",
+      "We stopped for a few minutes and caught up on the week.",
+      "I asked a friendly question and listened to what had been happening for them.",
+      "I said, “How do you like working at your company?”",
+      "They answered with a story about a recent class and asked how I was doing.",
+      "We shared a laugh and talked about where to get coffee.",
+      "Before heading off, we made a loose plan to meet again.",
+      "It was a small conversation, but it made campus feel more welcoming."
+    ],
+    "categoryTitle": "Small Talk, Social Questions, and Cultural Generalizations",
+    "frequencyRank": 3
+  },
+  {
+    "id": "s07-023",
+    "category": "everyday",
+    "bad": "Why did you come to America?",
+    "good": "What brought you to the U.S.?",
+    "why": "“Why did you come to America?” can sound as if you are questioning someone’s presence or treating them as an outsider. “What brought you to the U.S.?” is more open-ended and lets them decide how much of their story to tell.",
+    "tags": [
+      "casual"
+    ],
+    "story": [
+      "I ran into a classmate outside the library one afternoon.",
+      "We stopped for a few minutes and caught up on the week.",
+      "I asked a friendly question and listened to what had been happening for them.",
+      "I said, “What brought you to the U.S.?”",
+      "They answered with a story about a recent class and asked how I was doing.",
+      "We shared a laugh and talked about where to get coffee.",
+      "Before heading off, we made a loose plan to meet again.",
+      "It was a small conversation, but it made campus feel more welcoming."
+    ],
+    "categoryTitle": "Small Talk, Social Questions, and Cultural Generalizations",
+    "frequencyRank": 3
+  },
+  {
+    "id": "s07-024",
+    "category": "everyday",
+    "bad": "When will you go back to your country?",
+    "good": "Do you think you'll stay in the U.S. after graduation?",
+    "why": "“When will you go back to your country?” assumes that the person does not belong where they live and expects them to leave. Asking whether they think they will stay after graduation avoids that assumption.",
+    "tags": [
+      "casual"
+    ],
+    "story": [
+      "I ran into a classmate outside the library one afternoon.",
+      "We stopped for a few minutes and caught up on the week.",
+      "I asked a friendly question and listened to what had been happening for them.",
+      "I said, “Do you think you'll stay in the U.S. after graduation?”",
+      "They answered with a story about a recent class and asked how I was doing.",
+      "We shared a laugh and talked about where to get coffee.",
+      "Before heading off, we made a loose plan to meet again.",
+      "It was a small conversation, but it made campus feel more welcoming."
+    ],
+    "categoryTitle": "Small Talk, Social Questions, and Cultural Generalizations",
+    "frequencyRank": 3
+  },
+  {
+    "id": "s07-025",
+    "category": "everyday",
+    "bad": "American people are very direct.",
+    "good": "People in the U.S. can be quite direct in some settings.",
+    "why": "“American people” is understandable, but “people in the U.S.” is often a more natural way to refer to residents of the country. Adding “in some settings” also avoids making a broad claim about everyone.",
+    "tags": [
+      "casual"
+    ],
+    "story": [
+      "I ran into a classmate outside the library one afternoon.",
+      "We stopped for a few minutes and caught up on the week.",
+      "I asked a friendly question and listened to what had been happening for them.",
+      "I said, “People in the U.S. can be quite direct in some settings.”",
+      "They answered with a story about a recent class and asked how I was doing.",
+      "We shared a laugh and talked about where to get coffee.",
+      "Before heading off, we made a loose plan to meet again.",
+      "It was a small conversation, but it made campus feel more welcoming."
+    ],
+    "categoryTitle": "Small Talk, Social Questions, and Cultural Generalizations",
+    "frequencyRank": 3
+  },
+  {
+    "id": "s07-026",
+    "category": "everyday",
+    "bad": "Korean people usually avoid direct disagreement.",
+    "good": "In Korea, it's common to avoid very direct disagreement in some situations.",
+    "why": "The original makes a claim about Korean people as a whole. “In Korea, it’s common…” describes a tendency in some situations without suggesting that every person behaves the same way.",
+    "tags": [
+      "casual"
+    ],
+    "story": [
+      "I ran into a classmate outside the library one afternoon.",
+      "We stopped for a few minutes and caught up on the week.",
+      "I asked a friendly question and listened to what had been happening for them.",
+      "I said, “In Korea, it's common to avoid very direct disagreement in some situations.”",
+      "They answered with a story about a recent class and asked how I was doing.",
+      "We shared a laugh and talked about where to get coffee.",
+      "Before heading off, we made a loose plan to meet again.",
+      "It was a small conversation, but it made campus feel more welcoming."
+    ],
+    "categoryTitle": "Small Talk, Social Questions, and Cultural Generalizations",
+    "frequencyRank": 3
+  },
+  {
+    "id": "s07-027",
+    "category": "everyday",
+    "bad": "Western people communicate more directly.",
+    "good": "People in the U.S. often communicate more directly in academic settings.",
+    "why": "“Western people” covers many countries and can make a sweeping cultural claim. Naming the U.S. and the academic setting narrows the statement to the context you mean.",
+    "tags": [
+      "casual"
+    ],
+    "story": [
+      "I ran into a classmate outside the library one afternoon.",
+      "We stopped for a few minutes and caught up on the week.",
+      "I asked a friendly question and listened to what had been happening for them.",
+      "I said, “People in the U.S. often communicate more directly in academic settings.”",
+      "They answered with a story about a recent class and asked how I was doing.",
+      "We shared a laugh and talked about where to get coffee.",
+      "Before heading off, we made a loose plan to meet again.",
+      "It was a small conversation, but it made campus feel more welcoming."
+    ],
+    "categoryTitle": "Small Talk, Social Questions, and Cultural Generalizations",
+    "frequencyRank": 3
+  },
+  {
+    "id": "s07-028",
+    "category": "everyday",
+    "bad": "In our country, people usually use titles with professors.",
+    "good": "In Korea, people usually use titles with professors.",
+    "why": "“Our country” is unclear to listeners who may not know which country you mean. Naming Korea makes the reference specific and easy to follow.",
+    "tags": [
+      "formal"
+    ],
+    "story": [
+      "I ran into a classmate outside the library one afternoon.",
+      "We stopped for a few minutes and caught up on the week.",
+      "I asked a friendly question and listened to what had been happening for them.",
+      "I said, “In Korea, people usually use titles with professors.”",
+      "They answered with a story about a recent class and asked how I was doing.",
+      "We shared a laugh and talked about where to get coffee.",
+      "Before heading off, we made a loose plan to meet again.",
+      "It was a small conversation, but it made campus feel more welcoming."
+    ],
+    "categoryTitle": "Small Talk, Social Questions, and Cultural Generalizations",
+    "frequencyRank": 3
+  },
+  {
+    "id": "s07-029",
+    "category": "everyday",
+    "bad": "Our culture is very hierarchical.",
+    "good": "One common norm in Korea is to pay close attention to seniority.",
+    "why": "“Our culture is hierarchical” is broad and does not say which behavior you have in mind. Describing a specific norm, such as attention to seniority, makes the point more precise and easier to discuss.",
+    "tags": [
+      "casual"
+    ],
+    "story": [
+      "I ran into a classmate outside the library one afternoon.",
+      "We stopped for a few minutes and caught up on the week.",
+      "I asked a friendly question and listened to what had been happening for them.",
+      "I said, “One common norm in Korea is to pay close attention to seniority.”",
+      "They answered with a story about a recent class and asked how I was doing.",
+      "We shared a laugh and talked about where to get coffee.",
+      "Before heading off, we made a loose plan to meet again.",
+      "It was a small conversation, but it made campus feel more welcoming."
+    ],
+    "categoryTitle": "Small Talk, Social Questions, and Cultural Generalizations",
+    "frequencyRank": 3
+  },
+  {
+    "id": "d01-001",
+    "category": "everyday",
+    "categoryTitle": "Everyday requests and favors",
+    "frequencyRank": 1,
+    "bad": "Could you give me a favor?",
+    "good": "Could you do me a favor?",
+    "why": "English uses the collocation “do someone a favor,” not “give someone a favor.” “Could you…” turns it into a polite request; you can follow it with the specific thing you need.",
+    "tags": [
+      "casual",
+      "requests"
+    ],
+    "story": [
+      "I was carrying a few boxes into the community room before our club meeting.",
+      "One box was awkward to lift while I held the door open.",
+      "My friend was nearby, so I asked, “Could you do me a favor?”",
+      "I explained that I needed help carrying the box inside.",
+      "They picked up the other side, and we moved it together.",
+      "I thanked them and set out the materials for the meeting."
+    ]
+  },
+  {
+    "id": "d01-002",
+    "category": "everyday",
+    "categoryTitle": "Everyday requests and favors",
+    "frequencyRank": 1,
+    "bad": "I will wait you outside.",
+    "good": "I’ll wait for you outside.",
+    "why": "In English, “wait” is followed by “for” before the person you are waiting for. The contraction “I’ll” also sounds natural when you are telling someone your immediate plan.",
+    "tags": [
+      "casual",
+      "plans"
+    ],
+    "story": [
+      "We agreed to meet near the entrance after work.",
+      "My friend texted that they needed a few more minutes.",
+      "I told them, “I’ll wait for you outside.”",
+      "I found a spot by the main doors and stayed out of the rain.",
+      "They arrived shortly afterward and waved when they saw me.",
+      "We walked to the café together."
+    ]
+  },
+  {
+    "id": "d01-003",
+    "category": "everyday",
+    "categoryTitle": "Everyday movement and plans",
+    "frequencyRank": 1,
+    "bad": "I’m going to home now.",
+    "good": "I’m going home now.",
+    "why": "“Home” can work as an adverb meaning “to the place where you live,” so it does not take “to” after “go.” Say “go to my home” only when you use “home” as a noun phrase, which is less common in this everyday context.",
+    "tags": [
+      "casual",
+      "grammar"
+    ],
+    "story": [
+      "The movie had just ended, and it was getting late.",
+      "A few people in the group were deciding whether to find dessert.",
+      "I had an early start the next morning, so I said, “I’m going home now.”",
+      "My friend asked whether I wanted to share a ride.",
+      "We walked to the station together and checked the train times.",
+      "I sent a quick message when I got home."
+    ]
+  },
+  {
+    "id": "d01-004",
+    "category": "everyday",
+    "categoryTitle": "Everyday greetings and check-ins",
+    "frequencyRank": 1,
+    "bad": "I didn’t see you for a long time.",
+    "good": "I haven’t seen you in a long time.",
+    "why": "The present perfect (“haven’t seen”) connects the past to now: the time apart began earlier and continues up to this meeting. “In a long time” is a common phrase in this greeting; the simple past would usually refer to a finished past period.",
+    "tags": [
+      "casual",
+      "grammar"
+    ],
+    "story": [
+      "I ran into a former classmate at the weekend market.",
+      "We recognized each other near the fruit stand and stopped to talk.",
+      "I smiled and said, “I haven’t seen you in a long time.”",
+      "They told me they had moved to a neighborhood across town.",
+      "We caught up on work, friends, and the places we used to visit.",
+      "Before leaving, we exchanged numbers and made plans to meet again."
+    ]
+  },
+  {
+    "id": "d01-005",
+    "category": "everyday",
+    "categoryTitle": "Everyday plans and timing",
+    "frequencyRank": 1,
+    "bad": "I’m late 10 minutes.",
+    "good": "I’m running about ten minutes late.",
+    "why": "English commonly uses “run late” to report that you are behind schedule. “About ten minutes” gives a useful estimate, while the present progressive describes the delay happening now.",
+    "tags": [
+      "casual",
+      "plans"
+    ],
+    "story": [
+      "Traffic slowed to a crawl on the way to dinner.",
+      "I checked the map and saw that the arrival time had moved back.",
+      "I texted my friend, “I’m running about ten minutes late.”",
+      "They replied that they would save me a seat.",
+      "I found parking a few minutes later and hurried inside.",
+      "We ordered drinks while we waited for the food."
+    ]
+  },
+  {
+    "id": "d01-006",
+    "category": "everyday",
+    "categoryTitle": "Everyday conversation and clarification",
+    "frequencyRank": 1,
+    "bad": "I couldn’t listen you.",
+    "good": "I didn’t catch that.",
+    "why": "“Listen” usually describes paying attention to sound; it does not mean that you failed to hear one particular sentence. “I didn’t catch that” is a common conversational way to say you missed what someone just said and invite them to repeat it.",
+    "tags": [
+      "casual",
+      "clarification"
+    ],
+    "story": [
+      "The café was crowded, and the music was louder than usual.",
+      "My friend told me which table they had reserved.",
+      "I missed part of the sentence when a blender started.",
+      "I said, “I didn’t catch that. Which table did you say?”",
+      "They repeated the number, and I found the table near the window.",
+      "We sat down and continued our conversation."
+    ]
+  },
+  {
+    "id": "d01-007",
+    "category": "everyday",
+    "categoryTitle": "Everyday thanks and follow-ups",
+    "frequencyRank": 1,
+    "bad": "Thank you for inform me.",
+    "good": "Thanks for letting me know.",
+    "why": "After “for,” use a noun or an -ing form, so “inform” would need to become “informing.” In this situation, “let me know” is the more conversational expression for giving someone useful information.",
+    "tags": [
+      "casual",
+      "grammar"
+    ],
+    "story": [
+      "My neighbor messaged me that the building elevator would be out of service.",
+      "I had been planning to bring several heavy bags upstairs that evening.",
+      "I replied, “Thanks for letting me know.”",
+      "I changed my plan and picked up only what I could carry.",
+      "The next day, I used the stairs when I came home.",
+      "The early message saved me an inconvenient trip back to the lobby."
+    ]
+  },
+  {
+    "id": "d01-008",
+    "category": "everyday",
+    "categoryTitle": "Everyday plans and timing",
+    "frequencyRank": 2,
+    "bad": "Tell me when you will be free.",
+    "good": "Let me know when you’re free.",
+    "why": "“Tell me” is grammatical, but it can sound like a direct instruction. “Let me know” is a softer, common way to ask someone to contact you, and the present tense “you’re free” is natural in a time clause about a future situation.",
+    "tags": [
+      "casual",
+      "plans"
+    ],
+    "story": [
+      "I wanted to catch up with a friend who had a busy week.",
+      "We both had different work schedules, so choosing a time was difficult.",
+      "I wrote, “Let me know when you’re free.”",
+      "They checked their calendar after finishing a meeting.",
+      "Later, they suggested Saturday afternoon at a park nearby.",
+      "We picked a café to visit afterward."
+    ]
+  },
+  {
+    "id": "d01-009",
+    "category": "everyday",
+    "categoryTitle": "Everyday movement and plans",
+    "frequencyRank": 2,
+    "bad": "I’ll return back soon.",
+    "good": "I’ll be right back.",
+    "why": "“Return” already means to come back, so adding “back” repeats the same idea. “I’ll be right back” is a familiar phrase when you expect to leave briefly and come back soon.",
+    "tags": [
+      "casual",
+      "grammar"
+    ],
+    "story": [
+      "We were setting up snacks before guests arrived.",
+      "I noticed that we had run out of napkins.",
+      "I told my roommate, “I’ll be right back,” and walked to the corner shop.",
+      "The shop was only a few minutes away.",
+      "I bought napkins and a bottle of sparkling water.",
+      "When I returned, my roommate had finished arranging the plates."
+    ]
+  },
+  {
+    "id": "d01-010",
+    "category": "everyday",
+    "categoryTitle": "Everyday food and ordering",
+    "frequencyRank": 1,
+    "bad": "I want one coffee.",
+    "good": "Could I get a coffee, please?",
+    "why": "“I want” is grammatically correct, but said directly to service staff it can sound like a blunt statement of demand. “Could I get…?” is a conventional, polite way to place an order; add the drink size or type if you need something specific.",
+    "tags": [
+      "casual",
+      "food"
+    ],
+    "story": [
+      "I stopped at a café on my way to the train station.",
+      "There were a few people waiting, so I looked at the menu first.",
+      "When it was my turn, I said, “Could I get a coffee, please?”",
+      "The barista asked whether I wanted room for milk.",
+      "I answered and tapped my card at the counter.",
+      "I picked up the cup when my name was called."
+    ]
+  },
+  {
+    "id": "d01-011",
+    "category": "everyday",
+    "categoryTitle": "Everyday shopping",
+    "frequencyRank": 2,
+    "bad": "Do you have smaller size for this?",
+    "good": "Do you have this in a smaller size?",
+    "why": "“A smaller size” needs the article “a,” and English commonly uses “in a smaller size” to ask about another clothing size. Putting “this” first makes it clear which item you mean.",
+    "tags": [
+      "casual",
+      "shopping"
+    ],
+    "story": [
+      "I found a jacket I liked while browsing a small shop.",
+      "The color was right, but the sleeves felt a little tight.",
+      "I asked the clerk, “Do you have this in a smaller size?”",
+      "They checked the stockroom and brought another one.",
+      "I tried it on and found that the fit was more comfortable.",
+      "I thanked the clerk and bought the jacket."
+    ]
+  },
+  {
+    "id": "d01-012",
+    "category": "everyday",
+    "categoryTitle": "Everyday requests and favors",
+    "frequencyRank": 1,
+    "bad": "Can you borrow me your charger?",
+    "good": "Could I borrow your charger?",
+    "why": "“Borrow” means to receive something temporarily; the person lending it is the one who lends it. Ask “Could I borrow…?” when you need to use someone else’s item, or “Could you lend me…?” when focusing on the other person.",
+    "tags": [
+      "casual",
+      "requests"
+    ],
+    "story": [
+      "My phone battery was almost empty while I was waiting for a ride.",
+      "A friend beside me had a charger in their bag.",
+      "I asked, “Could I borrow your charger?”",
+      "They handed it over and showed me the nearest outlet.",
+      "I charged my phone while we talked about the evening.",
+      "Before leaving, I unplugged it and gave it back."
+    ]
+  },
+  {
+    "id": "d01-013",
+    "category": "everyday",
+    "categoryTitle": "Everyday directions and travel",
+    "frequencyRank": 1,
+    "bad": "Where is nearest bus stop?",
+    "good": "Where’s the nearest bus stop?",
+    "why": "Use “the” before “nearest” because you are asking about the closest stop in the area. “Where’s” is the natural contraction of “where is” in casual conversation; use the full form in more formal speech if you prefer.",
+    "tags": [
+      "casual",
+      "directions"
+    ],
+    "story": [
+      "I was visiting a neighborhood I had not been to before.",
+      "After leaving the bookstore, I wanted to take the bus back downtown.",
+      "I asked a person nearby, “Where’s the nearest bus stop?”",
+      "They pointed toward the corner and named the route I needed.",
+      "I thanked them and checked the bus sign before boarding.",
+      "The ride took me back to the central station."
+    ]
+  },
+  {
+    "id": "d01-014",
+    "category": "everyday",
+    "categoryTitle": "Everyday directions and travel",
+    "frequencyRank": 2,
+    "bad": "Does this bus go to downtown?",
+    "good": "Does this bus go downtown?",
+    "why": "“Downtown” commonly works as an adverb after “go,” so “to” is usually omitted in this question. “Go to downtown” is heard in some varieties and contexts, but “go downtown” is the usual phrasing in everyday American English.",
+    "tags": [
+      "casual",
+      "directions"
+    ],
+    "story": [
+      "I got on a bus after visiting a friend in the suburbs.",
+      "I was unsure whether the route continued toward the city center.",
+      "Before finding a seat, I asked the driver, “Does this bus go downtown?”",
+      "The driver confirmed that it stopped near the main library.",
+      "I sat by the window and watched for the landmark.",
+      "I got off at the right stop and walked the last few blocks."
+    ]
+  },
+  {
+    "id": "d01-015",
+    "category": "everyday",
+    "categoryTitle": "Everyday polite requests",
+    "frequencyRank": 2,
+    "bad": "Open the window, please.",
+    "good": "Could you open the window, please?",
+    "why": "The original is grammatically correct, but it is an imperative and can sound like an instruction. “Could you…?” frames the same action as a polite request, especially useful when you are asking rather than directing someone.",
+    "tags": [
+      "casual",
+      "requests"
+    ],
+    "story": [
+      "The afternoon sun warmed the room during our study session.",
+      "Everyone had been working quietly for nearly an hour.",
+      "I felt the air getting stuffy, so I asked, “Could you open the window, please?”",
+      "My classmate opened it a little to let in some fresh air.",
+      "A light breeze came through, and the room felt more comfortable.",
+      "We went back to our notes and finished the exercise."
+    ]
+  },
+  {
+    "id": "d01-016",
+    "category": "everyday",
+    "categoryTitle": "Everyday food and invitations",
+    "frequencyRank": 1,
+    "bad": "What do you want for eat?",
+    "good": "What sounds good to you?",
+    "why": "The original combines two question patterns and is not grammatical. “What sounds good to you?” is a natural, low-pressure way to ask someone what food they would enjoy, without demanding a specific choice.",
+    "tags": [
+      "casual",
+      "food"
+    ],
+    "story": [
+      "My friend and I were deciding what to have for dinner.",
+      "We had both had long days and did not feel like cooking.",
+      "I asked, “What sounds good to you?”",
+      "They mentioned noodles, and I said that sounded good to me too.",
+      "We found a place nearby with a short wait.",
+      "Over dinner, we talked about plans for the weekend."
+    ]
+  },
+  {
+    "id": "d01-017",
+    "category": "everyday",
+    "categoryTitle": "Everyday plans and invitations",
+    "frequencyRank": 2,
+    "bad": "I’m looking forward to see you.",
+    "good": "I’m looking forward to seeing you.",
+    "why": "“Look forward to” is followed by a noun or an -ing form because “to” is a preposition here, not the infinitive marker. Use “seeing” for an event you are anticipating; the same pattern works in “look forward to hearing from you.”",
+    "tags": [
+      "casual",
+      "grammar"
+    ],
+    "story": [
+      "My cousin was visiting our city for a few days.",
+      "We had not spent time together since the previous summer.",
+      "I sent a message saying, “I’m looking forward to seeing you.”",
+      "They replied with their arrival time and flight number.",
+      "I offered to meet them at the station after work.",
+      "We planned to get dinner near their hotel."
+    ]
+  },
+  {
+    "id": "d01-018",
+    "category": "everyday",
+    "categoryTitle": "Everyday thanks and invitations",
+    "frequencyRank": 2,
+    "bad": "Thank you for invite me.",
+    "good": "Thanks for inviting me.",
+    "why": "After “for,” use the -ing form “inviting,” not the base verb “invite.” “Thanks for inviting me” is a warm, conversational way to acknowledge an invitation; you can add whether you can attend afterward.",
+    "tags": [
+      "casual",
+      "grammar"
+    ],
+    "story": [
+      "A neighbor invited me to a small dinner with a few friends.",
+      "I was glad to be included, even though I needed to check my schedule.",
+      "I replied, “Thanks for inviting me.”",
+      "I looked at my calendar and saw that I was free that evening.",
+      "I told them I would be happy to come and asked what I could bring.",
+      "They suggested dessert, so I offered to pick something up."
+    ]
+  },
+  {
+    "id": "d01-019",
+    "category": "everyday",
+    "categoryTitle": "Everyday goodbyes and socializing",
+    "frequencyRank": 2,
+    "bad": "It was nice to meet with you.",
+    "good": "It was nice meeting you.",
+    "why": "“Meet with” often suggests a planned meeting or appointment. When saying goodbye after being introduced to someone, “It was nice meeting you” is the usual conversational phrase; “It was nice to meet you” is also natural.",
+    "tags": [
+      "casual",
+      "socializing"
+    ],
+    "story": [
+      "I was introduced to a new colleague at a team lunch.",
+      "We talked about the neighborhood and a few places to get coffee.",
+      "When the lunch ended, I said, “It was nice meeting you.”",
+      "They recommended a bakery near the office.",
+      "I thanked them and said I might try it on my way home.",
+      "We exchanged names again so we could find each other at work."
+    ]
+  },
+  {
+    "id": "d01-020",
+    "category": "everyday",
+    "categoryTitle": "Everyday goodbyes and socializing",
+    "frequencyRank": 2,
+    "bad": "I passed a good time.",
+    "good": "I had a great time.",
+    "why": "English speakers usually say they “had a good/great time” to describe enjoying an event. “Pass time” means to keep yourself occupied while waiting, so it does not express the same idea.",
+    "tags": [
+      "casual",
+      "socializing"
+    ],
+    "story": [
+      "We spent Saturday afternoon at a friend’s backyard barbecue.",
+      "People brought different dishes, and everyone shared stories from the week.",
+      "As I was leaving, I said, “I had a great time.”",
+      "My friend smiled and said they were glad I could make it.",
+      "We packed a few leftovers for another guest to take home.",
+      "On the way back, I texted the group to thank them again."
+    ]
+  },
+  {
+    "id": "d01-021",
+    "category": "everyday",
+    "categoryTitle": "Everyday directions and travel",
+    "frequencyRank": 2,
+    "bad": "Could you tell me how can I get there?",
+    "good": "Could you tell me how I can get there?",
+    "why": "After “Could you tell me,” the embedded question uses statement word order: subject before verb (“how I can”). The direct question is “How can I get there?”; when it is inside another question, do not invert the subject and modal a second time.",
+    "tags": [
+      "casual",
+      "directions",
+      "grammar"
+    ],
+    "story": [
+      "I was planning a walk to a small museum across town.",
+      "The map app showed two routes, and I was not sure which entrance was open.",
+      "At the information desk, I asked, “Could you tell me how I can get there?”",
+      "The staff member pointed out the easiest route and marked it on the map.",
+      "I followed the main street until I reached the park.",
+      "The museum entrance was just beyond the fountain."
+    ]
+  },
+  {
+    "id": "d01-022",
+    "category": "everyday",
+    "categoryTitle": "Everyday conversation and clarification",
+    "frequencyRank": 2,
+    "bad": "Please give me the salt.",
+    "good": "Could you pass me the salt, please?",
+    "why": "“Give me” is direct and can sound like an order at the table. “Pass me” describes moving an item across the table, and “Could you…please?” makes it a courteous request.",
+    "tags": [
+      "casual",
+      "requests"
+    ],
+    "story": [
+      "We were sharing a meal at a small kitchen table.",
+      "The salt was beside my friend, just out of my reach.",
+      "I asked, “Could you pass me the salt, please?”",
+      "They handed it over, and I thanked them.",
+      "I seasoned the soup and offered the bread basket in return.",
+      "We continued talking while we ate."
+    ]
+  },
+  {
+    "id": "d01-023",
+    "category": "everyday",
+    "categoryTitle": "Everyday thanks and follow-ups",
+    "frequencyRank": 2,
+    "bad": "I appreciate for your help.",
+    "good": "I appreciate your help.",
+    "why": "“Appreciate” takes the thing you value as a direct object, so do not put “for” between the verb and “your help.” You can also say “I’m grateful for your help,” where “for” correctly follows the adjective “grateful.”",
+    "tags": [
+      "casual",
+      "grammar"
+    ],
+    "story": [
+      "A coworker helped me carry a heavy delivery into the office.",
+      "We sorted the boxes before the afternoon meeting began.",
+      "I said, “I appreciate your help.”",
+      "They told me it was no trouble and asked where the supplies belonged.",
+      "We put everything away and cleared the hallway.",
+      "The meeting started on time, and I thanked them once more afterward."
+    ]
+  },
+  {
+    "id": "d01-024",
+    "category": "everyday",
+    "categoryTitle": "Everyday greetings and check-ins",
+    "frequencyRank": 2,
+    "bad": "How was your weekend going?",
+    "good": "How was your weekend?",
+    "why": "Use the simple past “was” when asking for an overall report about a finished weekend. “How was … going?” can work when you are asking about progress during an ongoing period, but it is not the usual question after the weekend has ended.",
+    "tags": [
+      "casual",
+      "small talk"
+    ],
+    "story": [
+      "I saw my teammate in the hallway on Monday morning.",
+      "We had not talked since Friday afternoon.",
+      "I asked, “How was your weekend?”",
+      "They told me they visited a nearby town with their family.",
+      "I asked what they thought of the food there.",
+      "We chatted for a minute before heading to our desks."
+    ]
+  }
+]

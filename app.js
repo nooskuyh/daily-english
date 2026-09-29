@@ -4,8 +4,12 @@ const hideLessonButton = document.querySelector('#hideLessonButton');
 const tabs = [...document.querySelectorAll('.tab-bar a')];
 const STORE = 'say-it-practice-v1';
 const CUSTOM_STORE = 'say-it-custom-lessons-v1';
+const RETURN_ROUTE_STORE = 'say-it-previous-list-v1';
 let db;
 let searchTerm = '';
+let previousListRoute = readPreviousListRoute();
+let previousListScroll = readPreviousListScroll();
+let restoreListScroll = null;
 
 const escapeHtml = value => String(value).replace(/[&<>"']/g, char => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[char]));
 function readProgress() {
@@ -15,6 +19,16 @@ function readProgress() {
   } catch { return {saved:[], hidden:[], uses:{}, currentId:''}; }
 }
 function writeProgress(progress) { localStorage.setItem(STORE, JSON.stringify(progress)); }
+function readPreviousListRoute() {
+  try {
+    const route = sessionStorage.getItem(RETURN_ROUTE_STORE);
+    return route && /^#(?:home|browse|add|saved|archive|questions|category\/[\w-]+)$/.test(route) ? route : '#browse';
+  } catch { return '#browse'; }
+}
+function readPreviousListScroll() {
+  try { const value = Number(sessionStorage.getItem(`${RETURN_ROUTE_STORE}-scroll`)); return Number.isFinite(value) && value >= 0 ? value : 0; }
+  catch { return 0; }
+}
 function readCustomLessons() {
   try {
     const lessons = JSON.parse(localStorage.getItem(CUSTOM_STORE));
@@ -37,7 +51,7 @@ function randomPracticeLesson() {
   const choices = notSelected.length ? notSelected : active;
   return choices[Math.floor(Math.random() * choices.length)] || null;
 }
-function setPage(markup, preserveScroll = false) { const scrollTop = window.scrollY; root.innerHTML = markup; root.scrollTop = 0; window.scrollTo(0, preserveScroll ? scrollTop : 0); }
+function setPage(markup, preserveScroll = false) { const scrollTop = window.scrollY; root.innerHTML = markup; root.scrollTop = 0; window.scrollTo(0, restoreListScroll ?? (preserveScroll ? scrollTop : 0)); restoreListScroll = null; }
 function sectionTitle(title, link = '') {
   return `<div class="section-title"><h2>${title}</h2>${link}</div>`;
 }
@@ -141,6 +155,9 @@ function renderAdd() {
     if (!progress.saved.includes(id)) progress.saved.push(id);
     progress.currentId = id;
     writeProgress(progress);
+    previousListRoute = '#add';
+    previousListScroll = window.scrollY;
+    try { sessionStorage.setItem(RETURN_ROUTE_STORE, previousListRoute); sessionStorage.setItem(`${RETURN_ROUTE_STORE}-scroll`, String(previousListScroll)); } catch {}
     location.hash = lessonHref(lesson);
   });
 }
@@ -196,7 +213,8 @@ function renderLesson(id, preserveScroll = false) {
       if (!current.hidden.includes(id)) current.hidden.push(id);
       if (current.currentId === id) current.currentId = '';
       writeProgress(current);
-      location.hash = '#home';
+      restoreListScroll = previousListScroll;
+      location.hash = previousListRoute;
     }
   };
   headerAction.onclick = () => {
@@ -223,6 +241,13 @@ function renderArchive() {
 }
 function render() {
   const [route, id] = location.hash.replace(/^#/, '').split('/');
+  if (['home','browse','add','saved','archive','questions','category'].includes(route)) {
+    previousListRoute = location.hash;
+    try { sessionStorage.setItem(RETURN_ROUTE_STORE, previousListRoute); } catch {}
+  } else if (!route) {
+    previousListRoute = '#home';
+    try { sessionStorage.setItem(RETURN_ROUTE_STORE, previousListRoute); } catch {}
+  }
   headerAction.hidden = true;
   hideLessonButton.hidden = true;
   if (route === 'lesson') renderLesson(id);
@@ -238,6 +263,13 @@ function render() {
 }
 
 window.addEventListener('hashchange', render);
+document.addEventListener('click', event => {
+  const link = event.target.closest?.('a[href^="#lesson/"]');
+  if (!link) return;
+  previousListRoute = location.hash || '#home';
+  previousListScroll = window.scrollY;
+  try { sessionStorage.setItem(RETURN_ROUTE_STORE, previousListRoute); sessionStorage.setItem(`${RETURN_ROUTE_STORE}-scroll`, String(previousListScroll)); } catch {}
+});
 fetch('./database.json').then(response => {
   if (!response.ok) throw new Error('Could not load the lesson database.');
   return response.json();

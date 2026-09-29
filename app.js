@@ -47,9 +47,7 @@ function categoryLessons(categoryId) { const progress = readProgress(); return d
 function randomPracticeLesson() {
   const progress = readProgress();
   const active = db.lessons.filter(lesson => isActive(lesson, progress));
-  const notSelected = active.filter(lesson => !progress.saved.includes(lesson.id));
-  const choices = notSelected.length ? notSelected : active;
-  return choices[Math.floor(Math.random() * choices.length)] || null;
+  return active[Math.floor(Math.random() * active.length)] || null;
 }
 function setPage(markup, preserveScroll = false) { const scrollTop = window.scrollY; root.innerHTML = markup; root.scrollTop = 0; window.scrollTo(0, restoreListScroll ?? (preserveScroll ? scrollTop : 0)); restoreListScroll = null; }
 function sectionTitle(title, link = '') {
@@ -103,12 +101,8 @@ function renderHome(preserveScroll = false) {
     ${sectionTitle('Explore categories','<a href="#browse">See all</a>')}<div class="category-list">${db.categories.map(categoryRow).join('')}</div>`,preserveScroll);
   practice.forEach((lesson,index) => attachStepper(lesson,`practice${index}`,() => renderHome(true)));
   document.querySelector('#randomPickButton').addEventListener('click', () => {
-    const next = readProgress();
     const picked = randomPracticeLesson();
-    if (picked && !next.saved.includes(picked.id)) next.saved.push(picked.id);
-    if (picked) next.currentId = picked.id;
-    writeProgress(next);
-    renderHome(true);
+    if (picked) location.hash = lessonHref(picked);
   });
 }
 function renderBrowse() {

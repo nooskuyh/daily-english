@@ -792,50 +792,6 @@
     "frequencyRank": 3
   },
   {
-    "id": "s07-009",
-    "category": "everyday",
-    "bad": "How about your research?",
-    "good": "How's your research going?",
-    "why": "“How about your research?” can sound like you are proposing the topic rather than asking how it is progressing. “How’s your research going?” directly asks about the current state of someone’s work.",
-    "tags": [
-      "research"
-    ],
-    "story": [
-      "I ran into a classmate outside the library one afternoon.",
-      "We stopped for a few minutes and caught up on the week.",
-      "I asked a friendly question and listened to what had been happening for them.",
-      "I said, “How's your research going?”",
-      "They answered with a story about a recent class and asked how I was doing.",
-      "We shared a laugh and talked about where to get coffee.",
-      "Before heading off, we made a loose plan to meet again.",
-      "It was a small conversation, but it made campus feel more welcoming."
-    ],
-    "categoryTitle": "Small Talk, Social Questions, and Cultural Generalizations",
-    "frequencyRank": 3
-  },
-  {
-    "id": "s07-010",
-    "category": "everyday",
-    "bad": "How about the experiment?",
-    "good": "How did the experiment go?",
-    "why": "“How about the experiment?” could introduce a suggestion or ask someone to discuss the experiment, so the question is unclear. “How did the experiment go?” specifically asks about its outcome.",
-    "tags": [
-      "research"
-    ],
-    "story": [
-      "I ran into a classmate outside the library one afternoon.",
-      "We stopped for a few minutes and caught up on the week.",
-      "I asked a friendly question and listened to what had been happening for them.",
-      "I said, “How did the experiment go?”",
-      "They answered with a story about a recent class and asked how I was doing.",
-      "We shared a laugh and talked about where to get coffee.",
-      "Before heading off, we made a loose plan to meet again.",
-      "It was a small conversation, but it made campus feel more welcoming."
-    ],
-    "categoryTitle": "Small Talk, Social Questions, and Cultural Generalizations",
-    "frequencyRank": 3
-  },
-  {
     "id": "s07-011",
     "category": "everyday",
     "bad": "Nothing special.",

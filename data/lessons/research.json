@@ -1,0 +1,4250 @@
+[
+  {
+    "id": "s07-009",
+    "category": "research",
+    "bad": "How about your research?",
+    "good": "How's your research going?",
+    "why": "“How about your research?” can sound like you are proposing the topic rather than asking how it is progressing. “How’s your research going?” directly asks about the current state of someone’s work.",
+    "tags": [
+      "research"
+    ],
+    "story": [
+      "I ran into a classmate outside the library one afternoon.",
+      "We stopped for a few minutes and caught up on the week.",
+      "I asked a friendly question and listened to what had been happening for them.",
+      "I said, “How's your research going?”",
+      "They answered with a story about a recent class and asked how I was doing.",
+      "We shared a laugh and talked about where to get coffee.",
+      "Before heading off, we made a loose plan to meet again.",
+      "It was a small conversation, but it made campus feel more welcoming."
+    ],
+    "categoryTitle": "Small Talk, Social Questions, and Cultural Generalizations",
+    "frequencyRank": 3
+  },
+  {
+    "id": "s07-010",
+    "category": "research",
+    "bad": "How about the experiment?",
+    "good": "How did the experiment go?",
+    "why": "“How about the experiment?” could introduce a suggestion or ask someone to discuss the experiment, so the question is unclear. “How did the experiment go?” specifically asks about its outcome.",
+    "tags": [
+      "research"
+    ],
+    "story": [
+      "I ran into a classmate outside the library one afternoon.",
+      "We stopped for a few minutes and caught up on the week.",
+      "I asked a friendly question and listened to what had been happening for them.",
+      "I said, “How did the experiment go?”",
+      "They answered with a story about a recent class and asked how I was doing.",
+      "We shared a laugh and talked about where to get coffee.",
+      "Before heading off, we made a loose plan to meet again.",
+      "It was a small conversation, but it made campus feel more welcoming."
+    ],
+    "categoryTitle": "Small Talk, Social Questions, and Cultural Generalizations",
+    "frequencyRank": 3
+  },
+  {
+    "id": "s03-005",
+    "category": "research",
+    "bad": "I don't understand.",
+    "good": "I'm not sure I follow.",
+    "why": "Natural, but can sound abrupt in academic discussion.",
+    "tags": [
+      "presentation"
+    ],
+    "story": [
+      "A visiting researcher gave a short talk about a new project.",
+      "I followed most of the explanation, but one detail was unfamiliar.",
+      "When the speaker paused, I asked about the point I had missed.",
+      "I said, “I'm not sure I follow.”",
+      "The speaker explained it another way and checked that the example helped.",
+      "I asked one follow-up question to make sure I had understood.",
+      "Afterward, I could describe the main idea to a classmate.",
+      "The exchange reminded me that a clear question can keep a conversation moving."
+    ],
+    "categoryTitle": "Listening, Clarification, and Checking Understanding",
+    "frequencyRank": 4
+  },
+  {
+    "id": "s03-012",
+    "category": "research",
+    "bad": "Explain more.",
+    "good": "Could you elaborate on that?",
+    "why": "Too direct.",
+    "tags": [
+      "research",
+      "presentation"
+    ],
+    "story": [
+      "A visiting researcher gave a short talk about a new project.",
+      "I followed most of the explanation, but one detail was unfamiliar.",
+      "When the speaker paused, I asked about the point I had missed.",
+      "I said, “Could you elaborate on that?”",
+      "The speaker explained it another way and checked that the example helped.",
+      "I asked one follow-up question to make sure I had understood.",
+      "Afterward, I could describe the main idea to a classmate.",
+      "The exchange reminded me that a clear question can keep a conversation moving."
+    ],
+    "categoryTitle": "Listening, Clarification, and Checking Understanding",
+    "frequencyRank": 4
+  },
+  {
+    "id": "s03-013",
+    "category": "research",
+    "bad": "Can you explain this?",
+    "good": "Could you walk me through this?",
+    "why": "Can sound like testing the person.",
+    "tags": [
+      "presentation"
+    ],
+    "story": [
+      "A visiting researcher gave a short talk about a new project.",
+      "I followed most of the explanation, but one detail was unfamiliar.",
+      "When the speaker paused, I asked about the point I had missed.",
+      "I said, “Could you walk me through this?”",
+      "The speaker explained it another way and checked that the example helped.",
+      "I asked one follow-up question to make sure I had understood.",
+      "Afterward, I could describe the main idea to a classmate.",
+      "The exchange reminded me that a clear question can keep a conversation moving."
+    ],
+    "categoryTitle": "Listening, Clarification, and Checking Understanding",
+    "frequencyRank": 4
+  },
+  {
+    "id": "s03-016",
+    "category": "research",
+    "bad": "You don't know this benchmark?",
+    "good": "Have you come across this benchmark before?",
+    "why": "Can sound condescending.",
+    "tags": [
+      "research"
+    ],
+    "story": [
+      "A visiting researcher gave a short talk about a new project.",
+      "I followed most of the explanation, but one detail was unfamiliar.",
+      "When the speaker paused, I asked about the point I had missed.",
+      "I said, “Have you come across this benchmark before?”",
+      "The speaker explained it another way and checked that the example helped.",
+      "I asked one follow-up question to make sure I had understood.",
+      "Afterward, I could describe the main idea to a classmate.",
+      "The exchange reminded me that a clear question can keep a conversation moving."
+    ],
+    "categoryTitle": "Listening, Clarification, and Checking Understanding",
+    "frequencyRank": 4
+  },
+  {
+    "id": "s03-017",
+    "category": "research",
+    "bad": "Do you know this paper?",
+    "good": "Are you familiar with this paper?",
+    "why": "Understandable but slightly less natural.",
+    "tags": [
+      "research"
+    ],
+    "story": [
+      "A visiting researcher gave a short talk about a new project.",
+      "I followed most of the explanation, but one detail was unfamiliar.",
+      "When the speaker paused, I asked about the point I had missed.",
+      "I said, “Are you familiar with this paper?”",
+      "The speaker explained it another way and checked that the example helped.",
+      "I asked one follow-up question to make sure I had understood.",
+      "Afterward, I could describe the main idea to a classmate.",
+      "The exchange reminded me that a clear question can keep a conversation moving."
+    ],
+    "categoryTitle": "Listening, Clarification, and Checking Understanding",
+    "frequencyRank": 4
+  },
+  {
+    "id": "s04-001",
+    "category": "research",
+    "bad": "That's wrong.",
+    "good": "I don't think that's quite right.",
+    "why": "Strong rejection.",
+    "tags": [
+      "formal"
+    ],
+    "story": [
+      "Our reading group was discussing a paper after lunch.",
+      "One claim seemed to need more support, so I looked back at the evidence.",
+      "I wanted to raise the concern while keeping the discussion focused on the argument.",
+      "I said, “I don't think that's quite right.”",
+      "The author of the presentation explained how they had read that section.",
+      "We compared the interpretation with the results shown in the paper.",
+      "The group found a more precise way to describe the limitation.",
+      "We finished the discussion with a question to investigate next."
+    ],
+    "categoryTitle": "Disagreement, Criticism, and Research Discussion",
+    "frequencyRank": 4
+  },
+  {
+    "id": "s04-002",
+    "category": "research",
+    "bad": "That's not true.",
+    "good": "I'm not sure that's accurate.",
+    "why": "Can sound confrontational.",
+    "tags": [
+      "formal"
+    ],
+    "story": [
+      "Our reading group was discussing a paper after lunch.",
+      "One claim seemed to need more support, so I looked back at the evidence.",
+      "I wanted to raise the concern while keeping the discussion focused on the argument.",
+      "I said, “I'm not sure that's accurate.”",
+      "The author of the presentation explained how they had read that section.",
+      "We compared the interpretation with the results shown in the paper.",
+      "The group found a more precise way to describe the limitation.",
+      "We finished the discussion with a question to investigate next."
+    ],
+    "categoryTitle": "Disagreement, Criticism, and Research Discussion",
+    "frequencyRank": 4
+  },
+  {
+    "id": "s04-003",
+    "category": "research",
+    "bad": "I don't agree with you.",
+    "good": "I don't agree with that interpretation.",
+    "why": "Sounds like opposition to the person.",
+    "tags": [
+      "formal"
+    ],
+    "story": [
+      "Our reading group was discussing a paper after lunch.",
+      "One claim seemed to need more support, so I looked back at the evidence.",
+      "I wanted to raise the concern while keeping the discussion focused on the argument.",
+      "I said, “I don't agree with that interpretation.”",
+      "The author of the presentation explained how they had read that section.",
+      "We compared the interpretation with the results shown in the paper.",
+      "The group found a more precise way to describe the limitation.",
+      "We finished the discussion with a question to investigate next."
+    ],
+    "categoryTitle": "Disagreement, Criticism, and Research Discussion",
+    "frequencyRank": 4
+  },
+  {
+    "id": "s04-004",
+    "category": "research",
+    "bad": "Your idea has a problem because it assumes access to labeled data.",
+    "good": "One concern I have is that the idea assumes access to labeled data.",
+    "why": "Sounds personally critical.",
+    "tags": [
+      "research"
+    ],
+    "story": [
+      "Our reading group was discussing a paper after lunch.",
+      "One claim seemed to need more support, so I looked back at the evidence.",
+      "I wanted to raise the concern while keeping the discussion focused on the argument.",
+      "I said, “One concern I have is that the idea assumes access to labeled data.”",
+      "The author of the presentation explained how they had read that section.",
+      "We compared the interpretation with the results shown in the paper.",
+      "The group found a more precise way to describe the limitation.",
+      "We finished the discussion with a question to investigate next."
+    ],
+    "categoryTitle": "Disagreement, Criticism, and Research Discussion",
+    "frequencyRank": 4
+  },
+  {
+    "id": "s04-005",
+    "category": "research",
+    "bad": "This method has many problems.",
+    "good": "There are a few limitations we should consider.",
+    "why": "Too broad and negative.",
+    "tags": [
+      "formal"
+    ],
+    "story": [
+      "Our reading group was discussing a paper after lunch.",
+      "One claim seemed to need more support, so I looked back at the evidence.",
+      "I wanted to raise the concern while keeping the discussion focused on the argument.",
+      "I said, “There are a few limitations we should consider.”",
+      "The author of the presentation explained how they had read that section.",
+      "We compared the interpretation with the results shown in the paper.",
+      "The group found a more precise way to describe the limitation.",
+      "We finished the discussion with a question to investigate next."
+    ],
+    "categoryTitle": "Disagreement, Criticism, and Research Discussion",
+    "frequencyRank": 4
+  },
+  {
+    "id": "s04-006",
+    "category": "research",
+    "bad": "Your logic is strange.",
+    "good": "I'm not sure the argument follows from that assumption.",
+    "why": "Sounds insulting.",
+    "tags": [
+      "formal"
+    ],
+    "story": [
+      "Our reading group was discussing a paper after lunch.",
+      "One claim seemed to need more support, so I looked back at the evidence.",
+      "I wanted to raise the concern while keeping the discussion focused on the argument.",
+      "I said, “I'm not sure the argument follows from that assumption.”",
+      "The author of the presentation explained how they had read that section.",
+      "We compared the interpretation with the results shown in the paper.",
+      "The group found a more precise way to describe the limitation.",
+      "We finished the discussion with a question to investigate next."
+    ],
+    "categoryTitle": "Disagreement, Criticism, and Research Discussion",
+    "frequencyRank": 4
+  },
+  {
+    "id": "s04-007",
+    "category": "research",
+    "bad": "That doesn't make sense because the assumption doesn't imply the conclusion.",
+    "good": "I'm not sure I see how that assumption leads to the conclusion.",
+    "why": "Natural but can sound harsh.",
+    "tags": [
+      "formal"
+    ],
+    "story": [
+      "Our reading group was discussing a paper after lunch.",
+      "One claim seemed to need more support, so I looked back at the evidence.",
+      "I wanted to raise the concern while keeping the discussion focused on the argument.",
+      "I said, “I'm not sure I see how that assumption leads to the conclusion.”",
+      "The author of the presentation explained how they had read that section.",
+      "We compared the interpretation with the results shown in the paper.",
+      "The group found a more precise way to describe the limitation.",
+      "We finished the discussion with a question to investigate next."
+    ],
+    "categoryTitle": "Disagreement, Criticism, and Research Discussion",
+    "frequencyRank": 4
+  },
+  {
+    "id": "s04-008",
+    "category": "research",
+    "bad": "It's nonsense.",
+    "good": "I don't think the evidence supports that conclusion.",
+    "why": "Very aggressive.",
+    "tags": [
+      "formal"
+    ],
+    "story": [
+      "Our reading group was discussing a paper after lunch.",
+      "One claim seemed to need more support, so I looked back at the evidence.",
+      "I wanted to raise the concern while keeping the discussion focused on the argument.",
+      "I said, “I don't think the evidence supports that conclusion.”",
+      "The author of the presentation explained how they had read that section.",
+      "We compared the interpretation with the results shown in the paper.",
+      "The group found a more precise way to describe the limitation.",
+      "We finished the discussion with a question to investigate next."
+    ],
+    "categoryTitle": "Disagreement, Criticism, and Research Discussion",
+    "frequencyRank": 4
+  },
+  {
+    "id": "s04-009",
+    "category": "research",
+    "bad": "Why did you do that?",
+    "good": "What led you to choose that approach?",
+    "why": "Can sound accusatory.",
+    "tags": [
+      "formal"
+    ],
+    "story": [
+      "Our reading group was discussing a paper after lunch.",
+      "One claim seemed to need more support, so I looked back at the evidence.",
+      "I wanted to raise the concern while keeping the discussion focused on the argument.",
+      "I said, “What led you to choose that approach?”",
+      "The author of the presentation explained how they had read that section.",
+      "We compared the interpretation with the results shown in the paper.",
+      "The group found a more precise way to describe the limitation.",
+      "We finished the discussion with a question to investigate next."
+    ],
+    "categoryTitle": "Disagreement, Criticism, and Research Discussion",
+    "frequencyRank": 4
+  },
+  {
+    "id": "s04-010",
+    "category": "research",
+    "bad": "Why didn't you use the stronger baseline?",
+    "good": "Was there a reason you decided not to use the stronger baseline?",
+    "why": "Can sound like blame.",
+    "tags": [
+      "research"
+    ],
+    "story": [
+      "Our reading group was discussing a paper after lunch.",
+      "One claim seemed to need more support, so I looked back at the evidence.",
+      "I wanted to raise the concern while keeping the discussion focused on the argument.",
+      "I said, “Was there a reason you decided not to use the stronger baseline?”",
+      "The author of the presentation explained how they had read that section.",
+      "We compared the interpretation with the results shown in the paper.",
+      "The group found a more precise way to describe the limitation.",
+      "We finished the discussion with a question to investigate next."
+    ],
+    "categoryTitle": "Disagreement, Criticism, and Research Discussion",
+    "frequencyRank": 4
+  },
+  {
+    "id": "s04-011",
+    "category": "research",
+    "bad": "Why is this like this?",
+    "good": "Why does this behave this way?",
+    "why": "Non-native and vague.",
+    "tags": [
+      "formal"
+    ],
+    "story": [
+      "Our reading group was discussing a paper after lunch.",
+      "One claim seemed to need more support, so I looked back at the evidence.",
+      "I wanted to raise the concern while keeping the discussion focused on the argument.",
+      "I said, “Why does this behave this way?”",
+      "The author of the presentation explained how they had read that section.",
+      "We compared the interpretation with the results shown in the paper.",
+      "The group found a more precise way to describe the limitation.",
+      "We finished the discussion with a question to investigate next."
+    ],
+    "categoryTitle": "Disagreement, Criticism, and Research Discussion",
+    "frequencyRank": 4
+  },
+  {
+    "id": "s04-012",
+    "category": "research",
+    "bad": "What is the reason?",
+    "good": "Why is that? / What's driving this?",
+    "why": "Grammatically fine but formal and stiff.",
+    "tags": [
+      "formal"
+    ],
+    "story": [
+      "Our reading group was discussing a paper after lunch.",
+      "One claim seemed to need more support, so I looked back at the evidence.",
+      "I wanted to raise the concern while keeping the discussion focused on the argument.",
+      "I said, “Why is that?”",
+      "The author of the presentation explained how they had read that section.",
+      "We compared the interpretation with the results shown in the paper.",
+      "The group found a more precise way to describe the limitation.",
+      "We finished the discussion with a question to investigate next."
+    ],
+    "categoryTitle": "Disagreement, Criticism, and Research Discussion",
+    "frequencyRank": 4
+  },
+  {
+    "id": "s04-013",
+    "category": "research",
+    "bad": "How about this problem?",
+    "good": "How should we handle this issue?",
+    "why": "Too vague.",
+    "tags": [
+      "formal"
+    ],
+    "story": [
+      "Our reading group was discussing a paper after lunch.",
+      "One claim seemed to need more support, so I looked back at the evidence.",
+      "I wanted to raise the concern while keeping the discussion focused on the argument.",
+      "I said, “How should we handle this issue?”",
+      "The author of the presentation explained how they had read that section.",
+      "We compared the interpretation with the results shown in the paper.",
+      "The group found a more precise way to describe the limitation.",
+      "We finished the discussion with a question to investigate next."
+    ],
+    "categoryTitle": "Disagreement, Criticism, and Research Discussion",
+    "frequencyRank": 4
+  },
+  {
+    "id": "s04-014",
+    "category": "research",
+    "bad": "You misunderstood me.",
+    "good": "I don't think I explained that clearly.",
+    "why": "Places responsibility on the listener.",
+    "tags": [
+      "presentation"
+    ],
+    "story": [
+      "Our reading group was discussing a paper after lunch.",
+      "One claim seemed to need more support, so I looked back at the evidence.",
+      "I wanted to raise the concern while keeping the discussion focused on the argument.",
+      "I said, “I don't think I explained that clearly.”",
+      "The author of the presentation explained how they had read that section.",
+      "We compared the interpretation with the results shown in the paper.",
+      "The group found a more precise way to describe the limitation.",
+      "We finished the discussion with a question to investigate next."
+    ],
+    "categoryTitle": "Disagreement, Criticism, and Research Discussion",
+    "frequencyRank": 4
+  },
+  {
+    "id": "s04-015",
+    "category": "research",
+    "bad": "You didn't understand my point.",
+    "good": "I don't think my point came across clearly.",
+    "why": "Sounds blaming.",
+    "tags": [
+      "formal"
+    ],
+    "story": [
+      "Our reading group was discussing a paper after lunch.",
+      "One claim seemed to need more support, so I looked back at the evidence.",
+      "I wanted to raise the concern while keeping the discussion focused on the argument.",
+      "I said, “I don't think my point came across clearly.”",
+      "The author of the presentation explained how they had read that section.",
+      "We compared the interpretation with the results shown in the paper.",
+      "The group found a more precise way to describe the limitation.",
+      "We finished the discussion with a question to investigate next."
+    ],
+    "categoryTitle": "Disagreement, Criticism, and Research Discussion",
+    "frequencyRank": 4
+  },
+  {
+    "id": "s04-016",
+    "category": "research",
+    "bad": "You didn't listen.",
+    "good": "I may not have made that clear earlier.",
+    "why": "Direct blame.",
+    "tags": [
+      "formal"
+    ],
+    "story": [
+      "Our reading group was discussing a paper after lunch.",
+      "One claim seemed to need more support, so I looked back at the evidence.",
+      "I wanted to raise the concern while keeping the discussion focused on the argument.",
+      "I said, “I may not have made that clear earlier.”",
+      "The author of the presentation explained how they had read that section.",
+      "We compared the interpretation with the results shown in the paper.",
+      "The group found a more precise way to describe the limitation.",
+      "We finished the discussion with a question to investigate next."
+    ],
+    "categoryTitle": "Disagreement, Criticism, and Research Discussion",
+    "frequencyRank": 4
+  },
+  {
+    "id": "s04-017",
+    "category": "research",
+    "bad": "That's not what I mean.",
+    "good": "Let me rephrase that.",
+    "why": "Can sound defensive.",
+    "tags": [
+      "formal"
+    ],
+    "story": [
+      "Our reading group was discussing a paper after lunch.",
+      "One claim seemed to need more support, so I looked back at the evidence.",
+      "I wanted to raise the concern while keeping the discussion focused on the argument.",
+      "I said, “Let me rephrase that.”",
+      "The author of the presentation explained how they had read that section.",
+      "We compared the interpretation with the results shown in the paper.",
+      "The group found a more precise way to describe the limitation.",
+      "We finished the discussion with a question to investigate next."
+    ],
+    "categoryTitle": "Disagreement, Criticism, and Research Discussion",
+    "frequencyRank": 4
+  },
+  {
+    "id": "s04-018",
+    "category": "research",
+    "bad": "That's what I said.",
+    "good": "Right—that's the point I was trying to make.",
+    "why": "Can sound irritated.",
+    "tags": [
+      "formal"
+    ],
+    "story": [
+      "Our reading group was discussing a paper after lunch.",
+      "One claim seemed to need more support, so I looked back at the evidence.",
+      "I wanted to raise the concern while keeping the discussion focused on the argument.",
+      "I said, “Right—that's the point I was trying to make.”",
+      "The author of the presentation explained how they had read that section.",
+      "We compared the interpretation with the results shown in the paper.",
+      "The group found a more precise way to describe the limitation.",
+      "We finished the discussion with a question to investigate next."
+    ],
+    "categoryTitle": "Disagreement, Criticism, and Research Discussion",
+    "frequencyRank": 4
+  },
+  {
+    "id": "s04-019",
+    "category": "research",
+    "bad": "I told you.",
+    "good": "That's what I was concerned about earlier.",
+    "why": "Often sounds like “I warned you.”",
+    "tags": [
+      "formal"
+    ],
+    "story": [
+      "Our reading group was discussing a paper after lunch.",
+      "One claim seemed to need more support, so I looked back at the evidence.",
+      "I wanted to raise the concern while keeping the discussion focused on the argument.",
+      "I said, “That's what I was concerned about earlier.”",
+      "The author of the presentation explained how they had read that section.",
+      "We compared the interpretation with the results shown in the paper.",
+      "The group found a more precise way to describe the limitation.",
+      "We finished the discussion with a question to investigate next."
+    ],
+    "categoryTitle": "Disagreement, Criticism, and Research Discussion",
+    "frequencyRank": 4
+  },
+  {
+    "id": "s04-020",
+    "category": "research",
+    "bad": "Like I said, the main issue is memory usage.",
+    "good": "As I mentioned earlier, the main issue is memory usage.",
+    "why": "Natural, but can sound annoyed.",
+    "tags": [
+      "formal"
+    ],
+    "story": [
+      "Our reading group was discussing a paper after lunch.",
+      "One claim seemed to need more support, so I looked back at the evidence.",
+      "I wanted to raise the concern while keeping the discussion focused on the argument.",
+      "I said, “As I mentioned earlier, the main issue is memory usage.”",
+      "The author of the presentation explained how they had read that section.",
+      "We compared the interpretation with the results shown in the paper.",
+      "The group found a more precise way to describe the limitation.",
+      "We finished the discussion with a question to investigate next."
+    ],
+    "categoryTitle": "Disagreement, Criticism, and Research Discussion",
+    "frequencyRank": 4
+  },
+  {
+    "id": "s04-021",
+    "category": "research",
+    "bad": "But I think the comparison is still unfair.",
+    "good": "I see your point. My concern is that the comparison may still be unfair.",
+    "why": "Repeatedly starting answers with but sounds adversarial.",
+    "tags": [
+      "casual"
+    ],
+    "story": [
+      "Our reading group was discussing a paper after lunch.",
+      "One claim seemed to need more support, so I looked back at the evidence.",
+      "I wanted to raise the concern while keeping the discussion focused on the argument.",
+      "I said, “I see your point. My concern is that the comparison may still be unfair.”",
+      "The author of the presentation explained how they had read that section.",
+      "We compared the interpretation with the results shown in the paper.",
+      "The group found a more precise way to describe the limitation.",
+      "We finished the discussion with a question to investigate next."
+    ],
+    "categoryTitle": "Disagreement, Criticism, and Research Discussion",
+    "frequencyRank": 4
+  },
+  {
+    "id": "s04-022",
+    "category": "research",
+    "bad": "Yes, but your baseline uses more training data.",
+    "good": "I agree that the baseline is strong. My concern is that it uses more training data.",
+    "why": "Usually feels like rejection.",
+    "tags": [
+      "research"
+    ],
+    "story": [
+      "Our reading group was discussing a paper after lunch.",
+      "One claim seemed to need more support, so I looked back at the evidence.",
+      "I wanted to raise the concern while keeping the discussion focused on the argument.",
+      "I said, “I agree that the baseline is strong. My concern is that it uses more training data.”",
+      "The author of the presentation explained how they had read that section.",
+      "We compared the interpretation with the results shown in the paper.",
+      "The group found a more precise way to describe the limitation.",
+      "We finished the discussion with a question to investigate next."
+    ],
+    "categoryTitle": "Disagreement, Criticism, and Research Discussion",
+    "frequencyRank": 4
+  },
+  {
+    "id": "s04-023",
+    "category": "research",
+    "bad": "No, actually, the model was trained for ten epochs.",
+    "good": "I think it's slightly different—the model was trained for ten epochs.",
+    "why": "Strong correction.",
+    "tags": [
+      "research"
+    ],
+    "story": [
+      "Our reading group was discussing a paper after lunch.",
+      "One claim seemed to need more support, so I looked back at the evidence.",
+      "I wanted to raise the concern while keeping the discussion focused on the argument.",
+      "I said, “I think it's slightly different—the model was trained for ten epochs.”",
+      "The author of the presentation explained how they had read that section.",
+      "We compared the interpretation with the results shown in the paper.",
+      "The group found a more precise way to describe the limitation.",
+      "We finished the discussion with a question to investigate next."
+    ],
+    "categoryTitle": "Disagreement, Criticism, and Research Discussion",
+    "frequencyRank": 4
+  },
+  {
+    "id": "s04-024",
+    "category": "research",
+    "bad": "Actually, this number is wrong.",
+    "good": "I think this number may be incorrect.",
+    "why": "Overuse can make you sound constantly corrective.",
+    "tags": [
+      "formal"
+    ],
+    "story": [
+      "Our reading group was discussing a paper after lunch.",
+      "One claim seemed to need more support, so I looked back at the evidence.",
+      "I wanted to raise the concern while keeping the discussion focused on the argument.",
+      "I said, “I think this number may be incorrect.”",
+      "The author of the presentation explained how they had read that section.",
+      "We compared the interpretation with the results shown in the paper.",
+      "The group found a more precise way to describe the limitation.",
+      "We finished the discussion with a question to investigate next."
+    ],
+    "categoryTitle": "Disagreement, Criticism, and Research Discussion",
+    "frequencyRank": 4
+  },
+  {
+    "id": "s04-025",
+    "category": "research",
+    "bad": "Obviously, the larger model performs better.",
+    "good": "The results show that the larger model performs better in this setting.",
+    "why": "Implies the point should already be obvious.",
+    "tags": [
+      "research"
+    ],
+    "story": [
+      "Our reading group was discussing a paper after lunch.",
+      "One claim seemed to need more support, so I looked back at the evidence.",
+      "I wanted to raise the concern while keeping the discussion focused on the argument.",
+      "I said, “The results show that the larger model performs better in this setting.”",
+      "The author of the presentation explained how they had read that section.",
+      "We compared the interpretation with the results shown in the paper.",
+      "The group found a more precise way to describe the limitation.",
+      "We finished the discussion with a question to investigate next."
+    ],
+    "categoryTitle": "Disagreement, Criticism, and Research Discussion",
+    "frequencyRank": 4
+  },
+  {
+    "id": "s04-026",
+    "category": "research",
+    "bad": "Clearly, our method is better.",
+    "good": "The results suggest that our method performs better in this setting.",
+    "why": "Can be too strong without evidence.",
+    "tags": [
+      "formal"
+    ],
+    "story": [
+      "Our reading group was discussing a paper after lunch.",
+      "One claim seemed to need more support, so I looked back at the evidence.",
+      "I wanted to raise the concern while keeping the discussion focused on the argument.",
+      "I said, “The results suggest that our method performs better in this setting.”",
+      "The author of the presentation explained how they had read that section.",
+      "We compared the interpretation with the results shown in the paper.",
+      "The group found a more precise way to describe the limitation.",
+      "We finished the discussion with a question to investigate next."
+    ],
+    "categoryTitle": "Disagreement, Criticism, and Research Discussion",
+    "frequencyRank": 4
+  },
+  {
+    "id": "s04-027",
+    "category": "research",
+    "bad": "As everyone knows, larger models require more memory.",
+    "good": "It's well established that larger models generally require more memory.",
+    "why": "Pressures the audience to already know.",
+    "tags": [
+      "research",
+      "presentation"
+    ],
+    "story": [
+      "Our reading group was discussing a paper after lunch.",
+      "One claim seemed to need more support, so I looked back at the evidence.",
+      "I wanted to raise the concern while keeping the discussion focused on the argument.",
+      "I said, “It's well established that larger models generally require more memory.”",
+      "The author of the presentation explained how they had read that section.",
+      "We compared the interpretation with the results shown in the paper.",
+      "The group found a more precise way to describe the limitation.",
+      "We finished the discussion with a question to investigate next."
+    ],
+    "categoryTitle": "Disagreement, Criticism, and Research Discussion",
+    "frequencyRank": 4
+  },
+  {
+    "id": "s04-028",
+    "category": "research",
+    "bad": "Everybody knows that this benchmark is outdated.",
+    "good": "Prior work has shown several limitations of this benchmark.",
+    "why": "Overgeneralized and dismissive.",
+    "tags": [
+      "research"
+    ],
+    "story": [
+      "Our reading group was discussing a paper after lunch.",
+      "One claim seemed to need more support, so I looked back at the evidence.",
+      "I wanted to raise the concern while keeping the discussion focused on the argument.",
+      "I said, “Prior work has shown several limitations of this benchmark.”",
+      "The author of the presentation explained how they had read that section.",
+      "We compared the interpretation with the results shown in the paper.",
+      "The group found a more precise way to describe the limitation.",
+      "We finished the discussion with a question to investigate next."
+    ],
+    "categoryTitle": "Disagreement, Criticism, and Research Discussion",
+    "frequencyRank": 4
+  },
+  {
+    "id": "s04-029",
+    "category": "research",
+    "bad": "It is common sense.",
+    "good": "That seems like a reasonable assumption.",
+    "why": "Can sound insulting.",
+    "tags": [
+      "formal"
+    ],
+    "story": [
+      "Our reading group was discussing a paper after lunch.",
+      "One claim seemed to need more support, so I looked back at the evidence.",
+      "I wanted to raise the concern while keeping the discussion focused on the argument.",
+      "I said, “That seems like a reasonable assumption.”",
+      "The author of the presentation explained how they had read that section.",
+      "We compared the interpretation with the results shown in the paper.",
+      "The group found a more precise way to describe the limitation.",
+      "We finished the discussion with a question to investigate next."
+    ],
+    "categoryTitle": "Disagreement, Criticism, and Research Discussion",
+    "frequencyRank": 4
+  },
+  {
+    "id": "s04-030",
+    "category": "research",
+    "bad": "It's basic.",
+    "good": "This is a fairly standard idea.",
+    "why": "Can sound condescending.",
+    "tags": [
+      "formal"
+    ],
+    "story": [
+      "Our reading group was discussing a paper after lunch.",
+      "One claim seemed to need more support, so I looked back at the evidence.",
+      "I wanted to raise the concern while keeping the discussion focused on the argument.",
+      "I said, “This is a fairly standard idea.”",
+      "The author of the presentation explained how they had read that section.",
+      "We compared the interpretation with the results shown in the paper.",
+      "The group found a more precise way to describe the limitation.",
+      "We finished the discussion with a question to investigate next."
+    ],
+    "categoryTitle": "Disagreement, Criticism, and Research Discussion",
+    "frequencyRank": 4
+  },
+  {
+    "id": "s04-031",
+    "category": "research",
+    "bad": "It's easy.",
+    "good": "This part is fairly straightforward.",
+    "why": "May minimize difficulty.",
+    "tags": [
+      "formal"
+    ],
+    "story": [
+      "Our reading group was discussing a paper after lunch.",
+      "One claim seemed to need more support, so I looked back at the evidence.",
+      "I wanted to raise the concern while keeping the discussion focused on the argument.",
+      "I said, “This part is fairly straightforward.”",
+      "The author of the presentation explained how they had read that section.",
+      "We compared the interpretation with the results shown in the paper.",
+      "The group found a more precise way to describe the limitation.",
+      "We finished the discussion with a question to investigate next."
+    ],
+    "categoryTitle": "Disagreement, Criticism, and Research Discussion",
+    "frequencyRank": 4
+  },
+  {
+    "id": "s04-032",
+    "category": "research",
+    "bad": "Simple.",
+    "good": "The basic idea is straightforward.",
+    "why": "Can sound dismissive.",
+    "tags": [
+      "formal"
+    ],
+    "story": [
+      "Our reading group was discussing a paper after lunch.",
+      "One claim seemed to need more support, so I looked back at the evidence.",
+      "I wanted to raise the concern while keeping the discussion focused on the argument.",
+      "I said, “The basic idea is straightforward.”",
+      "The author of the presentation explained how they had read that section.",
+      "We compared the interpretation with the results shown in the paper.",
+      "The group found a more precise way to describe the limitation.",
+      "We finished the discussion with a question to investigate next."
+    ],
+    "categoryTitle": "Disagreement, Criticism, and Research Discussion",
+    "frequencyRank": 4
+  },
+  {
+    "id": "s04-033",
+    "category": "research",
+    "bad": "Just use a larger batch size.",
+    "good": "One option would be to try a larger batch size.",
+    "why": "Can trivialize the task.",
+    "tags": [
+      "formal"
+    ],
+    "story": [
+      "Our reading group was discussing a paper after lunch.",
+      "One claim seemed to need more support, so I looked back at the evidence.",
+      "I wanted to raise the concern while keeping the discussion focused on the argument.",
+      "I said, “One option would be to try a larger batch size.”",
+      "The author of the presentation explained how they had read that section.",
+      "We compared the interpretation with the results shown in the paper.",
+      "The group found a more precise way to describe the limitation.",
+      "We finished the discussion with a question to investigate next."
+    ],
+    "categoryTitle": "Disagreement, Criticism, and Research Discussion",
+    "frequencyRank": 4
+  },
+  {
+    "id": "s04-034",
+    "category": "research",
+    "bad": "You can just increase the learning rate.",
+    "good": "You could try increasing the learning rate.",
+    "why": "Can make the other person feel the task should be obvious.",
+    "tags": [
+      "formal"
+    ],
+    "story": [
+      "Our reading group was discussing a paper after lunch.",
+      "One claim seemed to need more support, so I looked back at the evidence.",
+      "I wanted to raise the concern while keeping the discussion focused on the argument.",
+      "I said, “You could try increasing the learning rate.”",
+      "The author of the presentation explained how they had read that section.",
+      "We compared the interpretation with the results shown in the paper.",
+      "The group found a more precise way to describe the limitation.",
+      "We finished the discussion with a question to investigate next."
+    ],
+    "categoryTitle": "Disagreement, Criticism, and Research Discussion",
+    "frequencyRank": 4
+  },
+  {
+    "id": "s05-003",
+    "category": "research",
+    "bad": "Please confirm that you can attend the meeting.",
+    "good": "Could you confirm whether you can attend the meeting?",
+    "why": "Formal and directive.",
+    "tags": [
+      "presentation"
+    ],
+    "story": [
+      "I was revising a draft before the next group meeting.",
+      "A colleague had offered to help me check one part of it.",
+      "I sent a short message with the document and a clear request.",
+      "I wrote, “Could you confirm whether you can attend the meeting?”",
+      "I included the timing that would help me keep the revision on schedule.",
+      "My colleague replied with a time that worked for them.",
+      "Their comments helped me make the draft clearer.",
+      "I thanked them and used the same considerate tone in my reply."
+    ],
+    "categoryTitle": "Requests, Email, Follow-Ups, and Apologies",
+    "frequencyRank": 4
+  },
+  {
+    "id": "s08-001",
+    "category": "research",
+    "bad": "I work hard these days.",
+    "good": "I've been working a lot lately.",
+    "why": "Possible, but sometimes sounds translated.",
+    "tags": [
+      "formal"
+    ],
+    "story": [
+      "I had a quick question for someone on my research team.",
+      "They were working, so I made the topic and timing clear before launching into it.",
+      "We found a moment to talk through the situation together.",
+      "I said, “I've been working a lot lately.”",
+      "My teammate responded with a useful suggestion and explained their reasoning.",
+      "We checked the details and agreed on who would handle the next step.",
+      "The short conversation saved us from making different assumptions.",
+      "I thanked them and got back to my work."
+    ],
+    "categoryTitle": "Lab Interaction, Advice, Directives, and Emotional Language",
+    "frequencyRank": 4
+  },
+  {
+    "id": "s08-002",
+    "category": "research",
+    "bad": "You worked hard.",
+    "good": "You put a lot of work into this.",
+    "why": "Sounds like evaluation from a superior.",
+    "tags": [
+      "formal"
+    ],
+    "story": [
+      "I had a quick question for someone on my research team.",
+      "They were working, so I made the topic and timing clear before launching into it.",
+      "We found a moment to talk through the situation together.",
+      "I said, “You put a lot of work into this.”",
+      "My teammate responded with a useful suggestion and explained their reasoning.",
+      "We checked the details and agreed on who would handle the next step.",
+      "The short conversation saved us from making different assumptions.",
+      "I thanked them and got back to my work."
+    ],
+    "categoryTitle": "Lab Interaction, Advice, Directives, and Emotional Language",
+    "frequencyRank": 4
+  },
+  {
+    "id": "s08-003",
+    "category": "research",
+    "bad": "Good job.",
+    "good": "That was really well done.",
+    "why": "Natural, but can sound evaluative between peers.",
+    "tags": [
+      "formal"
+    ],
+    "story": [
+      "I had a quick question for someone on my research team.",
+      "They were working, so I made the topic and timing clear before launching into it.",
+      "We found a moment to talk through the situation together.",
+      "I said, “That was really well done.”",
+      "My teammate responded with a useful suggestion and explained their reasoning.",
+      "We checked the details and agreed on who would handle the next step.",
+      "The short conversation saved us from making different assumptions.",
+      "I thanked them and got back to my work."
+    ],
+    "categoryTitle": "Lab Interaction, Advice, Directives, and Emotional Language",
+    "frequencyRank": 4
+  },
+  {
+    "id": "s08-004",
+    "category": "research",
+    "bad": "You are smart.",
+    "good": "That's a really insightful point.",
+    "why": "Can sound simplistic or childlike.",
+    "tags": [
+      "formal"
+    ],
+    "story": [
+      "I had a quick question for someone on my research team.",
+      "They were working, so I made the topic and timing clear before launching into it.",
+      "We found a moment to talk through the situation together.",
+      "I said, “That's a really insightful point.”",
+      "My teammate responded with a useful suggestion and explained their reasoning.",
+      "We checked the details and agreed on who would handle the next step.",
+      "The short conversation saved us from making different assumptions.",
+      "I thanked them and got back to my work."
+    ],
+    "categoryTitle": "Lab Interaction, Advice, Directives, and Emotional Language",
+    "frequencyRank": 4
+  },
+  {
+    "id": "s08-005",
+    "category": "research",
+    "bad": "You are diligent.",
+    "good": "You're very thorough.",
+    "why": "Stiff and unnatural in casual American English.",
+    "tags": [
+      "formal"
+    ],
+    "story": [
+      "I had a quick question for someone on my research team.",
+      "They were working, so I made the topic and timing clear before launching into it.",
+      "We found a moment to talk through the situation together.",
+      "I said, “You're very thorough.”",
+      "My teammate responded with a useful suggestion and explained their reasoning.",
+      "We checked the details and agreed on who would handle the next step.",
+      "The short conversation saved us from making different assumptions.",
+      "I thanked them and got back to my work."
+    ],
+    "categoryTitle": "Lab Interaction, Advice, Directives, and Emotional Language",
+    "frequencyRank": 4
+  },
+  {
+    "id": "s08-006",
+    "category": "research",
+    "bad": "You look busy.",
+    "good": "Is now a bad time?",
+    "why": "Observes the person's state without stating your need.",
+    "tags": [
+      "formal"
+    ],
+    "story": [
+      "I had a quick question for someone on my research team.",
+      "They were working, so I made the topic and timing clear before launching into it.",
+      "We found a moment to talk through the situation together.",
+      "I said, “Is now a bad time?”",
+      "My teammate responded with a useful suggestion and explained their reasoning.",
+      "We checked the details and agreed on who would handle the next step.",
+      "The short conversation saved us from making different assumptions.",
+      "I thanked them and got back to my work."
+    ],
+    "categoryTitle": "Lab Interaction, Advice, Directives, and Emotional Language",
+    "frequencyRank": 4
+  },
+  {
+    "id": "s08-007",
+    "category": "research",
+    "bad": "Are you busy?",
+    "good": "Do you have a minute to talk about the experiment results?",
+    "why": "Can create unnecessary tension.",
+    "tags": [
+      "research",
+      "presentation",
+      "casual"
+    ],
+    "story": [
+      "I had a quick question for someone on my research team.",
+      "They were working, so I made the topic and timing clear before launching into it.",
+      "We found a moment to talk through the situation together.",
+      "I said, “Do you have a minute to talk about the experiment results?”",
+      "My teammate responded with a useful suggestion and explained their reasoning.",
+      "We checked the details and agreed on who would handle the next step.",
+      "The short conversation saved us from making different assumptions.",
+      "I thanked them and got back to my work."
+    ],
+    "categoryTitle": "Lab Interaction, Advice, Directives, and Emotional Language",
+    "frequencyRank": 4
+  },
+  {
+    "id": "s08-008",
+    "category": "research",
+    "bad": "Can I talk to you?",
+    "good": "Do you have a few minutes to talk about the paper draft?",
+    "why": "Can sound serious or ominous.",
+    "tags": [
+      "research",
+      "presentation",
+      "formal"
+    ],
+    "story": [
+      "I had a quick question for someone on my research team.",
+      "They were working, so I made the topic and timing clear before launching into it.",
+      "We found a moment to talk through the situation together.",
+      "I said, “Do you have a few minutes to talk about the paper draft?”",
+      "My teammate responded with a useful suggestion and explained their reasoning.",
+      "We checked the details and agreed on who would handle the next step.",
+      "The short conversation saved us from making different assumptions.",
+      "I thanked them and got back to my work."
+    ],
+    "categoryTitle": "Lab Interaction, Advice, Directives, and Emotional Language",
+    "frequencyRank": 4
+  },
+  {
+    "id": "s08-009",
+    "category": "research",
+    "bad": "I need to talk to you.",
+    "good": "I'd like to get your thoughts on something.",
+    "why": "Often sounds like bad news is coming.",
+    "tags": [
+      "presentation"
+    ],
+    "story": [
+      "I had a quick question for someone on my research team.",
+      "They were working, so I made the topic and timing clear before launching into it.",
+      "We found a moment to talk through the situation together.",
+      "I said, “I'd like to get your thoughts on something.”",
+      "My teammate responded with a useful suggestion and explained their reasoning.",
+      "We checked the details and agreed on who would handle the next step.",
+      "The short conversation saved us from making different assumptions.",
+      "I thanked them and got back to my work."
+    ],
+    "categoryTitle": "Lab Interaction, Advice, Directives, and Emotional Language",
+    "frequencyRank": 4
+  },
+  {
+    "id": "s08-010",
+    "category": "research",
+    "bad": "We need to talk.",
+    "good": "Could we talk about the experiment results sometime today?",
+    "why": "Strongly associated with serious relationship/problem conversations.",
+    "tags": [
+      "research",
+      "presentation"
+    ],
+    "story": [
+      "I had a quick question for someone on my research team.",
+      "They were working, so I made the topic and timing clear before launching into it.",
+      "We found a moment to talk through the situation together.",
+      "I said, “Could we talk about the experiment results sometime today?”",
+      "My teammate responded with a useful suggestion and explained their reasoning.",
+      "We checked the details and agreed on who would handle the next step.",
+      "The short conversation saved us from making different assumptions.",
+      "I thanked them and got back to my work."
+    ],
+    "categoryTitle": "Lab Interaction, Advice, Directives, and Emotional Language",
+    "frequencyRank": 4
+  },
+  {
+    "id": "s08-011",
+    "category": "research",
+    "bad": "I have something to discuss.",
+    "good": "I wanted to get your thoughts on something.",
+    "why": "Sounds heavy and formal.",
+    "tags": [
+      "formal"
+    ],
+    "story": [
+      "I had a quick question for someone on my research team.",
+      "They were working, so I made the topic and timing clear before launching into it.",
+      "We found a moment to talk through the situation together.",
+      "I said, “I wanted to get your thoughts on something.”",
+      "My teammate responded with a useful suggestion and explained their reasoning.",
+      "We checked the details and agreed on who would handle the next step.",
+      "The short conversation saved us from making different assumptions.",
+      "I thanked them and got back to my work."
+    ],
+    "categoryTitle": "Lab Interaction, Advice, Directives, and Emotional Language",
+    "frequencyRank": 4
+  },
+  {
+    "id": "s08-012",
+    "category": "research",
+    "bad": "I have a favor.",
+    "good": "Could I ask you a favor?",
+    "why": "Non-native.",
+    "tags": [
+      "formal"
+    ],
+    "story": [
+      "I had a quick question for someone on my research team.",
+      "They were working, so I made the topic and timing clear before launching into it.",
+      "We found a moment to talk through the situation together.",
+      "I said, “Could I ask you a favor?”",
+      "My teammate responded with a useful suggestion and explained their reasoning.",
+      "We checked the details and agreed on who would handle the next step.",
+      "The short conversation saved us from making different assumptions.",
+      "I thanked them and got back to my work."
+    ],
+    "categoryTitle": "Lab Interaction, Advice, Directives, and Emotional Language",
+    "frequencyRank": 4
+  },
+  {
+    "id": "s08-013",
+    "category": "research",
+    "bad": "Please understand me.",
+    "good": "I hope that makes sense.",
+    "why": "Sounds emotionally heavy.",
+    "tags": [
+      "formal"
+    ],
+    "story": [
+      "I had a quick question for someone on my research team.",
+      "They were working, so I made the topic and timing clear before launching into it.",
+      "We found a moment to talk through the situation together.",
+      "I said, “I hope that makes sense.”",
+      "My teammate responded with a useful suggestion and explained their reasoning.",
+      "We checked the details and agreed on who would handle the next step.",
+      "The short conversation saved us from making different assumptions.",
+      "I thanked them and got back to my work."
+    ],
+    "categoryTitle": "Lab Interaction, Advice, Directives, and Emotional Language",
+    "frequencyRank": 4
+  },
+  {
+    "id": "s08-014",
+    "category": "research",
+    "bad": "Please understand my situation because I have two deadlines this week.",
+    "good": "Given my situation, would it be possible to move the deadline to Monday?",
+    "why": "Sounds like pleading.",
+    "tags": [
+      "formal"
+    ],
+    "story": [
+      "I had a quick question for someone on my research team.",
+      "They were working, so I made the topic and timing clear before launching into it.",
+      "We found a moment to talk through the situation together.",
+      "I said, “Given my situation, would it be possible to move the deadline to Monday?”",
+      "My teammate responded with a useful suggestion and explained their reasoning.",
+      "We checked the details and agreed on who would handle the next step.",
+      "The short conversation saved us from making different assumptions.",
+      "I thanked them and got back to my work."
+    ],
+    "categoryTitle": "Lab Interaction, Advice, Directives, and Emotional Language",
+    "frequencyRank": 4
+  },
+  {
+    "id": "s08-015",
+    "category": "research",
+    "bad": "You should use a stronger baseline.",
+    "good": "You might want to try a stronger baseline.",
+    "why": "Stronger than many Korean speakers realize.",
+    "tags": [
+      "research"
+    ],
+    "story": [
+      "I had a quick question for someone on my research team.",
+      "They were working, so I made the topic and timing clear before launching into it.",
+      "We found a moment to talk through the situation together.",
+      "I said, “You might want to try a stronger baseline.”",
+      "My teammate responded with a useful suggestion and explained their reasoning.",
+      "We checked the details and agreed on who would handle the next step.",
+      "The short conversation saved us from making different assumptions.",
+      "I thanked them and got back to my work."
+    ],
+    "categoryTitle": "Lab Interaction, Advice, Directives, and Emotional Language",
+    "frequencyRank": 4
+  },
+  {
+    "id": "s08-016",
+    "category": "research",
+    "bad": "You have to rerun the experiment.",
+    "good": "We'll need to rerun the experiment before submission.",
+    "why": "Strong instruction.",
+    "tags": [
+      "research"
+    ],
+    "story": [
+      "I had a quick question for someone on my research team.",
+      "They were working, so I made the topic and timing clear before launching into it.",
+      "We found a moment to talk through the situation together.",
+      "I said, “We'll need to rerun the experiment before submission.”",
+      "My teammate responded with a useful suggestion and explained their reasoning.",
+      "We checked the details and agreed on who would handle the next step.",
+      "The short conversation saved us from making different assumptions.",
+      "I thanked them and got back to my work."
+    ],
+    "categoryTitle": "Lab Interaction, Advice, Directives, and Emotional Language",
+    "frequencyRank": 4
+  },
+  {
+    "id": "s08-017",
+    "category": "research",
+    "bad": "You must include this baseline.",
+    "good": "We should probably include this baseline before submission.",
+    "why": "Very strong unless it is a rule.",
+    "tags": [
+      "research"
+    ],
+    "story": [
+      "I had a quick question for someone on my research team.",
+      "They were working, so I made the topic and timing clear before launching into it.",
+      "We found a moment to talk through the situation together.",
+      "I said, “We should probably include this baseline before submission.”",
+      "My teammate responded with a useful suggestion and explained their reasoning.",
+      "We checked the details and agreed on who would handle the next step.",
+      "The short conversation saved us from making different assumptions.",
+      "I thanked them and got back to my work."
+    ],
+    "categoryTitle": "Lab Interaction, Advice, Directives, and Emotional Language",
+    "frequencyRank": 4
+  },
+  {
+    "id": "s08-018",
+    "category": "research",
+    "bad": "You'd better fix this figure before the meeting.",
+    "good": "It would be a good idea to fix this figure before the meeting.",
+    "why": "Often sounds like a warning.",
+    "tags": [
+      "presentation"
+    ],
+    "story": [
+      "I had a quick question for someone on my research team.",
+      "They were working, so I made the topic and timing clear before launching into it.",
+      "We found a moment to talk through the situation together.",
+      "I said, “It would be a good idea to fix this figure before the meeting.”",
+      "My teammate responded with a useful suggestion and explained their reasoning.",
+      "We checked the details and agreed on who would handle the next step.",
+      "The short conversation saved us from making different assumptions.",
+      "I thanked them and got back to my work."
+    ],
+    "categoryTitle": "Lab Interaction, Advice, Directives, and Emotional Language",
+    "frequencyRank": 4
+  },
+  {
+    "id": "s08-019",
+    "category": "research",
+    "bad": "You need to fix this.",
+    "good": "Could you take another look at this?",
+    "why": "Direct and hierarchical.",
+    "tags": [
+      "formal"
+    ],
+    "story": [
+      "I had a quick question for someone on my research team.",
+      "They were working, so I made the topic and timing clear before launching into it.",
+      "We found a moment to talk through the situation together.",
+      "I said, “Could you take another look at this?”",
+      "My teammate responded with a useful suggestion and explained their reasoning.",
+      "We checked the details and agreed on who would handle the next step.",
+      "The short conversation saved us from making different assumptions.",
+      "I thanked them and got back to my work."
+    ],
+    "categoryTitle": "Lab Interaction, Advice, Directives, and Emotional Language",
+    "frequencyRank": 4
+  },
+  {
+    "id": "s08-020",
+    "category": "research",
+    "bad": "Come to my office.",
+    "good": "Could you stop by my office?",
+    "why": "Sounds like a command.",
+    "tags": [
+      "formal"
+    ],
+    "story": [
+      "I had a quick question for someone on my research team.",
+      "They were working, so I made the topic and timing clear before launching into it.",
+      "We found a moment to talk through the situation together.",
+      "I said, “Could you stop by my office?”",
+      "My teammate responded with a useful suggestion and explained their reasoning.",
+      "We checked the details and agreed on who would handle the next step.",
+      "The short conversation saved us from making different assumptions.",
+      "I thanked them and got back to my work."
+    ],
+    "categoryTitle": "Lab Interaction, Advice, Directives, and Emotional Language",
+    "frequencyRank": 4
+  },
+  {
+    "id": "s08-021",
+    "category": "research",
+    "bad": "Wait.",
+    "good": "Hang on a second.",
+    "why": "Abrupt.",
+    "tags": [
+      "formal"
+    ],
+    "story": [
+      "I had a quick question for someone on my research team.",
+      "They were working, so I made the topic and timing clear before launching into it.",
+      "We found a moment to talk through the situation together.",
+      "I said, “Hang on a second.”",
+      "My teammate responded with a useful suggestion and explained their reasoning.",
+      "We checked the details and agreed on who would handle the next step.",
+      "The short conversation saved us from making different assumptions.",
+      "I thanked them and got back to my work."
+    ],
+    "categoryTitle": "Lab Interaction, Advice, Directives, and Emotional Language",
+    "frequencyRank": 4
+  },
+  {
+    "id": "s08-022",
+    "category": "research",
+    "bad": "Please wait.",
+    "good": "Give me a second.",
+    "why": "Formal/service-style.",
+    "tags": [
+      "formal"
+    ],
+    "story": [
+      "I had a quick question for someone on my research team.",
+      "They were working, so I made the topic and timing clear before launching into it.",
+      "We found a moment to talk through the situation together.",
+      "I said, “Give me a second.”",
+      "My teammate responded with a useful suggestion and explained their reasoning.",
+      "We checked the details and agreed on who would handle the next step.",
+      "The short conversation saved us from making different assumptions.",
+      "I thanked them and got back to my work."
+    ],
+    "categoryTitle": "Lab Interaction, Advice, Directives, and Emotional Language",
+    "frequencyRank": 4
+  },
+  {
+    "id": "s08-023",
+    "category": "research",
+    "bad": "Listen, this is the most important issue.",
+    "good": "The key point is that the current evaluation does not control for model size.",
+    "why": "Can sound confrontational.",
+    "tags": [
+      "research"
+    ],
+    "story": [
+      "I had a quick question for someone on my research team.",
+      "They were working, so I made the topic and timing clear before launching into it.",
+      "We found a moment to talk through the situation together.",
+      "I said, “The key point is that the current evaluation does not control for model size.”",
+      "My teammate responded with a useful suggestion and explained their reasoning.",
+      "We checked the details and agreed on who would handle the next step.",
+      "The short conversation saved us from making different assumptions.",
+      "I thanked them and got back to my work."
+    ],
+    "categoryTitle": "Lab Interaction, Advice, Directives, and Emotional Language",
+    "frequencyRank": 4
+  },
+  {
+    "id": "s08-024",
+    "category": "research",
+    "bad": "Look, I don't think this result is convincing.",
+    "good": "I think the main issue is that the result is not statistically stable.",
+    "why": "Can signal disagreement or frustration.",
+    "tags": [
+      "formal"
+    ],
+    "story": [
+      "I had a quick question for someone on my research team.",
+      "They were working, so I made the topic and timing clear before launching into it.",
+      "We found a moment to talk through the situation together.",
+      "I said, “I think the main issue is that the result is not statistically stable.”",
+      "My teammate responded with a useful suggestion and explained their reasoning.",
+      "We checked the details and agreed on who would handle the next step.",
+      "The short conversation saved us from making different assumptions.",
+      "I thanked them and got back to my work."
+    ],
+    "categoryTitle": "Lab Interaction, Advice, Directives, and Emotional Language",
+    "frequencyRank": 4
+  },
+  {
+    "id": "s08-025",
+    "category": "research",
+    "bad": "Calm down. The deadline is still two weeks away.",
+    "good": "We still have two weeks before the deadline, so I think we have time to work through this.",
+    "why": "Almost always escalates tension.",
+    "tags": [
+      "formal"
+    ],
+    "story": [
+      "I had a quick question for someone on my research team.",
+      "They were working, so I made the topic and timing clear before launching into it.",
+      "We found a moment to talk through the situation together.",
+      "I said, “We still have two weeks before the deadline, so I think we have time to work through this.”",
+      "My teammate responded with a useful suggestion and explained their reasoning.",
+      "We checked the details and agreed on who would handle the next step.",
+      "The short conversation saved us from making different assumptions.",
+      "I thanked them and got back to my work."
+    ],
+    "categoryTitle": "Lab Interaction, Advice, Directives, and Emotional Language",
+    "frequencyRank": 4
+  },
+  {
+    "id": "s08-026",
+    "category": "research",
+    "bad": "Don't worry.",
+    "good": "I think we'll be okay.",
+    "why": "Can dismiss the person's concern.",
+    "tags": [
+      "formal"
+    ],
+    "story": [
+      "I had a quick question for someone on my research team.",
+      "They were working, so I made the topic and timing clear before launching into it.",
+      "We found a moment to talk through the situation together.",
+      "I said, “I think we'll be okay.”",
+      "My teammate responded with a useful suggestion and explained their reasoning.",
+      "We checked the details and agreed on who would handle the next step.",
+      "The short conversation saved us from making different assumptions.",
+      "I thanked them and got back to my work."
+    ],
+    "categoryTitle": "Lab Interaction, Advice, Directives, and Emotional Language",
+    "frequencyRank": 4
+  },
+  {
+    "id": "s08-027",
+    "category": "research",
+    "bad": "You don't need to worry.",
+    "good": "I think we have a way to handle it.",
+    "why": "Tells the other person how to feel.",
+    "tags": [
+      "formal"
+    ],
+    "story": [
+      "I had a quick question for someone on my research team.",
+      "They were working, so I made the topic and timing clear before launching into it.",
+      "We found a moment to talk through the situation together.",
+      "I said, “I think we have a way to handle it.”",
+      "My teammate responded with a useful suggestion and explained their reasoning.",
+      "We checked the details and agreed on who would handle the next step.",
+      "The short conversation saved us from making different assumptions.",
+      "I thanked them and got back to my work."
+    ],
+    "categoryTitle": "Lab Interaction, Advice, Directives, and Emotional Language",
+    "frequencyRank": 4
+  },
+  {
+    "id": "s08-028",
+    "category": "research",
+    "bad": "Take it easy.",
+    "good": "No rush.",
+    "why": "Can sound dismissive in conflict.",
+    "tags": [
+      "formal"
+    ],
+    "story": [
+      "I had a quick question for someone on my research team.",
+      "They were working, so I made the topic and timing clear before launching into it.",
+      "We found a moment to talk through the situation together.",
+      "I said, “No rush.”",
+      "My teammate responded with a useful suggestion and explained their reasoning.",
+      "We checked the details and agreed on who would handle the next step.",
+      "The short conversation saved us from making different assumptions.",
+      "I thanked them and got back to my work."
+    ],
+    "categoryTitle": "Lab Interaction, Advice, Directives, and Emotional Language",
+    "frequencyRank": 4
+  },
+  {
+    "id": "s08-029",
+    "category": "research",
+    "bad": "Fighting! I hope your presentation goes well.",
+    "good": "Good luck with your presentation today!",
+    "why": "Korean expression does not transfer.",
+    "tags": [
+      "presentation"
+    ],
+    "story": [
+      "I had a quick question for someone on my research team.",
+      "They were working, so I made the topic and timing clear before launching into it.",
+      "We found a moment to talk through the situation together.",
+      "I said, “Good luck with your presentation today!”",
+      "My teammate responded with a useful suggestion and explained their reasoning.",
+      "We checked the details and agreed on who would handle the next step.",
+      "The short conversation saved us from making different assumptions.",
+      "I thanked them and got back to my work."
+    ],
+    "categoryTitle": "Lab Interaction, Advice, Directives, and Emotional Language",
+    "frequencyRank": 4
+  },
+  {
+    "id": "s08-030",
+    "category": "research",
+    "bad": "Cheer up.",
+    "good": "I hope things get better soon.",
+    "why": "Can sound too light for serious situations.",
+    "tags": [
+      "formal"
+    ],
+    "story": [
+      "I had a quick question for someone on my research team.",
+      "They were working, so I made the topic and timing clear before launching into it.",
+      "We found a moment to talk through the situation together.",
+      "I said, “I hope things get better soon.”",
+      "My teammate responded with a useful suggestion and explained their reasoning.",
+      "We checked the details and agreed on who would handle the next step.",
+      "The short conversation saved us from making different assumptions.",
+      "I thanked them and got back to my work."
+    ],
+    "categoryTitle": "Lab Interaction, Advice, Directives, and Emotional Language",
+    "frequencyRank": 4
+  },
+  {
+    "id": "s08-031",
+    "category": "research",
+    "bad": "Be strong.",
+    "good": "I'm here if you need anything.",
+    "why": "Can sound like telling someone to suppress emotion.",
+    "tags": [
+      "formal"
+    ],
+    "story": [
+      "I had a quick question for someone on my research team.",
+      "They were working, so I made the topic and timing clear before launching into it.",
+      "We found a moment to talk through the situation together.",
+      "I said, “I'm here if you need anything.”",
+      "My teammate responded with a useful suggestion and explained their reasoning.",
+      "We checked the details and agreed on who would handle the next step.",
+      "The short conversation saved us from making different assumptions.",
+      "I thanked them and got back to my work."
+    ],
+    "categoryTitle": "Lab Interaction, Advice, Directives, and Emotional Language",
+    "frequencyRank": 4
+  },
+  {
+    "id": "s08-032",
+    "category": "research",
+    "bad": "You must be tired.",
+    "good": "You must've had a long day.",
+    "why": "Assumes the person's state.",
+    "tags": [
+      "formal"
+    ],
+    "story": [
+      "I had a quick question for someone on my research team.",
+      "They were working, so I made the topic and timing clear before launching into it.",
+      "We found a moment to talk through the situation together.",
+      "I said, “You must've had a long day.”",
+      "My teammate responded with a useful suggestion and explained their reasoning.",
+      "We checked the details and agreed on who would handle the next step.",
+      "The short conversation saved us from making different assumptions.",
+      "I thanked them and got back to my work."
+    ],
+    "categoryTitle": "Lab Interaction, Advice, Directives, and Emotional Language",
+    "frequencyRank": 4
+  },
+  {
+    "id": "s02-001",
+    "category": "research",
+    "bad": "According to me, this comparison is not fair.",
+    "good": "In my view, this comparison is not fair.",
+    "why": "Non-native phrasing.",
+    "tags": [
+      "presentation"
+    ],
+    "story": [
+      "At our weekly meeting, the group was reviewing a recent result.",
+      "Everyone had a slightly different interpretation of the numbers.",
+      "I wanted to share my view without making a stronger claim than the evidence supported.",
+      "I said, “In my view, this comparison is not fair.”",
+      "A labmate asked which part of the result had led me to that view.",
+      "We checked the relevant comparison together and clarified the open question.",
+      "The discussion helped us agree on a useful next step.",
+      "I left with a clearer way to explain my reasoning."
+    ],
+    "categoryTitle": "Opinions, Framing, Hedging, and Confidence",
+    "frequencyRank": 5
+  },
+  {
+    "id": "s02-002",
+    "category": "research",
+    "bad": "As I know, this dataset is publicly available.",
+    "good": "As far as I know, this dataset is publicly available.",
+    "why": "Non-native.",
+    "tags": [
+      "research"
+    ],
+    "story": [
+      "At our weekly meeting, the group was reviewing a recent result.",
+      "Everyone had a slightly different interpretation of the numbers.",
+      "I wanted to share my view without making a stronger claim than the evidence supported.",
+      "I said, “As far as I know, this dataset is publicly available.”",
+      "A labmate asked which part of the result had led me to that view.",
+      "We checked the relevant comparison together and clarified the open question.",
+      "The discussion helped us agree on a useful next step.",
+      "I left with a clearer way to explain my reasoning."
+    ],
+    "categoryTitle": "Opinions, Framing, Hedging, and Confidence",
+    "frequencyRank": 5
+  },
+  {
+    "id": "s02-003",
+    "category": "research",
+    "bad": "As I remember, this paper used the same benchmark.",
+    "good": "If I remember correctly, this paper used the same benchmark.",
+    "why": "Non-native.",
+    "tags": [
+      "research"
+    ],
+    "story": [
+      "At our weekly meeting, the group was reviewing a recent result.",
+      "Everyone had a slightly different interpretation of the numbers.",
+      "I wanted to share my view without making a stronger claim than the evidence supported.",
+      "I said, “If I remember correctly, this paper used the same benchmark.”",
+      "A labmate asked which part of the result had led me to that view.",
+      "We checked the relevant comparison together and clarified the open question.",
+      "The discussion helped us agree on a useful next step.",
+      "I left with a clearer way to explain my reasoning."
+    ],
+    "categoryTitle": "Opinions, Framing, Hedging, and Confidence",
+    "frequencyRank": 5
+  },
+  {
+    "id": "s02-004",
+    "category": "research",
+    "bad": "As I heard, the lab is hiring new PhD students.",
+    "good": "From what I've heard, the lab is hiring new PhD students.",
+    "why": "Non-native.",
+    "tags": [
+      "research"
+    ],
+    "story": [
+      "At our weekly meeting, the group was reviewing a recent result.",
+      "Everyone had a slightly different interpretation of the numbers.",
+      "I wanted to share my view without making a stronger claim than the evidence supported.",
+      "I said, “From what I've heard, the lab is hiring new PhD students.”",
+      "A labmate asked which part of the result had led me to that view.",
+      "We checked the relevant comparison together and clarified the open question.",
+      "The discussion helped us agree on a useful next step.",
+      "I left with a clearer way to explain my reasoning."
+    ],
+    "categoryTitle": "Opinions, Framing, Hedging, and Confidence",
+    "frequencyRank": 5
+  },
+  {
+    "id": "s02-005",
+    "category": "research",
+    "bad": "As I told you, the evaluation setting is different.",
+    "good": "As I mentioned earlier, the evaluation setting is different.",
+    "why": "Can sound like a reprimand.",
+    "tags": [
+      "presentation"
+    ],
+    "story": [
+      "At our weekly meeting, the group was reviewing a recent result.",
+      "Everyone had a slightly different interpretation of the numbers.",
+      "I wanted to share my view without making a stronger claim than the evidence supported.",
+      "I said, “As I mentioned earlier, the evaluation setting is different.”",
+      "A labmate asked which part of the result had led me to that view.",
+      "We checked the relevant comparison together and clarified the open question.",
+      "The discussion helped us agree on a useful next step.",
+      "I left with a clearer way to explain my reasoning."
+    ],
+    "categoryTitle": "Opinions, Framing, Hedging, and Confidence",
+    "frequencyRank": 5
+  },
+  {
+    "id": "s02-006",
+    "category": "research",
+    "bad": "In my opinion, I think this baseline is too weak.",
+    "good": "I think this baseline is too weak.",
+    "why": "Redundant.",
+    "tags": [
+      "research"
+    ],
+    "story": [
+      "At our weekly meeting, the group was reviewing a recent result.",
+      "Everyone had a slightly different interpretation of the numbers.",
+      "I wanted to share my view without making a stronger claim than the evidence supported.",
+      "I said, “I think this baseline is too weak.”",
+      "A labmate asked which part of the result had led me to that view.",
+      "We checked the relevant comparison together and clarified the open question.",
+      "The discussion helped us agree on a useful next step.",
+      "I left with a clearer way to explain my reasoning."
+    ],
+    "categoryTitle": "Opinions, Framing, Hedging, and Confidence",
+    "frequencyRank": 5
+  },
+  {
+    "id": "s02-007",
+    "category": "research",
+    "bad": "Personally, I think we should rerun the experiment.",
+    "good": "I think we should rerun the experiment.",
+    "why": "Often redundant.",
+    "tags": [
+      "research"
+    ],
+    "story": [
+      "At our weekly meeting, the group was reviewing a recent result.",
+      "Everyone had a slightly different interpretation of the numbers.",
+      "I wanted to share my view without making a stronger claim than the evidence supported.",
+      "I said, “I think we should rerun the experiment.”",
+      "A labmate asked which part of the result had led me to that view.",
+      "We checked the relevant comparison together and clarified the open question.",
+      "The discussion helped us agree on a useful next step.",
+      "I left with a clearer way to explain my reasoning."
+    ],
+    "categoryTitle": "Opinions, Framing, Hedging, and Confidence",
+    "frequencyRank": 5
+  },
+  {
+    "id": "s02-008",
+    "category": "research",
+    "bad": "From my side, everything is ready for the meeting.",
+    "good": "On my end, everything is ready for the meeting.",
+    "why": "Less natural in American English.",
+    "tags": [
+      "presentation"
+    ],
+    "story": [
+      "At our weekly meeting, the group was reviewing a recent result.",
+      "Everyone had a slightly different interpretation of the numbers.",
+      "I wanted to share my view without making a stronger claim than the evidence supported.",
+      "I said, “On my end, everything is ready for the meeting.”",
+      "A labmate asked which part of the result had led me to that view.",
+      "We checked the relevant comparison together and clarified the open question.",
+      "The discussion helped us agree on a useful next step.",
+      "I left with a clearer way to explain my reasoning."
+    ],
+    "categoryTitle": "Opinions, Framing, Hedging, and Confidence",
+    "frequencyRank": 5
+  },
+  {
+    "id": "s02-009",
+    "category": "research",
+    "bad": "In my case, I usually work better in the morning.",
+    "good": "I usually work better in the morning.",
+    "why": "Often overused by Korean speakers.",
+    "tags": [
+      "presentation"
+    ],
+    "story": [
+      "At our weekly meeting, the group was reviewing a recent result.",
+      "Everyone had a slightly different interpretation of the numbers.",
+      "I wanted to share my view without making a stronger claim than the evidence supported.",
+      "I said, “I usually work better in the morning.”",
+      "A labmate asked which part of the result had led me to that view.",
+      "We checked the relevant comparison together and clarified the open question.",
+      "The discussion helped us agree on a useful next step.",
+      "I left with a clearer way to explain my reasoning."
+    ],
+    "categoryTitle": "Opinions, Framing, Hedging, and Confidence",
+    "frequencyRank": 5
+  },
+  {
+    "id": "s02-010",
+    "category": "research",
+    "bad": "About this problem, I think we need more data.",
+    "good": "I think the main issue is that we need more data.",
+    "why": "Topic-first Korean word order.",
+    "tags": [
+      "research"
+    ],
+    "story": [
+      "At our weekly meeting, the group was reviewing a recent result.",
+      "Everyone had a slightly different interpretation of the numbers.",
+      "I wanted to share my view without making a stronger claim than the evidence supported.",
+      "I said, “I think the main issue is that we need more data.”",
+      "A labmate asked which part of the result had led me to that view.",
+      "We checked the relevant comparison together and clarified the open question.",
+      "The discussion helped us agree on a useful next step.",
+      "I left with a clearer way to explain my reasoning."
+    ],
+    "categoryTitle": "Opinions, Framing, Hedging, and Confidence",
+    "frequencyRank": 5
+  },
+  {
+    "id": "s02-011",
+    "category": "research",
+    "bad": "For this problem, we increased the regularization strength.",
+    "good": "To address this problem, we increased the regularization strength.",
+    "why": "Often sounds translated.",
+    "tags": [
+      "presentation"
+    ],
+    "story": [
+      "At our weekly meeting, the group was reviewing a recent result.",
+      "Everyone had a slightly different interpretation of the numbers.",
+      "I wanted to share my view without making a stronger claim than the evidence supported.",
+      "I said, “To address this problem, we increased the regularization strength.”",
+      "A labmate asked which part of the result had led me to that view.",
+      "We checked the relevant comparison together and clarified the open question.",
+      "The discussion helped us agree on a useful next step.",
+      "I left with a clearer way to explain my reasoning."
+    ],
+    "categoryTitle": "Opinions, Framing, Hedging, and Confidence",
+    "frequencyRank": 5
+  },
+  {
+    "id": "s02-012",
+    "category": "research",
+    "bad": "Regarding about the evaluation setup, I have one concern.",
+    "good": "Regarding the evaluation setup, I have one concern.",
+    "why": "Double marking.",
+    "tags": [
+      "presentation"
+    ],
+    "story": [
+      "At our weekly meeting, the group was reviewing a recent result.",
+      "Everyone had a slightly different interpretation of the numbers.",
+      "I wanted to share my view without making a stronger claim than the evidence supported.",
+      "I said, “Regarding the evaluation setup, I have one concern.”",
+      "A labmate asked which part of the result had led me to that view.",
+      "We checked the relevant comparison together and clarified the open question.",
+      "The discussion helped us agree on a useful next step.",
+      "I left with a clearer way to explain my reasoning."
+    ],
+    "categoryTitle": "Opinions, Framing, Hedging, and Confidence",
+    "frequencyRank": 5
+  },
+  {
+    "id": "s02-013",
+    "category": "research",
+    "bad": "Especially the validation set is very small.",
+    "good": "The validation set is especially small.",
+    "why": "Korean-style word order.",
+    "tags": [
+      "presentation"
+    ],
+    "story": [
+      "At our weekly meeting, the group was reviewing a recent result.",
+      "Everyone had a slightly different interpretation of the numbers.",
+      "I wanted to share my view without making a stronger claim than the evidence supported.",
+      "I said, “The validation set is especially small.”",
+      "A labmate asked which part of the result had led me to that view.",
+      "We checked the relevant comparison together and clarified the open question.",
+      "The discussion helped us agree on a useful next step.",
+      "I left with a clearer way to explain my reasoning."
+    ],
+    "categoryTitle": "Opinions, Framing, Hedging, and Confidence",
+    "frequencyRank": 5
+  },
+  {
+    "id": "s02-014",
+    "category": "research",
+    "bad": "The reason is because the model overfits the training data.",
+    "good": "The reason is that the model overfits the training data.",
+    "why": "Redundant structure.",
+    "tags": [
+      "research"
+    ],
+    "story": [
+      "At our weekly meeting, the group was reviewing a recent result.",
+      "Everyone had a slightly different interpretation of the numbers.",
+      "I wanted to share my view without making a stronger claim than the evidence supported.",
+      "I said, “The reason is that the model overfits the training data.”",
+      "A labmate asked which part of the result had led me to that view.",
+      "We checked the relevant comparison together and clarified the open question.",
+      "The discussion helped us agree on a useful next step.",
+      "I left with a clearer way to explain my reasoning."
+    ],
+    "categoryTitle": "Opinions, Framing, Hedging, and Confidence",
+    "frequencyRank": 5
+  },
+  {
+    "id": "s02-015",
+    "category": "research",
+    "bad": "That's why because the accuracy dropped.",
+    "good": "That's because the accuracy dropped after we changed the preprocessing pipeline.",
+    "why": "Incorrect combination.",
+    "tags": [
+      "presentation"
+    ],
+    "story": [
+      "At our weekly meeting, the group was reviewing a recent result.",
+      "Everyone had a slightly different interpretation of the numbers.",
+      "I wanted to share my view without making a stronger claim than the evidence supported.",
+      "I said, “That's because the accuracy dropped after we changed the preprocessing pipeline.”",
+      "A labmate asked which part of the result had led me to that view.",
+      "We checked the relevant comparison together and clarified the open question.",
+      "The discussion helped us agree on a useful next step.",
+      "I left with a clearer way to explain my reasoning."
+    ],
+    "categoryTitle": "Opinions, Framing, Hedging, and Confidence",
+    "frequencyRank": 5
+  },
+  {
+    "id": "s02-016",
+    "category": "research",
+    "bad": "There are many reasons.",
+    "good": "There are two main reasons.",
+    "why": "Grammatically fine but vague and textbook-like.",
+    "tags": [
+      "literature"
+    ],
+    "story": [
+      "At our weekly meeting, the group was reviewing a recent result.",
+      "Everyone had a slightly different interpretation of the numbers.",
+      "I wanted to share my view without making a stronger claim than the evidence supported.",
+      "I said, “There are two main reasons.”",
+      "A labmate asked which part of the result had led me to that view.",
+      "We checked the relevant comparison together and clarified the open question.",
+      "The discussion helped us agree on a useful next step.",
+      "I left with a clearer way to explain my reasoning."
+    ],
+    "categoryTitle": "Opinions, Framing, Hedging, and Confidence",
+    "frequencyRank": 5
+  },
+  {
+    "id": "s02-017",
+    "category": "research",
+    "bad": "I have three opinions.",
+    "good": "I have a few thoughts on this. / There are three points I'd make.",
+    "why": "Sounds unnatural for discussion points.",
+    "tags": [
+      "presentation"
+    ],
+    "story": [
+      "At our weekly meeting, the group was reviewing a recent result.",
+      "Everyone had a slightly different interpretation of the numbers.",
+      "I wanted to share my view without making a stronger claim than the evidence supported.",
+      "I said, “I have a few thoughts on this.”",
+      "A labmate asked which part of the result had led me to that view.",
+      "We checked the relevant comparison together and clarified the open question.",
+      "The discussion helped us agree on a useful next step.",
+      "I left with a clearer way to explain my reasoning."
+    ],
+    "categoryTitle": "Opinions, Framing, Hedging, and Confidence",
+    "frequencyRank": 5
+  },
+  {
+    "id": "s02-018",
+    "category": "research",
+    "bad": "I have some thinkings.",
+    "good": "I have a few thoughts.",
+    "why": "Incorrect.",
+    "tags": [
+      "presentation"
+    ],
+    "story": [
+      "At our weekly meeting, the group was reviewing a recent result.",
+      "Everyone had a slightly different interpretation of the numbers.",
+      "I wanted to share my view without making a stronger claim than the evidence supported.",
+      "I said, “I have a few thoughts.”",
+      "A labmate asked which part of the result had led me to that view.",
+      "We checked the relevant comparison together and clarified the open question.",
+      "The discussion helped us agree on a useful next step.",
+      "I left with a clearer way to explain my reasoning."
+    ],
+    "categoryTitle": "Opinions, Framing, Hedging, and Confidence",
+    "frequencyRank": 5
+  },
+  {
+    "id": "s02-019",
+    "category": "research",
+    "bad": "My thought is that the model needs more training data.",
+    "good": "My view is that the model needs more training data.",
+    "why": "Often unnatural in discussion.",
+    "tags": [
+      "research",
+      "presentation"
+    ],
+    "story": [
+      "At our weekly meeting, the group was reviewing a recent result.",
+      "Everyone had a slightly different interpretation of the numbers.",
+      "I wanted to share my view without making a stronger claim than the evidence supported.",
+      "I said, “My view is that the model needs more training data.”",
+      "A labmate asked which part of the result had led me to that view.",
+      "We checked the relevant comparison together and clarified the open question.",
+      "The discussion helped us agree on a useful next step.",
+      "I left with a clearer way to explain my reasoning."
+    ],
+    "categoryTitle": "Opinions, Framing, Hedging, and Confidence",
+    "frequencyRank": 5
+  },
+  {
+    "id": "s02-020",
+    "category": "research",
+    "bad": "My opinion is that we should submit to the next deadline.",
+    "good": "I think we should submit to the next deadline.",
+    "why": "Correct but can sound formal or repetitive.",
+    "tags": [
+      "formal"
+    ],
+    "story": [
+      "At our weekly meeting, the group was reviewing a recent result.",
+      "Everyone had a slightly different interpretation of the numbers.",
+      "I wanted to share my view without making a stronger claim than the evidence supported.",
+      "I said, “I think we should submit to the next deadline.”",
+      "A labmate asked which part of the result had led me to that view.",
+      "We checked the relevant comparison together and clarified the open question.",
+      "The discussion helped us agree on a useful next step.",
+      "I left with a clearer way to explain my reasoning."
+    ],
+    "categoryTitle": "Opinions, Framing, Hedging, and Confidence",
+    "frequencyRank": 5
+  },
+  {
+    "id": "s02-021",
+    "category": "research",
+    "bad": "I feel that the evaluation is not strong enough.",
+    "good": "I think the evaluation is not strong enough.",
+    "why": "Can make an analytical claim sound emotional.",
+    "tags": [
+      "presentation"
+    ],
+    "story": [
+      "At our weekly meeting, the group was reviewing a recent result.",
+      "Everyone had a slightly different interpretation of the numbers.",
+      "I wanted to share my view without making a stronger claim than the evidence supported.",
+      "I said, “I think the evaluation is not strong enough.”",
+      "A labmate asked which part of the result had led me to that view.",
+      "We checked the relevant comparison together and clarified the open question.",
+      "The discussion helped us agree on a useful next step.",
+      "I left with a clearer way to explain my reasoning."
+    ],
+    "categoryTitle": "Opinions, Framing, Hedging, and Confidence",
+    "frequencyRank": 5
+  },
+  {
+    "id": "s02-022",
+    "category": "research",
+    "bad": "I think maybe the model is overfitting.",
+    "good": "I suspect the model is overfitting.",
+    "why": "Too much hedging.",
+    "tags": [
+      "research"
+    ],
+    "story": [
+      "At our weekly meeting, the group was reviewing a recent result.",
+      "Everyone had a slightly different interpretation of the numbers.",
+      "I wanted to share my view without making a stronger claim than the evidence supported.",
+      "I said, “I suspect the model is overfitting.”",
+      "A labmate asked which part of the result had led me to that view.",
+      "We checked the relevant comparison together and clarified the open question.",
+      "The discussion helped us agree on a useful next step.",
+      "I left with a clearer way to explain my reasoning."
+    ],
+    "categoryTitle": "Opinions, Framing, Hedging, and Confidence",
+    "frequencyRank": 5
+  },
+  {
+    "id": "s02-023",
+    "category": "research",
+    "bad": "Maybe I think we should rerun the experiment.",
+    "good": "I think we should rerun the experiment.",
+    "why": "Non-native word order.",
+    "tags": [
+      "research"
+    ],
+    "story": [
+      "At our weekly meeting, the group was reviewing a recent result.",
+      "Everyone had a slightly different interpretation of the numbers.",
+      "I wanted to share my view without making a stronger claim than the evidence supported.",
+      "I said, “I think we should rerun the experiment.”",
+      "A labmate asked which part of the result had led me to that view.",
+      "We checked the relevant comparison together and clarified the open question.",
+      "The discussion helped us agree on a useful next step.",
+      "I left with a clearer way to explain my reasoning."
+    ],
+    "categoryTitle": "Opinions, Framing, Hedging, and Confidence",
+    "frequencyRank": 5
+  },
+  {
+    "id": "s02-024",
+    "category": "research",
+    "bad": "Probably maybe the data loader is causing the slowdown.",
+    "good": "The data loader is probably causing the slowdown.",
+    "why": "Redundant.",
+    "tags": [
+      "research"
+    ],
+    "story": [
+      "At our weekly meeting, the group was reviewing a recent result.",
+      "Everyone had a slightly different interpretation of the numbers.",
+      "I wanted to share my view without making a stronger claim than the evidence supported.",
+      "I said, “The data loader is probably causing the slowdown.”",
+      "A labmate asked which part of the result had led me to that view.",
+      "We checked the relevant comparison together and clarified the open question.",
+      "The discussion helped us agree on a useful next step.",
+      "I left with a clearer way to explain my reasoning."
+    ],
+    "categoryTitle": "Opinions, Framing, Hedging, and Confidence",
+    "frequencyRank": 5
+  },
+  {
+    "id": "s02-025",
+    "category": "research",
+    "bad": "I'm not sure, but I think maybe the issue is the learning rate.",
+    "good": "I suspect the issue is the learning rate.",
+    "why": "Excessive hedging weakens the point.",
+    "tags": [
+      "presentation"
+    ],
+    "story": [
+      "At our weekly meeting, the group was reviewing a recent result.",
+      "Everyone had a slightly different interpretation of the numbers.",
+      "I wanted to share my view without making a stronger claim than the evidence supported.",
+      "I said, “I suspect the issue is the learning rate.”",
+      "A labmate asked which part of the result had led me to that view.",
+      "We checked the relevant comparison together and clarified the open question.",
+      "The discussion helped us agree on a useful next step.",
+      "I left with a clearer way to explain my reasoning."
+    ],
+    "categoryTitle": "Opinions, Framing, Hedging, and Confidence",
+    "frequencyRank": 5
+  },
+  {
+    "id": "s02-026",
+    "category": "research",
+    "bad": "Maybe I'm wrong, but the retriever could be the bottleneck.",
+    "good": "One possibility is that the retriever is the bottleneck.",
+    "why": "Unnecessarily weakens your contribution.",
+    "tags": [
+      "presentation"
+    ],
+    "story": [
+      "At our weekly meeting, the group was reviewing a recent result.",
+      "Everyone had a slightly different interpretation of the numbers.",
+      "I wanted to share my view without making a stronger claim than the evidence supported.",
+      "I said, “One possibility is that the retriever is the bottleneck.”",
+      "A labmate asked which part of the result had led me to that view.",
+      "We checked the relevant comparison together and clarified the open question.",
+      "The discussion helped us agree on a useful next step.",
+      "I left with a clearer way to explain my reasoning."
+    ],
+    "categoryTitle": "Opinions, Framing, Hedging, and Confidence",
+    "frequencyRank": 5
+  },
+  {
+    "id": "s02-027",
+    "category": "research",
+    "bad": "I guess the model memorized the training examples.",
+    "good": "My hypothesis is that the model memorized the training examples.",
+    "why": "Can sound like unsupported speculation in research talk.",
+    "tags": [
+      "research",
+      "presentation"
+    ],
+    "story": [
+      "At our weekly meeting, the group was reviewing a recent result.",
+      "Everyone had a slightly different interpretation of the numbers.",
+      "I wanted to share my view without making a stronger claim than the evidence supported.",
+      "I said, “My hypothesis is that the model memorized the training examples.”",
+      "A labmate asked which part of the result had led me to that view.",
+      "We checked the relevant comparison together and clarified the open question.",
+      "The discussion helped us agree on a useful next step.",
+      "I left with a clearer way to explain my reasoning."
+    ],
+    "categoryTitle": "Opinions, Framing, Hedging, and Confidence",
+    "frequencyRank": 5
+  },
+  {
+    "id": "s02-028",
+    "category": "research",
+    "bad": "I strongly believe our method is more robust.",
+    "good": "The evidence suggests that our method is more robust in this setting.",
+    "why": "Sounds like personal conviction rather than evidence.",
+    "tags": [
+      "presentation"
+    ],
+    "story": [
+      "At our weekly meeting, the group was reviewing a recent result.",
+      "Everyone had a slightly different interpretation of the numbers.",
+      "I wanted to share my view without making a stronger claim than the evidence supported.",
+      "I said, “The evidence suggests that our method is more robust in this setting.”",
+      "A labmate asked which part of the result had led me to that view.",
+      "We checked the relevant comparison together and clarified the open question.",
+      "The discussion helped us agree on a useful next step.",
+      "I left with a clearer way to explain my reasoning."
+    ],
+    "categoryTitle": "Opinions, Framing, Hedging, and Confidence",
+    "frequencyRank": 5
+  },
+  {
+    "id": "s02-029",
+    "category": "research",
+    "bad": "For sure, the larger model will perform better.",
+    "good": "I'm fairly confident that the larger model will perform better.",
+    "why": "Can sound overconfident.",
+    "tags": [
+      "research"
+    ],
+    "story": [
+      "At our weekly meeting, the group was reviewing a recent result.",
+      "Everyone had a slightly different interpretation of the numbers.",
+      "I wanted to share my view without making a stronger claim than the evidence supported.",
+      "I said, “I'm fairly confident that the larger model will perform better.”",
+      "A labmate asked which part of the result had led me to that view.",
+      "We checked the relevant comparison together and clarified the open question.",
+      "The discussion helped us agree on a useful next step.",
+      "I left with a clearer way to explain my reasoning."
+    ],
+    "categoryTitle": "Opinions, Framing, Hedging, and Confidence",
+    "frequencyRank": 5
+  },
+  {
+    "id": "s02-030",
+    "category": "research",
+    "bad": "The new method will work 100 percent.",
+    "good": "I'm very confident that the new method will work in this setting.",
+    "why": "Too absolute in research discussion.",
+    "tags": [
+      "research",
+      "presentation"
+    ],
+    "story": [
+      "At our weekly meeting, the group was reviewing a recent result.",
+      "Everyone had a slightly different interpretation of the numbers.",
+      "I wanted to share my view without making a stronger claim than the evidence supported.",
+      "I said, “I'm very confident that the new method will work in this setting.”",
+      "A labmate asked which part of the result had led me to that view.",
+      "We checked the relevant comparison together and clarified the open question.",
+      "The discussion helped us agree on a useful next step.",
+      "I left with a clearer way to explain my reasoning."
+    ],
+    "categoryTitle": "Opinions, Framing, Hedging, and Confidence",
+    "frequencyRank": 5
+  },
+  {
+    "id": "s09-001",
+    "category": "research",
+    "bad": "I am behind everyone in my cohort.",
+    "good": "My research presentation skills aren't where I want them to be yet.",
+    "why": "Comparing yourself with everyone else makes the claim too broad. Name the skill you want to improve.",
+    "tags": [
+      "research",
+      "presentation"
+    ],
+    "story": [
+      "During our weekly check-in, my advisor asked how the project was going.",
+      "I thought about what I had finished and what still needed attention.",
+      "I gave a specific update and mentioned the part I was still working through.",
+      "I said, “My research presentation skills aren't where I want them to be yet.”",
+      "My advisor asked one practical question about the next milestone.",
+      "Together, we chose a manageable step for the coming week.",
+      "The plan made the remaining work feel easier to organize.",
+      "I added the milestone to my notes before returning to the project."
+    ],
+    "categoryTitle": "Self-Assessment, Progress Reports, and Technical Problems",
+    "frequencyRank": 5
+  },
+  {
+    "id": "s09-002",
+    "category": "research",
+    "bad": "Everyone is better than me.",
+    "good": "Public speaking is the area I need to work on most.",
+    "why": "“Everyone” is an overgeneralization. Describe the specific skill you want to improve.",
+    "tags": [
+      "casual"
+    ],
+    "story": [
+      "During our weekly check-in, my advisor asked how the project was going.",
+      "I thought about what I had finished and what still needed attention.",
+      "I gave a specific update and mentioned the part I was still working through.",
+      "I said, “Public speaking is the area I need to work on most.”",
+      "My advisor asked one practical question about the next milestone.",
+      "Together, we chose a manageable step for the coming week.",
+      "The plan made the remaining work feel easier to organize.",
+      "I added the milestone to my notes before returning to the project."
+    ],
+    "categoryTitle": "Self-Assessment, Progress Reports, and Technical Problems",
+    "frequencyRank": 5
+  },
+  {
+    "id": "s09-003",
+    "category": "research",
+    "bad": "I'm the worst at English.",
+    "good": "Spoken English is something I'm actively improving.",
+    "why": "Extreme self-judgment.",
+    "tags": [
+      "presentation"
+    ],
+    "story": [
+      "During our weekly check-in, my advisor asked how the project was going.",
+      "I thought about what I had finished and what still needed attention.",
+      "I gave a specific update and mentioned the part I was still working through.",
+      "I said, “Spoken English is something I'm actively improving.”",
+      "My advisor asked one practical question about the next milestone.",
+      "Together, we chose a manageable step for the coming week.",
+      "The plan made the remaining work feel easier to organize.",
+      "I added the milestone to my notes before returning to the project."
+    ],
+    "categoryTitle": "Self-Assessment, Progress Reports, and Technical Problems",
+    "frequencyRank": 5
+  },
+  {
+    "id": "s09-004",
+    "category": "research",
+    "bad": "I did nothing this week.",
+    "good": "I made less progress than I'd hoped this week.",
+    "why": "Sounds much worse than it probably is.",
+    "tags": [
+      "presentation"
+    ],
+    "story": [
+      "During our weekly check-in, my advisor asked how the project was going.",
+      "I thought about what I had finished and what still needed attention.",
+      "I gave a specific update and mentioned the part I was still working through.",
+      "I said, “I made less progress than I'd hoped this week.”",
+      "My advisor asked one practical question about the next milestone.",
+      "Together, we chose a manageable step for the coming week.",
+      "The plan made the remaining work feel easier to organize.",
+      "I added the milestone to my notes before returning to the project."
+    ],
+    "categoryTitle": "Self-Assessment, Progress Reports, and Technical Problems",
+    "frequencyRank": 5
+  },
+  {
+    "id": "s09-005",
+    "category": "research",
+    "bad": "I wasted a week trying this method.",
+    "good": "That approach didn't pan out, but I learned that the bottleneck isn't the optimizer.",
+    "why": "Overly self-critical.",
+    "tags": [
+      "presentation"
+    ],
+    "story": [
+      "During our weekly check-in, my advisor asked how the project was going.",
+      "I thought about what I had finished and what still needed attention.",
+      "I gave a specific update and mentioned the part I was still working through.",
+      "I said, “That approach didn't pan out, but I learned that the bottleneck isn't the optimizer.”",
+      "My advisor asked one practical question about the next milestone.",
+      "Together, we chose a manageable step for the coming week.",
+      "The plan made the remaining work feel easier to organize.",
+      "I added the milestone to my notes before returning to the project."
+    ],
+    "categoryTitle": "Self-Assessment, Progress Reports, and Technical Problems",
+    "frequencyRank": 5
+  },
+  {
+    "id": "s09-006",
+    "category": "research",
+    "bad": "The experiment failed.",
+    "good": "The experiment didn't work as expected.",
+    "why": "Too vague.",
+    "tags": [
+      "research"
+    ],
+    "story": [
+      "During our weekly check-in, my advisor asked how the project was going.",
+      "I thought about what I had finished and what still needed attention.",
+      "I gave a specific update and mentioned the part I was still working through.",
+      "I said, “The experiment didn't work as expected.”",
+      "My advisor asked one practical question about the next milestone.",
+      "Together, we chose a manageable step for the coming week.",
+      "The plan made the remaining work feel easier to organize.",
+      "I added the milestone to my notes before returning to the project."
+    ],
+    "categoryTitle": "Self-Assessment, Progress Reports, and Technical Problems",
+    "frequencyRank": 5
+  },
+  {
+    "id": "s09-007",
+    "category": "research",
+    "bad": "I failed the experiment.",
+    "good": "The experiment didn't produce the expected result.",
+    "why": "Personalizes the result.",
+    "tags": [
+      "research"
+    ],
+    "story": [
+      "During our weekly check-in, my advisor asked how the project was going.",
+      "I thought about what I had finished and what still needed attention.",
+      "I gave a specific update and mentioned the part I was still working through.",
+      "I said, “The experiment didn't produce the expected result.”",
+      "My advisor asked one practical question about the next milestone.",
+      "Together, we chose a manageable step for the coming week.",
+      "The plan made the remaining work feel easier to organize.",
+      "I added the milestone to my notes before returning to the project."
+    ],
+    "categoryTitle": "Self-Assessment, Progress Reports, and Technical Problems",
+    "frequencyRank": 5
+  },
+  {
+    "id": "s09-008",
+    "category": "research",
+    "bad": "The code doesn't work.",
+    "good": "The code fails during evaluation.",
+    "why": "Too vague for technical discussion.",
+    "tags": [
+      "presentation"
+    ],
+    "story": [
+      "During our weekly check-in, my advisor asked how the project was going.",
+      "I thought about what I had finished and what still needed attention.",
+      "I gave a specific update and mentioned the part I was still working through.",
+      "I said, “The code fails during evaluation.”",
+      "My advisor asked one practical question about the next milestone.",
+      "Together, we chose a manageable step for the coming week.",
+      "The plan made the remaining work feel easier to organize.",
+      "I added the milestone to my notes before returning to the project."
+    ],
+    "categoryTitle": "Self-Assessment, Progress Reports, and Technical Problems",
+    "frequencyRank": 5
+  },
+  {
+    "id": "s09-009",
+    "category": "research",
+    "bad": "Something is wrong.",
+    "good": "The training loss diverges after epoch 20.",
+    "why": "Provides no useful information.",
+    "tags": [
+      "presentation"
+    ],
+    "story": [
+      "During our weekly check-in, my advisor asked how the project was going.",
+      "I thought about what I had finished and what still needed attention.",
+      "I gave a specific update and mentioned the part I was still working through.",
+      "I said, “The training loss diverges after epoch 20.”",
+      "My advisor asked one practical question about the next milestone.",
+      "Together, we chose a manageable step for the coming week.",
+      "The plan made the remaining work feel easier to organize.",
+      "I added the milestone to my notes before returning to the project."
+    ],
+    "categoryTitle": "Self-Assessment, Progress Reports, and Technical Problems",
+    "frequencyRank": 5
+  },
+  {
+    "id": "s09-010",
+    "category": "research",
+    "bad": "There is a problem with the experiment.",
+    "good": "The main issue is that the validation loss starts increasing after epoch 20.",
+    "why": "Too vague.",
+    "tags": [
+      "research"
+    ],
+    "story": [
+      "During our weekly check-in, my advisor asked how the project was going.",
+      "I thought about what I had finished and what still needed attention.",
+      "I gave a specific update and mentioned the part I was still working through.",
+      "I said, “The main issue is that the validation loss starts increasing after epoch 20.”",
+      "My advisor asked one practical question about the next milestone.",
+      "Together, we chose a manageable step for the coming week.",
+      "The plan made the remaining work feel easier to organize.",
+      "I added the milestone to my notes before returning to the project."
+    ],
+    "categoryTitle": "Self-Assessment, Progress Reports, and Technical Problems",
+    "frequencyRank": 5
+  },
+  {
+    "id": "s09-011",
+    "category": "research",
+    "bad": "I have some issue with the training code.",
+    "good": "I'm running into an issue with the training code during distributed evaluation.",
+    "why": "Vague and slightly non-native.",
+    "tags": [
+      "presentation"
+    ],
+    "story": [
+      "During our weekly check-in, my advisor asked how the project was going.",
+      "I thought about what I had finished and what still needed attention.",
+      "I gave a specific update and mentioned the part I was still working through.",
+      "I said, “I'm running into an issue with the training code during distributed evaluation.”",
+      "My advisor asked one practical question about the next milestone.",
+      "Together, we chose a manageable step for the coming week.",
+      "The plan made the remaining work feel easier to organize.",
+      "I added the milestone to my notes before returning to the project."
+    ],
+    "categoryTitle": "Self-Assessment, Progress Reports, and Technical Problems",
+    "frequencyRank": 5
+  },
+  {
+    "id": "s09-012",
+    "category": "research",
+    "bad": "The result is good.",
+    "good": "Accuracy improved by 4.2 points.",
+    "why": "Too vague.",
+    "tags": [
+      "presentation"
+    ],
+    "story": [
+      "During our weekly check-in, my advisor asked how the project was going.",
+      "I thought about what I had finished and what still needed attention.",
+      "I gave a specific update and mentioned the part I was still working through.",
+      "I said, “Accuracy improved by 4.2 points.”",
+      "My advisor asked one practical question about the next milestone.",
+      "Together, we chose a manageable step for the coming week.",
+      "The plan made the remaining work feel easier to organize.",
+      "I added the milestone to my notes before returning to the project."
+    ],
+    "categoryTitle": "Self-Assessment, Progress Reports, and Technical Problems",
+    "frequencyRank": 5
+  },
+  {
+    "id": "s09-013",
+    "category": "research",
+    "bad": "The result is bad.",
+    "good": "Performance dropped substantially.",
+    "why": "Too vague.",
+    "tags": [
+      "presentation"
+    ],
+    "story": [
+      "During our weekly check-in, my advisor asked how the project was going.",
+      "I thought about what I had finished and what still needed attention.",
+      "I gave a specific update and mentioned the part I was still working through.",
+      "I said, “Performance dropped substantially.”",
+      "My advisor asked one practical question about the next milestone.",
+      "Together, we chose a manageable step for the coming week.",
+      "The plan made the remaining work feel easier to organize.",
+      "I added the milestone to my notes before returning to the project."
+    ],
+    "categoryTitle": "Self-Assessment, Progress Reports, and Technical Problems",
+    "frequencyRank": 5
+  },
+  {
+    "id": "s09-014",
+    "category": "research",
+    "bad": "It works well.",
+    "good": "It performs consistently across all three datasets.",
+    "why": "Too vague.",
+    "tags": [
+      "research"
+    ],
+    "story": [
+      "During our weekly check-in, my advisor asked how the project was going.",
+      "I thought about what I had finished and what still needed attention.",
+      "I gave a specific update and mentioned the part I was still working through.",
+      "I said, “It performs consistently across all three datasets.”",
+      "My advisor asked one practical question about the next milestone.",
+      "Together, we chose a manageable step for the coming week.",
+      "The plan made the remaining work feel easier to organize.",
+      "I added the milestone to my notes before returning to the project."
+    ],
+    "categoryTitle": "Self-Assessment, Progress Reports, and Technical Problems",
+    "frequencyRank": 5
+  },
+  {
+    "id": "s09-015",
+    "category": "research",
+    "bad": "It doesn't work.",
+    "good": "It performs poorly in this setting.",
+    "why": "Too absolute.",
+    "tags": [
+      "presentation"
+    ],
+    "story": [
+      "During our weekly check-in, my advisor asked how the project was going.",
+      "I thought about what I had finished and what still needed attention.",
+      "I gave a specific update and mentioned the part I was still working through.",
+      "I said, “It performs poorly in this setting.”",
+      "My advisor asked one practical question about the next milestone.",
+      "Together, we chose a manageable step for the coming week.",
+      "The plan made the remaining work feel easier to organize.",
+      "I added the milestone to my notes before returning to the project."
+    ],
+    "categoryTitle": "Self-Assessment, Progress Reports, and Technical Problems",
+    "frequencyRank": 5
+  },
+  {
+    "id": "s09-016",
+    "category": "research",
+    "bad": "There is no problem.",
+    "good": "We haven't observed any major issues so far.",
+    "why": "Too absolute.",
+    "tags": [
+      "presentation"
+    ],
+    "story": [
+      "During our weekly check-in, my advisor asked how the project was going.",
+      "I thought about what I had finished and what still needed attention.",
+      "I gave a specific update and mentioned the part I was still working through.",
+      "I said, “We haven't observed any major issues so far.”",
+      "My advisor asked one practical question about the next milestone.",
+      "Together, we chose a manageable step for the coming week.",
+      "The plan made the remaining work feel easier to organize.",
+      "I added the milestone to my notes before returning to the project."
+    ],
+    "categoryTitle": "Self-Assessment, Progress Reports, and Technical Problems",
+    "frequencyRank": 5
+  },
+  {
+    "id": "s09-017",
+    "category": "research",
+    "bad": "There is no difference.",
+    "good": "We don't observe a meaningful difference.",
+    "why": "Can overstate statistical certainty.",
+    "tags": [
+      "presentation"
+    ],
+    "story": [
+      "During our weekly check-in, my advisor asked how the project was going.",
+      "I thought about what I had finished and what still needed attention.",
+      "I gave a specific update and mentioned the part I was still working through.",
+      "I said, “We don't observe a meaningful difference.”",
+      "My advisor asked one practical question about the next milestone.",
+      "Together, we chose a manageable step for the coming week.",
+      "The plan made the remaining work feel easier to organize.",
+      "I added the milestone to my notes before returning to the project."
+    ],
+    "categoryTitle": "Self-Assessment, Progress Reports, and Technical Problems",
+    "frequencyRank": 5
+  },
+  {
+    "id": "s09-018",
+    "category": "research",
+    "bad": "Almost same.",
+    "good": "They're almost the same.",
+    "why": "Incomplete.",
+    "tags": [
+      "presentation"
+    ],
+    "story": [
+      "During our weekly check-in, my advisor asked how the project was going.",
+      "I thought about what I had finished and what still needed attention.",
+      "I gave a specific update and mentioned the part I was still working through.",
+      "I said, “They're almost the same.”",
+      "My advisor asked one practical question about the next milestone.",
+      "Together, we chose a manageable step for the coming week.",
+      "The plan made the remaining work feel easier to organize.",
+      "I added the milestone to my notes before returning to the project."
+    ],
+    "categoryTitle": "Self-Assessment, Progress Reports, and Technical Problems",
+    "frequencyRank": 5
+  },
+  {
+    "id": "s10-001",
+    "category": "research",
+    "bad": "We can know that the larger model performs better.",
+    "good": "The larger model performs better on all three datasets.",
+    "why": "Non-native academic phrasing.",
+    "tags": [
+      "research"
+    ],
+    "story": [
+      "I was preparing a paragraph for a research paper.",
+      "A labmate and I checked whether the claim matched the evidence we had collected.",
+      "I revised the sentence to make its scope and limitation clear.",
+      "I wrote, “The larger model performs better on all three datasets.”",
+      "We read the paragraph aloud and noticed one place that needed more context.",
+      "I added the relevant detail and checked that the comparison was fair.",
+      "The paragraph became easier to follow without overstating the result.",
+      "I saved the revision and moved on to the next section."
+    ],
+    "categoryTitle": "Academic Writing, Evidence, and Technical Claims",
+    "frequencyRank": 5
+  },
+  {
+    "id": "s10-002",
+    "category": "research",
+    "bad": "We can find that accuracy improves as the dataset grows.",
+    "good": "Accuracy improves as the dataset grows.",
+    "why": "Often overused.",
+    "tags": [
+      "research"
+    ],
+    "story": [
+      "I was preparing a paragraph for a research paper.",
+      "A labmate and I checked whether the claim matched the evidence we had collected.",
+      "I revised the sentence to make its scope and limitation clear.",
+      "I wrote, “Accuracy improves as the dataset grows.”",
+      "We read the paragraph aloud and noticed one place that needed more context.",
+      "I added the relevant detail and checked that the comparison was fair.",
+      "The paragraph became easier to follow without overstating the result.",
+      "I saved the revision and moved on to the next section."
+    ],
+    "categoryTitle": "Academic Writing, Evidence, and Technical Claims",
+    "frequencyRank": 5
+  },
+  {
+    "id": "s10-003",
+    "category": "research",
+    "bad": "Through this experiment, we can see the benefit of regularization.",
+    "good": "The experiment shows that regularization improves generalization.",
+    "why": "Literal translation.",
+    "tags": [
+      "research"
+    ],
+    "story": [
+      "I was preparing a paragraph for a research paper.",
+      "A labmate and I checked whether the claim matched the evidence we had collected.",
+      "I revised the sentence to make its scope and limitation clear.",
+      "I wrote, “The experiment shows that regularization improves generalization.”",
+      "We read the paragraph aloud and noticed one place that needed more context.",
+      "I added the relevant detail and checked that the comparison was fair.",
+      "The paragraph became easier to follow without overstating the result.",
+      "I saved the revision and moved on to the next section."
+    ],
+    "categoryTitle": "Academic Writing, Evidence, and Technical Claims",
+    "frequencyRank": 5
+  },
+  {
+    "id": "s10-004",
+    "category": "research",
+    "bad": "Through the result, we can see that the model is more robust.",
+    "good": "The results suggest that the model is more robust to distribution shift.",
+    "why": "Non-native.",
+    "tags": [
+      "research"
+    ],
+    "story": [
+      "I was preparing a paragraph for a research paper.",
+      "A labmate and I checked whether the claim matched the evidence we had collected.",
+      "I revised the sentence to make its scope and limitation clear.",
+      "I wrote, “The results suggest that the model is more robust to distribution shift.”",
+      "We read the paragraph aloud and noticed one place that needed more context.",
+      "I added the relevant detail and checked that the comparison was fair.",
+      "The paragraph became easier to follow without overstating the result.",
+      "I saved the revision and moved on to the next section."
+    ],
+    "categoryTitle": "Academic Writing, Evidence, and Technical Claims",
+    "frequencyRank": 5
+  },
+  {
+    "id": "s10-005",
+    "category": "research",
+    "bad": "According to the experiment, our method is faster.",
+    "good": "Based on the results, our method is faster than the baseline.",
+    "why": "Awkward agency.",
+    "tags": [
+      "research"
+    ],
+    "story": [
+      "I was preparing a paragraph for a research paper.",
+      "A labmate and I checked whether the claim matched the evidence we had collected.",
+      "I revised the sentence to make its scope and limitation clear.",
+      "I wrote, “Based on the results, our method is faster than the baseline.”",
+      "We read the paragraph aloud and noticed one place that needed more context.",
+      "I added the relevant detail and checked that the comparison was fair.",
+      "The paragraph became easier to follow without overstating the result.",
+      "I saved the revision and moved on to the next section."
+    ],
+    "categoryTitle": "Academic Writing, Evidence, and Technical Claims",
+    "frequencyRank": 5
+  },
+  {
+    "id": "s10-006",
+    "category": "research",
+    "bad": "By this result, we can conclude that the method is effective.",
+    "good": "Given these results, the method appears effective in this setting.",
+    "why": "Non-native.",
+    "tags": [
+      "presentation"
+    ],
+    "story": [
+      "I was preparing a paragraph for a research paper.",
+      "A labmate and I checked whether the claim matched the evidence we had collected.",
+      "I revised the sentence to make its scope and limitation clear.",
+      "I wrote, “Given these results, the method appears effective in this setting.”",
+      "We read the paragraph aloud and noticed one place that needed more context.",
+      "I added the relevant detail and checked that the comparison was fair.",
+      "The paragraph became easier to follow without overstating the result.",
+      "I saved the revision and moved on to the next section."
+    ],
+    "categoryTitle": "Academic Writing, Evidence, and Technical Claims",
+    "frequencyRank": 5
+  },
+  {
+    "id": "s10-007",
+    "category": "research",
+    "bad": "This result means our method always works better.",
+    "good": "This result suggests that our method works better under the evaluated conditions.",
+    "why": "Sometimes too strong.",
+    "tags": [
+      "presentation"
+    ],
+    "story": [
+      "I was preparing a paragraph for a research paper.",
+      "A labmate and I checked whether the claim matched the evidence we had collected.",
+      "I revised the sentence to make its scope and limitation clear.",
+      "I wrote, “This result suggests that our method works better under the evaluated conditions.”",
+      "We read the paragraph aloud and noticed one place that needed more context.",
+      "I added the relevant detail and checked that the comparison was fair.",
+      "The paragraph became easier to follow without overstating the result.",
+      "I saved the revision and moved on to the next section."
+    ],
+    "categoryTitle": "Academic Writing, Evidence, and Technical Claims",
+    "frequencyRank": 5
+  },
+  {
+    "id": "s10-008",
+    "category": "research",
+    "bad": "We proved that our method is more robust.",
+    "good": "Our results indicate that our method is more robust in the evaluated settings.",
+    "why": "Often too strong for empirical work.",
+    "tags": [
+      "presentation"
+    ],
+    "story": [
+      "I was preparing a paragraph for a research paper.",
+      "A labmate and I checked whether the claim matched the evidence we had collected.",
+      "I revised the sentence to make its scope and limitation clear.",
+      "I wrote, “Our results indicate that our method is more robust in the evaluated settings.”",
+      "We read the paragraph aloud and noticed one place that needed more context.",
+      "I added the relevant detail and checked that the comparison was fair.",
+      "The paragraph became easier to follow without overstating the result.",
+      "I saved the revision and moved on to the next section."
+    ],
+    "categoryTitle": "Academic Writing, Evidence, and Technical Claims",
+    "frequencyRank": 5
+  },
+  {
+    "id": "s10-009",
+    "category": "research",
+    "bad": "This proves our method is better.",
+    "good": "These results suggest that our method performs better in this setting.",
+    "why": "Overgeneralized.",
+    "tags": [
+      "presentation"
+    ],
+    "story": [
+      "I was preparing a paragraph for a research paper.",
+      "A labmate and I checked whether the claim matched the evidence we had collected.",
+      "I revised the sentence to make its scope and limitation clear.",
+      "I wrote, “These results suggest that our method performs better in this setting.”",
+      "We read the paragraph aloud and noticed one place that needed more context.",
+      "I added the relevant detail and checked that the comparison was fair.",
+      "The paragraph became easier to follow without overstating the result.",
+      "I saved the revision and moved on to the next section."
+    ],
+    "categoryTitle": "Academic Writing, Evidence, and Technical Claims",
+    "frequencyRank": 5
+  },
+  {
+    "id": "s10-010",
+    "category": "research",
+    "bad": "Our method is the best.",
+    "good": "Our method achieves the best performance among the evaluated baselines.",
+    "why": "Too broad.",
+    "tags": [
+      "research"
+    ],
+    "story": [
+      "I was preparing a paragraph for a research paper.",
+      "A labmate and I checked whether the claim matched the evidence we had collected.",
+      "I revised the sentence to make its scope and limitation clear.",
+      "I wrote, “Our method achieves the best performance among the evaluated baselines.”",
+      "We read the paragraph aloud and noticed one place that needed more context.",
+      "I added the relevant detail and checked that the comparison was fair.",
+      "The paragraph became easier to follow without overstating the result.",
+      "I saved the revision and moved on to the next section."
+    ],
+    "categoryTitle": "Academic Writing, Evidence, and Technical Claims",
+    "frequencyRank": 5
+  },
+  {
+    "id": "s10-011",
+    "category": "research",
+    "bad": "We beat all baselines.",
+    "good": "We outperform all evaluated baselines.",
+    "why": "Informal and competitive.",
+    "tags": [
+      "research",
+      "casual"
+    ],
+    "story": [
+      "I was preparing a paragraph for a research paper.",
+      "A labmate and I checked whether the claim matched the evidence we had collected.",
+      "I revised the sentence to make its scope and limitation clear.",
+      "I wrote, “We outperform all evaluated baselines.”",
+      "We read the paragraph aloud and noticed one place that needed more context.",
+      "I added the relevant detail and checked that the comparison was fair.",
+      "The paragraph became easier to follow without overstating the result.",
+      "I saved the revision and moved on to the next section."
+    ],
+    "categoryTitle": "Academic Writing, Evidence, and Technical Claims",
+    "frequencyRank": 5
+  },
+  {
+    "id": "s10-012",
+    "category": "research",
+    "bad": "This paper is bad.",
+    "good": "I think the evaluation is the weakest part of the paper.",
+    "why": "Too broad and dismissive.",
+    "tags": [
+      "research"
+    ],
+    "story": [
+      "At our research meeting, the group was discussing a paper and its results.",
+      "We compared the claim with the evidence in front of us.",
+      "I wanted to make my point clearly and leave room for discussion.",
+      "I said, “I think the evaluation is the weakest part of the paper.”",
+      "A teammate explained how they understood that part.",
+      "We checked the relevant detail and considered both views.",
+      "The conversation helped us describe the issue more precisely.",
+      "We noted a useful next step before moving on."
+    ],
+    "categoryTitle": "Academic Writing, Evidence, and Technical Claims",
+    "frequencyRank": 5
+  },
+  {
+    "id": "s10-013",
+    "category": "research",
+    "bad": "This paper is useless.",
+    "good": "I'm not sure this paper addresses our setting.",
+    "why": "Extreme.",
+    "tags": [
+      "research"
+    ],
+    "story": [
+      "At our research meeting, the group was discussing a paper and its results.",
+      "We compared the claim with the evidence in front of us.",
+      "I wanted to make my point clearly and leave room for discussion.",
+      "I said, “I'm not sure this paper addresses our setting.”",
+      "A teammate explained how they understood that part.",
+      "We checked the relevant detail and considered both views.",
+      "The conversation helped us describe the issue more precisely.",
+      "We noted a useful next step before moving on."
+    ],
+    "categoryTitle": "Academic Writing, Evidence, and Technical Claims",
+    "frequencyRank": 5
+  },
+  {
+    "id": "s10-014",
+    "category": "research",
+    "bad": "This paper is easy.",
+    "good": "The core idea is relatively straightforward.",
+    "why": "Can trivialize the contribution.",
+    "tags": [
+      "research"
+    ],
+    "story": [
+      "At our research meeting, the group was discussing a paper and its results.",
+      "We compared the claim with the evidence in front of us.",
+      "I wanted to make my point clearly and leave room for discussion.",
+      "I said, “The core idea is relatively straightforward.”",
+      "A teammate explained how they understood that part.",
+      "We checked the relevant detail and considered both views.",
+      "The conversation helped us describe the issue more precisely.",
+      "We noted a useful next step before moving on."
+    ],
+    "categoryTitle": "Academic Writing, Evidence, and Technical Claims",
+    "frequencyRank": 5
+  },
+  {
+    "id": "s10-015",
+    "category": "research",
+    "bad": "Their method is simple.",
+    "good": "The method is conceptually simple.",
+    "why": "Can sound dismissive.",
+    "tags": [
+      "presentation"
+    ],
+    "story": [
+      "At our research meeting, the group was discussing a paper and its results.",
+      "We compared the claim with the evidence in front of us.",
+      "I wanted to make my point clearly and leave room for discussion.",
+      "I said, “The method is conceptually simple.”",
+      "A teammate explained how they understood that part.",
+      "We checked the relevant detail and considered both views.",
+      "The conversation helped us describe the issue more precisely.",
+      "We noted a useful next step before moving on."
+    ],
+    "categoryTitle": "Academic Writing, Evidence, and Technical Claims",
+    "frequencyRank": 5
+  },
+  {
+    "id": "s10-016",
+    "category": "research",
+    "bad": "They just use a larger encoder.",
+    "good": "Their approach primarily relies on a larger encoder.",
+    "why": "just minimizes the contribution.",
+    "tags": [
+      "presentation"
+    ],
+    "story": [
+      "At our research meeting, the group was discussing a paper and its results.",
+      "We compared the claim with the evidence in front of us.",
+      "I wanted to make my point clearly and leave room for discussion.",
+      "I said, “Their approach primarily relies on a larger encoder.”",
+      "A teammate explained how they understood that part.",
+      "We checked the relevant detail and considered both views.",
+      "The conversation helped us describe the issue more precisely.",
+      "We noted a useful next step before moving on."
+    ],
+    "categoryTitle": "Academic Writing, Evidence, and Technical Claims",
+    "frequencyRank": 5
+  },
+  {
+    "id": "s10-017",
+    "category": "research",
+    "bad": "We just add another retrieval step.",
+    "good": "Our approach adds an additional retrieval step before generation.",
+    "why": "Minimizes your own work.",
+    "tags": [
+      "presentation"
+    ],
+    "story": [
+      "I was preparing a paragraph for a research paper.",
+      "A labmate and I checked whether the claim matched the evidence we had collected.",
+      "I revised the sentence to make its scope and limitation clear.",
+      "I wrote, “Our approach adds an additional retrieval step before generation.”",
+      "We read the paragraph aloud and noticed one place that needed more context.",
+      "I added the relevant detail and checked that the comparison was fair.",
+      "The paragraph became easier to follow without overstating the result.",
+      "I saved the revision and moved on to the next section."
+    ],
+    "categoryTitle": "Academic Writing, Evidence, and Technical Claims",
+    "frequencyRank": 5
+  },
+  {
+    "id": "s10-018",
+    "category": "research",
+    "bad": "Basically, our method is better because it uses more data.",
+    "good": "Our method performs better mainly because it uses more training data.",
+    "why": "Overuse can make explanations sound imprecise.",
+    "tags": [
+      "research"
+    ],
+    "story": [
+      "I was preparing a paragraph for a research paper.",
+      "A labmate and I checked whether the claim matched the evidence we had collected.",
+      "I revised the sentence to make its scope and limitation clear.",
+      "I wrote, “Our method performs better mainly because it uses more training data.”",
+      "We read the paragraph aloud and noticed one place that needed more context.",
+      "I added the relevant detail and checked that the comparison was fair.",
+      "The paragraph became easier to follow without overstating the result.",
+      "I saved the revision and moved on to the next section."
+    ],
+    "categoryTitle": "Academic Writing, Evidence, and Technical Claims",
+    "frequencyRank": 5
+  },
+  {
+    "id": "s10-019",
+    "category": "research",
+    "bad": "Simply, we increase the context window.",
+    "good": "We increase the context window from 4K to 16K tokens.",
+    "why": "Can trivialize the problem.",
+    "tags": [
+      "presentation"
+    ],
+    "story": [
+      "I was preparing a paragraph for a research paper.",
+      "A labmate and I checked whether the claim matched the evidence we had collected.",
+      "I revised the sentence to make its scope and limitation clear.",
+      "I wrote, “We increase the context window from 4K to 16K tokens.”",
+      "We read the paragraph aloud and noticed one place that needed more context.",
+      "I added the relevant detail and checked that the comparison was fair.",
+      "The paragraph became easier to follow without overstating the result.",
+      "I saved the revision and moved on to the next section."
+    ],
+    "categoryTitle": "Academic Writing, Evidence, and Technical Claims",
+    "frequencyRank": 5
+  },
+  {
+    "id": "s10-020",
+    "category": "research",
+    "bad": "It depends.",
+    "good": "It depends mainly on the dataset size and the available compute budget.",
+    "why": "Can end the conversation too quickly.",
+    "tags": [
+      "research"
+    ],
+    "story": [
+      "At our research meeting, the group was discussing a paper and its results.",
+      "We compared the claim with the evidence in front of us.",
+      "I wanted to make my point clearly and leave room for discussion.",
+      "I said, “It depends mainly on the dataset size and the available compute budget.”",
+      "A teammate explained how they understood that part.",
+      "We checked the relevant detail and considered both views.",
+      "The conversation helped us describe the issue more precisely.",
+      "We noted a useful next step before moving on."
+    ],
+    "categoryTitle": "Academic Writing, Evidence, and Technical Claims",
+    "frequencyRank": 5
+  },
+  {
+    "id": "s10-021",
+    "category": "research",
+    "bad": "Case by case.",
+    "good": "It depends on the specific case.",
+    "why": "Fragment and non-native.",
+    "tags": [
+      "presentation"
+    ],
+    "story": [
+      "At our research meeting, the group was discussing a paper and its results.",
+      "We compared the claim with the evidence in front of us.",
+      "I wanted to make my point clearly and leave room for discussion.",
+      "I said, “It depends on the specific case.”",
+      "A teammate explained how they understood that part.",
+      "We checked the relevant detail and considered both views.",
+      "The conversation helped us describe the issue more precisely.",
+      "We noted a useful next step before moving on."
+    ],
+    "categoryTitle": "Academic Writing, Evidence, and Technical Claims",
+    "frequencyRank": 5
+  },
+  {
+    "id": "s10-022",
+    "category": "research",
+    "bad": "There are pros and cons.",
+    "good": "The main tradeoff is between accuracy and inference cost.",
+    "why": "Too generic.",
+    "tags": [
+      "presentation"
+    ],
+    "story": [
+      "At our research meeting, the group was discussing a paper and its results.",
+      "We compared the claim with the evidence in front of us.",
+      "I wanted to make my point clearly and leave room for discussion.",
+      "I said, “The main tradeoff is between accuracy and inference cost.”",
+      "A teammate explained how they understood that part.",
+      "We checked the relevant detail and considered both views.",
+      "The conversation helped us describe the issue more precisely.",
+      "We noted a useful next step before moving on."
+    ],
+    "categoryTitle": "Academic Writing, Evidence, and Technical Claims",
+    "frequencyRank": 5
+  },
+  {
+    "id": "s10-023",
+    "category": "research",
+    "bad": "Everything has pros and cons.",
+    "good": "The main tradeoff here is that the method improves accuracy but increases inference latency.",
+    "why": "Avoids actual analysis.",
+    "tags": [
+      "presentation"
+    ],
+    "story": [
+      "At our research meeting, the group was discussing a paper and its results.",
+      "We compared the claim with the evidence in front of us.",
+      "I wanted to make my point clearly and leave room for discussion.",
+      "I said, “The main tradeoff here is that the method improves accuracy but increases inference latency.”",
+      "A teammate explained how they understood that part.",
+      "We checked the relevant detail and considered both views.",
+      "The conversation helped us describe the issue more precisely.",
+      "We noted a useful next step before moving on."
+    ],
+    "categoryTitle": "Academic Writing, Evidence, and Technical Claims",
+    "frequencyRank": 5
+  },
+  {
+    "id": "s10-024",
+    "category": "research",
+    "bad": "We need to make consensus.",
+    "good": "We need to reach a consensus.",
+    "why": "Incorrect collocation.",
+    "tags": [
+      "presentation"
+    ],
+    "story": [
+      "At our research meeting, the group was discussing a paper and its results.",
+      "We compared the claim with the evidence in front of us.",
+      "I wanted to make my point clearly and leave room for discussion.",
+      "I said, “We need to reach a consensus.”",
+      "A teammate explained how they understood that part.",
+      "We checked the relevant detail and considered both views.",
+      "The conversation helped us describe the issue more precisely.",
+      "We noted a useful next step before moving on."
+    ],
+    "categoryTitle": "Academic Writing, Evidence, and Technical Claims",
+    "frequencyRank": 5
+  },
+  {
+    "id": "s10-025",
+    "category": "research",
+    "bad": "We need to match our opinions.",
+    "good": "We need to get aligned.",
+    "why": "Literal Korean translation.",
+    "tags": [
+      "presentation"
+    ],
+    "story": [
+      "At our research meeting, the group was discussing a paper and its results.",
+      "We compared the claim with the evidence in front of us.",
+      "I wanted to make my point clearly and leave room for discussion.",
+      "I said, “We need to get aligned.”",
+      "A teammate explained how they understood that part.",
+      "We checked the relevant detail and considered both views.",
+      "The conversation helped us describe the issue more precisely.",
+      "We noted a useful next step before moving on."
+    ],
+    "categoryTitle": "Academic Writing, Evidence, and Technical Claims",
+    "frequencyRank": 5
+  },
+  {
+    "id": "s10-026",
+    "category": "research",
+    "bad": "We need to unify our opinions.",
+    "good": "We need to agree on an approach.",
+    "why": "Non-native.",
+    "tags": [
+      "presentation"
+    ],
+    "story": [
+      "At our research meeting, the group was discussing a paper and its results.",
+      "We compared the claim with the evidence in front of us.",
+      "I wanted to make my point clearly and leave room for discussion.",
+      "I said, “We need to agree on an approach.”",
+      "A teammate explained how they understood that part.",
+      "We checked the relevant detail and considered both views.",
+      "The conversation helped us describe the issue more precisely.",
+      "We noted a useful next step before moving on."
+    ],
+    "categoryTitle": "Academic Writing, Evidence, and Technical Claims",
+    "frequencyRank": 5
+  },
+  {
+    "id": "s10-027",
+    "category": "research",
+    "bad": "I will follow your opinion.",
+    "good": "I'm happy to go with your suggestion.",
+    "why": "Sounds submissive.",
+    "tags": [
+      "presentation"
+    ],
+    "story": [
+      "At our research meeting, the group was discussing a paper and its results.",
+      "We compared the claim with the evidence in front of us.",
+      "I wanted to make my point clearly and leave room for discussion.",
+      "I said, “I'm happy to go with your suggestion.”",
+      "A teammate explained how they understood that part.",
+      "We checked the relevant detail and considered both views.",
+      "The conversation helped us describe the issue more precisely.",
+      "We noted a useful next step before moving on."
+    ],
+    "categoryTitle": "Academic Writing, Evidence, and Technical Claims",
+    "frequencyRank": 5
+  },
+  {
+    "id": "s10-028",
+    "category": "research",
+    "bad": "I respect your opinion, but I think the comparison is unfair.",
+    "good": "I see where you're coming from. My concern is that the comparison uses different training budgets.",
+    "why": "Can sound defensive or formulaic.",
+    "tags": [
+      "presentation"
+    ],
+    "story": [
+      "At our research meeting, the group was discussing a paper and its results.",
+      "We compared the claim with the evidence in front of us.",
+      "I wanted to make my point clearly and leave room for discussion.",
+      "I said, “I see where you're coming from. My concern is that the comparison uses different training budgets.”",
+      "A teammate explained how they understood that part.",
+      "We checked the relevant detail and considered both views.",
+      "The conversation helped us describe the issue more precisely.",
+      "We noted a useful next step before moving on."
+    ],
+    "categoryTitle": "Academic Writing, Evidence, and Technical Claims",
+    "frequencyRank": 5
+  },
+  {
+    "id": "s10-029",
+    "category": "research",
+    "bad": "Don't misunderstand me.",
+    "good": "Let me clarify what I mean.",
+    "why": "Signals that something harsh is coming.",
+    "tags": [
+      "presentation"
+    ],
+    "story": [
+      "At our research meeting, the group was discussing a paper and its results.",
+      "We compared the claim with the evidence in front of us.",
+      "I wanted to make my point clearly and leave room for discussion.",
+      "I said, “Let me clarify what I mean.”",
+      "A teammate explained how they understood that part.",
+      "We checked the relevant detail and considered both views.",
+      "The conversation helped us describe the issue more precisely.",
+      "We noted a useful next step before moving on."
+    ],
+    "categoryTitle": "Academic Writing, Evidence, and Technical Claims",
+    "frequencyRank": 5
+  },
+  {
+    "id": "s10-030",
+    "category": "research",
+    "bad": "I have no bad intention, but your presentation was confusing.",
+    "good": "I had trouble following the transition between the method and the evaluation.",
+    "why": "Defensive and unnatural.",
+    "tags": [
+      "presentation"
+    ],
+    "story": [
+      "At our research meeting, the group was discussing a paper and its results.",
+      "We compared the claim with the evidence in front of us.",
+      "I wanted to make my point clearly and leave room for discussion.",
+      "I said, “I had trouble following the transition between the method and the evaluation.”",
+      "A teammate explained how they understood that part.",
+      "We checked the relevant detail and considered both views.",
+      "The conversation helped us describe the issue more precisely.",
+      "We noted a useful next step before moving on."
+    ],
+    "categoryTitle": "Academic Writing, Evidence, and Technical Claims",
+    "frequencyRank": 5
+  },
+  {
+    "id": "s10-031",
+    "category": "research",
+    "bad": "This is advice for you: you should shorten the introduction.",
+    "good": "One suggestion would be to shorten the introduction so you can spend more time on the results.",
+    "why": "Sounds hierarchical.",
+    "tags": [
+      "presentation"
+    ],
+    "story": [
+      "At our research meeting, the group was discussing a paper and its results.",
+      "We compared the claim with the evidence in front of us.",
+      "I wanted to make my point clearly and leave room for discussion.",
+      "I said, “One suggestion would be to shorten the introduction so you can spend more time on the results.”",
+      "A teammate explained how they understood that part.",
+      "We checked the relevant detail and considered both views.",
+      "The conversation helped us describe the issue more precisely.",
+      "We noted a useful next step before moving on."
+    ],
+    "categoryTitle": "Academic Writing, Evidence, and Technical Claims",
+    "frequencyRank": 5
+  },
+  {
+    "id": "s10-032",
+    "category": "research",
+    "bad": "I'm saying this for you.",
+    "good": "I thought this feedback might be useful.",
+    "why": "Can sound controlling.",
+    "tags": [
+      "presentation"
+    ],
+    "story": [
+      "At our research meeting, the group was discussing a paper and its results.",
+      "We compared the claim with the evidence in front of us.",
+      "I wanted to make my point clearly and leave room for discussion.",
+      "I said, “I thought this feedback might be useful.”",
+      "A teammate explained how they understood that part.",
+      "We checked the relevant detail and considered both views.",
+      "The conversation helped us describe the issue more precisely.",
+      "We noted a useful next step before moving on."
+    ],
+    "categoryTitle": "Academic Writing, Evidence, and Technical Claims",
+    "frequencyRank": 5
+  },
+  {
+    "id": "s11-001",
+    "category": "research",
+    "bad": "How can I say... the result is not very convincing.",
+    "good": "Let me think about how to phrase this—the result doesn't seem very convincing yet.",
+    "why": "Common non-native filler.",
+    "tags": [
+      "presentation"
+    ],
+    "story": [
+      "I was rehearsing a short presentation for our group meeting.",
+      "As I practiced, I noticed that a few transitions made the explanation hard to follow.",
+      "I paused, reorganized the point, and tried the section again.",
+      "I said, “Let me think about how to phrase this—the result doesn't seem very convincing yet.”",
+      "A friend listening to the rehearsal could follow the connection more easily.",
+      "They suggested one small change to make the order even clearer.",
+      "I made the edit and practiced the ending once more.",
+      "The next day, I felt more prepared to present the work."
+    ],
+    "categoryTitle": "Fillers, Transitions, and Information Structure",
+    "frequencyRank": 5
+  },
+  {
+    "id": "s11-002",
+    "category": "research",
+    "bad": "How to say... I think this assumption is too strong.",
+    "good": "How should I put this? I think this assumption may be too strong.",
+    "why": "Incomplete.",
+    "tags": [
+      "presentation"
+    ],
+    "story": [
+      "I was rehearsing a short presentation for our group meeting.",
+      "As I practiced, I noticed that a few transitions made the explanation hard to follow.",
+      "I paused, reorganized the point, and tried the section again.",
+      "I said, “How should I put this? I think this assumption may be too strong.”",
+      "A friend listening to the rehearsal could follow the connection more easily.",
+      "They suggested one small change to make the order even clearer.",
+      "I made the edit and practiced the ending once more.",
+      "The next day, I felt more prepared to present the work."
+    ],
+    "categoryTitle": "Fillers, Transitions, and Information Structure",
+    "frequencyRank": 5
+  },
+  {
+    "id": "s11-003",
+    "category": "research",
+    "bad": "What should I say... maybe we need another experiment.",
+    "good": "Let me think for a second. I think we may need another experiment.",
+    "why": "Can sound uncertain if overused.",
+    "tags": [
+      "research"
+    ],
+    "story": [
+      "I was rehearsing a short presentation for our group meeting.",
+      "As I practiced, I noticed that a few transitions made the explanation hard to follow.",
+      "I paused, reorganized the point, and tried the section again.",
+      "I said, “Let me think for a second. I think we may need another experiment.”",
+      "A friend listening to the rehearsal could follow the connection more easily.",
+      "They suggested one small change to make the order even clearer.",
+      "I made the edit and practiced the ending once more.",
+      "The next day, I felt more prepared to present the work."
+    ],
+    "categoryTitle": "Fillers, Transitions, and Information Structure",
+    "frequencyRank": 5
+  },
+  {
+    "id": "s11-004",
+    "category": "research",
+    "bad": "I mean... I mean... the model is not exactly failing.",
+    "good": "Let me start that over. The model isn't failing, but its performance is unstable.",
+    "why": "Excessive repair makes speech harder to follow.",
+    "tags": [
+      "research"
+    ],
+    "story": [
+      "I was rehearsing a short presentation for our group meeting.",
+      "As I practiced, I noticed that a few transitions made the explanation hard to follow.",
+      "I paused, reorganized the point, and tried the section again.",
+      "I said, “Let me start that over. The model isn't failing, but its performance is unstable.”",
+      "A friend listening to the rehearsal could follow the connection more easily.",
+      "They suggested one small change to make the order even clearer.",
+      "I made the edit and practiced the ending once more.",
+      "The next day, I felt more prepared to present the work."
+    ],
+    "categoryTitle": "Fillers, Transitions, and Information Structure",
+    "frequencyRank": 5
+  },
+  {
+    "id": "s11-005",
+    "category": "research",
+    "bad": "So... so... so... we changed the learning rate.",
+    "good": "Because the loss was unstable, we changed the learning rate.",
+    "why": "Overuse weakens structure.",
+    "tags": [
+      "presentation"
+    ],
+    "story": [
+      "I was rehearsing a short presentation for our group meeting.",
+      "As I practiced, I noticed that a few transitions made the explanation hard to follow.",
+      "I paused, reorganized the point, and tried the section again.",
+      "I said, “Because the loss was unstable, we changed the learning rate.”",
+      "A friend listening to the rehearsal could follow the connection more easily.",
+      "They suggested one small change to make the order even clearer.",
+      "I made the edit and practiced the ending once more.",
+      "The next day, I felt more prepared to present the work."
+    ],
+    "categoryTitle": "Fillers, Transitions, and Information Structure",
+    "frequencyRank": 5
+  },
+  {
+    "id": "s11-006",
+    "category": "research",
+    "bad": "And then we changed the dataset, and then we retrained the model, and then we evaluated it.",
+    "good": "After changing the dataset, we retrained the model and then evaluated it.",
+    "why": "Sounds elementary when overused.",
+    "tags": [
+      "research"
+    ],
+    "story": [
+      "I was rehearsing a short presentation for our group meeting.",
+      "As I practiced, I noticed that a few transitions made the explanation hard to follow.",
+      "I paused, reorganized the point, and tried the section again.",
+      "I said, “After changing the dataset, we retrained the model and then evaluated it.”",
+      "A friend listening to the rehearsal could follow the connection more easily.",
+      "They suggested one small change to make the order even clearer.",
+      "I made the edit and practiced the ending once more.",
+      "The next day, I felt more prepared to present the work."
+    ],
+    "categoryTitle": "Fillers, Transitions, and Information Structure",
+    "frequencyRank": 5
+  },
+  {
+    "id": "s11-007",
+    "category": "research",
+    "bad": "However, the model is faster. However, it uses more memory. However, accuracy is similar.",
+    "good": "The model is faster, but it uses more memory, while accuracy remains similar.",
+    "why": "Makes speech/writing sound overly contrastive.",
+    "tags": [
+      "research"
+    ],
+    "story": [
+      "I was rehearsing a short presentation for our group meeting.",
+      "As I practiced, I noticed that a few transitions made the explanation hard to follow.",
+      "I paused, reorganized the point, and tried the section again.",
+      "I said, “The model is faster, but it uses more memory, while accuracy remains similar.”",
+      "A friend listening to the rehearsal could follow the connection more easily.",
+      "They suggested one small change to make the order even clearer.",
+      "I made the edit and practiced the ending once more.",
+      "The next day, I felt more prepared to present the work."
+    ],
+    "categoryTitle": "Fillers, Transitions, and Information Structure",
+    "frequencyRank": 5
+  },
+  {
+    "id": "s11-008",
+    "category": "research",
+    "bad": "Therefore, we changed the optimizer. Therefore, the loss became more stable.",
+    "good": "We changed the optimizer, and as a result, the loss became more stable.",
+    "why": "Sounds overly formal.",
+    "tags": [
+      "presentation"
+    ],
+    "story": [
+      "I was rehearsing a short presentation for our group meeting.",
+      "As I practiced, I noticed that a few transitions made the explanation hard to follow.",
+      "I paused, reorganized the point, and tried the section again.",
+      "I said, “We changed the optimizer, and as a result, the loss became more stable.”",
+      "A friend listening to the rehearsal could follow the connection more easily.",
+      "They suggested one small change to make the order even clearer.",
+      "I made the edit and practiced the ending once more.",
+      "The next day, I felt more prepared to present the work."
+    ],
+    "categoryTitle": "Fillers, Transitions, and Information Structure",
+    "frequencyRank": 5
+  },
+  {
+    "id": "s11-009",
+    "category": "research",
+    "bad": "In terms of efficiency, regarding memory usage, our model is better.",
+    "good": "Our model uses less memory during inference.",
+    "why": "Too many introductory phrases delay the main point.",
+    "tags": [
+      "research"
+    ],
+    "story": [
+      "I was rehearsing a short presentation for our group meeting.",
+      "As I practiced, I noticed that a few transitions made the explanation hard to follow.",
+      "I paused, reorganized the point, and tried the section again.",
+      "I said, “Our model uses less memory during inference.”",
+      "A friend listening to the rehearsal could follow the connection more easily.",
+      "They suggested one small change to make the order even clearer.",
+      "I made the edit and practiced the ending once more.",
+      "The next day, I felt more prepared to present the work."
+    ],
+    "categoryTitle": "Fillers, Transitions, and Information Structure",
+    "frequencyRank": 5
+  },
+  {
+    "id": "s11-010",
+    "category": "research",
+    "bad": "Before I ask my question, let me explain the entire background of the project first.",
+    "good": "My question is whether the comparison is fair. For context, the two methods use different training budgets.",
+    "why": "American listeners may lose the point.",
+    "tags": [
+      "presentation"
+    ],
+    "story": [
+      "I was rehearsing a short presentation for our group meeting.",
+      "As I practiced, I noticed that a few transitions made the explanation hard to follow.",
+      "I paused, reorganized the point, and tried the section again.",
+      "I said, “My question is whether the comparison is fair. For context, the two methods use different training budgets.”",
+      "A friend listening to the rehearsal could follow the connection more easily.",
+      "They suggested one small change to make the order even clearer.",
+      "I made the edit and practiced the ending once more.",
+      "The next day, I felt more prepared to present the work."
+    ],
+    "categoryTitle": "Fillers, Transitions, and Information Structure",
+    "frequencyRank": 5
+  },
+  {
+    "id": "s11-011",
+    "category": "research",
+    "bad": "There are several things we tried over the last month, and after all of that, I think the retriever is the main problem.",
+    "good": "I think the retriever is the main bottleneck. We reached that conclusion after testing three other components.",
+    "why": "Makes the structure feel indirect.",
+    "tags": [
+      "presentation"
+    ],
+    "story": [
+      "I was rehearsing a short presentation for our group meeting.",
+      "As I practiced, I noticed that a few transitions made the explanation hard to follow.",
+      "I paused, reorganized the point, and tried the section again.",
+      "I said, “I think the retriever is the main bottleneck. We reached that conclusion after testing three other components.”",
+      "A friend listening to the rehearsal could follow the connection more easily.",
+      "They suggested one small change to make the order even clearer.",
+      "I made the edit and practiced the ending once more.",
+      "The next day, I felt more prepared to present the work."
+    ],
+    "categoryTitle": "Fillers, Transitions, and Information Structure",
+    "frequencyRank": 5
+  },
+  {
+    "id": "s11-012",
+    "category": "research",
+    "bad": "Explaining a problem without asking for anything",
+    "good": "Could you help me decide between A and B?",
+    "why": "The listener may not know what you need.",
+    "tags": [
+      "presentation"
+    ],
+    "story": [
+      "I was rehearsing a short presentation for our group meeting.",
+      "As I practiced, I noticed that a few transitions made the explanation hard to follow.",
+      "I paused, reorganized the point, and tried the section again.",
+      "I said, “Could you help me decide between A and B?”",
+      "A friend listening to the rehearsal could follow the connection more easily.",
+      "They suggested one small change to make the order even clearer.",
+      "I made the edit and practiced the ending once more.",
+      "The next day, I felt more prepared to present the work."
+    ],
+    "categoryTitle": "Fillers, Transitions, and Information Structure",
+    "frequencyRank": 5
+  },
+  {
+    "id": "s11-013",
+    "category": "research",
+    "bad": "What should I do?",
+    "good": "I'm deciding between A and B. Which direction seems more promising?",
+    "why": "Sounds overly dependent.",
+    "tags": [
+      "presentation"
+    ],
+    "story": [
+      "I was rehearsing a short presentation for our group meeting.",
+      "As I practiced, I noticed that a few transitions made the explanation hard to follow.",
+      "I paused, reorganized the point, and tried the section again.",
+      "I said, “I'm deciding between A and B. Which direction seems more promising?”",
+      "A friend listening to the rehearsal could follow the connection more easily.",
+      "They suggested one small change to make the order even clearer.",
+      "I made the edit and practiced the ending once more.",
+      "The next day, I felt more prepared to present the work."
+    ],
+    "categoryTitle": "Fillers, Transitions, and Information Structure",
+    "frequencyRank": 5
+  },
+  {
+    "id": "s11-014",
+    "category": "research",
+    "bad": "Please tell me what to do.",
+    "good": "I'd like your input on which next step makes more sense.",
+    "why": "Sounds passive.",
+    "tags": [
+      "presentation"
+    ],
+    "story": [
+      "I was rehearsing a short presentation for our group meeting.",
+      "As I practiced, I noticed that a few transitions made the explanation hard to follow.",
+      "I paused, reorganized the point, and tried the section again.",
+      "I said, “I'd like your input on which next step makes more sense.”",
+      "A friend listening to the rehearsal could follow the connection more easily.",
+      "They suggested one small change to make the order even clearer.",
+      "I made the edit and practiced the ending once more.",
+      "The next day, I felt more prepared to present the work."
+    ],
+    "categoryTitle": "Fillers, Transitions, and Information Structure",
+    "frequencyRank": 5
+  },
+  {
+    "id": "s11-015",
+    "category": "research",
+    "bad": "I don't know what to do.",
+    "good": "I see two possible next steps, but I'm not sure which to prioritize.",
+    "why": "Too broad.",
+    "tags": [
+      "presentation"
+    ],
+    "story": [
+      "I was rehearsing a short presentation for our group meeting.",
+      "As I practiced, I noticed that a few transitions made the explanation hard to follow.",
+      "I paused, reorganized the point, and tried the section again.",
+      "I said, “I see two possible next steps, but I'm not sure which to prioritize.”",
+      "A friend listening to the rehearsal could follow the connection more easily.",
+      "They suggested one small change to make the order even clearer.",
+      "I made the edit and practiced the ending once more.",
+      "The next day, I felt more prepared to present the work."
+    ],
+    "categoryTitle": "Fillers, Transitions, and Information Structure",
+    "frequencyRank": 5
+  },
+  {
+    "id": "r01-001",
+    "category": "research",
+    "categoryTitle": "Teaching and explaining concepts",
+    "frequencyRank": 1,
+    "bad": "Today we will look how the method works.",
+    "good": "Today, we’ll look at how the method works.",
+    "why": "“Look” needs the preposition “at” before the thing you examine. The phrase “look at how…” introduces an explanation naturally; “we’ll” is a common spoken contraction for opening a lesson or talk.",
+    "tags": [
+      "teaching",
+      "presentation",
+      "formal"
+    ],
+    "story": [
+      "I was introducing a new topic in a small seminar.",
+      "The students had read a short overview before class.",
+      "I put the first diagram on the screen and said, “Today, we’ll look at how the method works.”",
+      "I explained the main steps and paused at each part of the diagram.",
+      "A student asked how the second step differed from the baseline.",
+      "We used that question to begin the discussion."
+    ]
+  },
+  {
+    "id": "r01-002",
+    "category": "research",
+    "categoryTitle": "Teaching and explaining concepts",
+    "frequencyRank": 1,
+    "bad": "Do you have any question until now?",
+    "good": "Any questions so far?",
+    "why": "“Any questions so far?” is a concise, natural check for questions up to this point in a lesson or presentation. “So far” expresses “until now,” and “questions” is plural when you are inviting any questions from the group.",
+    "tags": [
+      "teaching",
+      "presentation",
+      "casual"
+    ],
+    "story": [
+      "I had just finished explaining the first part of a new topic.",
+      "Several students were taking notes, and one person looked uncertain.",
+      "I paused and asked, “Any questions so far?”",
+      "A student asked me to go over one of the terms again.",
+      "I gave a simpler example and checked that the distinction was clear.",
+      "Then we continued to the next section."
+    ]
+  },
+  {
+    "id": "r01-003",
+    "category": "research",
+    "categoryTitle": "Teaching and explaining concepts",
+    "frequencyRank": 1,
+    "bad": "Let’s move next example.",
+    "good": "Let’s move on to the next example.",
+    "why": "The usual expression for changing to a new topic or item is “move on to.” It takes “to” before the next topic, and “the” identifies the next example in the sequence.",
+    "tags": [
+      "teaching",
+      "presentation",
+      "casual"
+    ],
+    "story": [
+      "We had worked through two examples on the board.",
+      "The class understood the first one but wanted another case.",
+      "I said, “Let’s move on to the next example.”",
+      "I brought up a new problem that used the same principle.",
+      "The students compared it with the earlier example in pairs.",
+      "We discussed where the two cases behaved differently."
+    ]
+  },
+  {
+    "id": "r01-004",
+    "category": "research",
+    "categoryTitle": "Teaching and explaining concepts",
+    "frequencyRank": 1,
+    "bad": "The point what I want to explain is the results are different.",
+    "good": "The key point is that the two results differ.",
+    "why": "The original combines two sentence structures, which makes the main claim difficult to follow. “The key point is that…” clearly introduces one complete idea, and “differ” states the comparison directly.",
+    "tags": [
+      "teaching",
+      "presentation",
+      "research"
+    ],
+    "story": [
+      "I was summarizing two results during a group presentation.",
+      "The values looked similar at first glance, but the trend changed across datasets.",
+      "I highlighted the chart and said, “The key point is that the two results differ.”",
+      "I pointed to the cases where the difference was largest.",
+      "A colleague asked whether the same pattern appeared in the smaller dataset.",
+      "We checked the table together before drawing a conclusion."
+    ]
+  },
+  {
+    "id": "r01-005",
+    "category": "research",
+    "categoryTitle": "Teaching and explaining concepts",
+    "frequencyRank": 1,
+    "bad": "This figure is comparing between two methods.",
+    "good": "This figure compares the two methods.",
+    "why": "A figure does not perform the act of comparing; it presents information that lets the audience compare the methods. “Compare” takes the two items directly, so “between” is unnecessary here.",
+    "tags": [
+      "research",
+      "presentation"
+    ],
+    "story": [
+      "I was preparing a slide for our weekly lab meeting.",
+      "The figure showed the performance of two approaches across four tasks.",
+      "I introduced it by saying, “This figure compares the two methods.”",
+      "I explained what each color represented before discussing the results.",
+      "The team noticed that one method improved on only two tasks.",
+      "We added a note to make that limitation clear on the slide."
+    ]
+  },
+  {
+    "id": "r01-006",
+    "category": "research",
+    "categoryTitle": "Teaching and explaining concepts",
+    "frequencyRank": 1,
+    "bad": "I’ll stop for question here.",
+    "good": "I’ll pause here for questions.",
+    "why": "“Pause here” is a natural way to signal a temporary break in a talk, and “for questions” names why you are stopping. Use plural “questions” when inviting the audience to ask anything.",
+    "tags": [
+      "teaching",
+      "presentation"
+    ],
+    "story": [
+      "I had just finished the first half of a short presentation.",
+      "The audience had been following a few technical details on the slides.",
+      "I said, “I’ll pause here for questions.”",
+      "One person asked how we selected the evaluation set.",
+      "I answered briefly and offered to explain the details after the talk.",
+      "Then I continued with the results section."
+    ]
+  },
+  {
+    "id": "r01-007",
+    "category": "research",
+    "categoryTitle": "Teaching and explaining concepts",
+    "frequencyRank": 2,
+    "bad": "Let me explain again in other way.",
+    "good": "Let me rephrase that.",
+    "why": "“Rephrase” means to express the same idea in different words, so it is a concise fit when someone did not understand an explanation. The original is understandable, but “in another way” would be the grammatical form if you wanted to describe the method more literally.",
+    "tags": [
+      "teaching",
+      "presentation",
+      "casual"
+    ],
+    "story": [
+      "I was explaining a result during office hours.",
+      "A student understood the calculation but not why we used that step.",
+      "I stopped and said, “Let me rephrase that.”",
+      "I described the same idea with an example from everyday life.",
+      "The student connected it to the equation on the page.",
+      "We moved on once the reasoning was clear."
+    ]
+  },
+  {
+    "id": "r01-008",
+    "category": "research",
+    "categoryTitle": "Teaching and explaining concepts",
+    "frequencyRank": 2,
+    "bad": "Do you understand until now?",
+    "good": "Does that make sense so far?",
+    "why": "“Does that make sense so far?” checks whether the explanation is clear without putting one listener on the spot to prove they understand. “So far” is the natural phrase for checking progress up to the current point.",
+    "tags": [
+      "teaching",
+      "casual"
+    ],
+    "story": [
+      "I was teaching a new procedure in a workshop.",
+      "After a few steps, I noticed that some participants had stopped writing.",
+      "I paused and asked, “Does that make sense so far?”",
+      "One person said they were unsure about the second step.",
+      "I demonstrated it again with a smaller example.",
+      "The group continued once everyone had the sequence in their notes."
+    ]
+  },
+  {
+    "id": "r01-009",
+    "category": "research",
+    "categoryTitle": "Teaching and explaining concepts",
+    "frequencyRank": 2,
+    "bad": "Let’s look more close to the final step.",
+    "good": "Let’s take a closer look at the final step.",
+    "why": "The fixed phrase is “take a closer look at”; “closer” is the comparative adjective that modifies “look.” Use “at” to introduce the part you want the audience to examine.",
+    "tags": [
+      "teaching",
+      "presentation"
+    ],
+    "story": [
+      "The class had followed a procedure through most of its stages.",
+      "The last step was where several groups made different choices.",
+      "I said, “Let’s take a closer look at the final step.”",
+      "I enlarged that part of the diagram on the screen.",
+      "We compared the two choices and traced their effects.",
+      "The students then revised their own solutions."
+    ]
+  },
+  {
+    "id": "r01-010",
+    "category": "research",
+    "categoryTitle": "Teaching and explaining concepts",
+    "frequencyRank": 2,
+    "bad": "To summary, the model works better on small datasets.",
+    "good": "To summarize, the model performs better on small datasets.",
+    "why": "After “to,” use the verb “summarize,” not the noun “summary.” “Performs better” is also a precise way to describe a model’s measured results; explain which datasets or metric support the comparison when you present it.",
+    "tags": [
+      "teaching",
+      "presentation",
+      "research"
+    ],
+    "story": [
+      "I was wrapping up a presentation about our evaluation.",
+      "The audience had seen the results for several dataset sizes.",
+      "I said, “To summarize, the model performs better on small datasets.”",
+      "I showed the metric that supported the comparison.",
+      "A listener asked whether the same trend held for the largest dataset.",
+      "I noted that we needed more evaluation before making a broader claim."
+    ]
+  },
+  {
+    "id": "r01-011",
+    "category": "research",
+    "categoryTitle": "Research meeting updates",
+    "frequencyRank": 1,
+    "bad": "I will explain about my update first.",
+    "good": "I’ll start with a brief update.",
+    "why": "“Explain about” is not the usual pattern; “explain” takes its topic directly, while “give an update” and “start with an update” are natural meeting phrases. “Brief” signals that you will keep the opening concise.",
+    "tags": [
+      "research",
+      "research meeting",
+      "casual"
+    ],
+    "story": [
+      "Our lab meeting began with a quick round of updates.",
+      "I had finished one experiment and was starting another.",
+      "I opened by saying, “I’ll start with a brief update.”",
+      "I summarized what had changed since the previous week.",
+      "Then I showed one result that raised a new question.",
+      "The group helped me decide what to test next."
+    ]
+  },
+  {
+    "id": "r01-012",
+    "category": "research",
+    "categoryTitle": "Research meeting updates",
+    "frequencyRank": 1,
+    "bad": "From our last meeting, I did two experiments.",
+    "good": "Since our last meeting, I’ve run two experiments.",
+    "why": "“Since our last meeting” marks a period that began then and continues up to now, so the present perfect “I’ve run” fits a progress update. “Run an experiment” is the standard collocation in research contexts.",
+    "tags": [
+      "research",
+      "research meeting"
+    ],
+    "story": [
+      "I was preparing a short update for our weekly meeting.",
+      "The team wanted to know what had changed since we last spoke.",
+      "I said, “Since our last meeting, I’ve run two experiments.”",
+      "I showed the setup and summarized the results of each one.",
+      "One run revealed an unexpected difference between the datasets.",
+      "We agreed to investigate that difference before the next meeting."
+    ]
+  },
+  {
+    "id": "r01-013",
+    "category": "research",
+    "categoryTitle": "Research meeting updates",
+    "frequencyRank": 1,
+    "bad": "I met a problem with the training run.",
+    "good": "I ran into an issue with the training run.",
+    "why": "English speakers say “run into an issue/problem” when they encounter an unexpected difficulty. “Met a problem” is a direct translation that is not idiomatic in this context; “issue” also keeps the tone neutral for a meeting update.",
+    "tags": [
+      "research",
+      "research meeting"
+    ],
+    "story": [
+      "The training job stopped earlier than expected overnight.",
+      "I checked the logs before our morning group meeting.",
+      "I told the team, “I ran into an issue with the training run.”",
+      "I showed the error message and explained what I had already tried.",
+      "A teammate recognized a similar problem from a previous experiment.",
+      "We made a small configuration change and restarted the job."
+    ]
+  },
+  {
+    "id": "r01-014",
+    "category": "research",
+    "categoryTitle": "Research meeting updates",
+    "frequencyRank": 1,
+    "bad": "These result is not final yet.",
+    "good": "These results are preliminary.",
+    "why": "“Results” is plural, so it takes “are,” not “is.” “Preliminary” is a concise academic word for findings that are early and may change after more analysis; use it to avoid presenting them as final.",
+    "tags": [
+      "research",
+      "research meeting",
+      "formal"
+    ],
+    "story": [
+      "I had completed the first pass of an evaluation.",
+      "Some runs were still missing, so the table was not complete.",
+      "At the meeting, I said, “These results are preliminary.”",
+      "I explained which experiments had finished and which were still running.",
+      "The group suggested a check for one unusual value.",
+      "I added that check to the analysis plan."
+    ]
+  },
+  {
+    "id": "r01-015",
+    "category": "research",
+    "categoryTitle": "Research meeting discussion",
+    "frequencyRank": 1,
+    "bad": "Could we discuss about the next steps?",
+    "good": "Could we discuss the next steps?",
+    "why": "“Discuss” takes the topic as a direct object, so it is followed by “the next steps” without “about.” If you want to keep “about,” use “Could we talk about the next steps?” instead.",
+    "tags": [
+      "research",
+      "research meeting",
+      "planning"
+    ],
+    "story": [
+      "We had reviewed the latest results and written down two possible follow-up experiments.",
+      "The meeting was nearly over, and we needed to agree on what to do first.",
+      "I asked, “Could we discuss the next steps?”",
+      "My advisor suggested prioritizing the experiment that would answer our main question.",
+      "We divided the tasks and set a date to check in.",
+      "I added the plan to our shared notes."
+    ]
+  },
+  {
+    "id": "r01-016",
+    "category": "research",
+    "categoryTitle": "Research meeting discussion",
+    "frequencyRank": 1,
+    "bad": "I want your feedback for this analysis.",
+    "good": "I’d appreciate your feedback on this analysis.",
+    "why": "Use “feedback on” when naming the work you want someone to review. “I want your feedback” is clear but can sound demanding in a meeting; “I’d appreciate…” makes it a courteous request while keeping the request specific.",
+    "tags": [
+      "research",
+      "research meeting",
+      "formal"
+    ],
+    "story": [
+      "I had drafted an analysis plan for the new dataset.",
+      "Before running every experiment, I wanted a second opinion on the comparison.",
+      "I asked my advisor, “I’d appreciate your feedback on this analysis.”",
+      "I pointed out the assumptions I was least certain about.",
+      "They suggested one additional baseline and a clearer description of the metric.",
+      "I revised the plan before beginning the full evaluation."
+    ]
+  },
+  {
+    "id": "r01-017",
+    "category": "research",
+    "categoryTitle": "Research meeting discussion",
+    "frequencyRank": 2,
+    "bad": "What are the takeaway points from this result?",
+    "good": "What are the main takeaways from this result?",
+    "why": "“Takeaway” already means the main point to remember, so “takeaway points” is usually redundant. “Main takeaways” is a natural way to ask the group to identify the most important implications of a result.",
+    "tags": [
+      "research",
+      "research meeting",
+      "presentation"
+    ],
+    "story": [
+      "We had just finished reviewing a long set of evaluation tables.",
+      "Several metrics moved in different directions across the tasks.",
+      "I asked, “What are the main takeaways from this result?”",
+      "One teammate pointed out a consistent improvement on the smaller datasets.",
+      "Another noted that the gains disappeared for the largest task.",
+      "We wrote down both observations for the next draft."
+    ]
+  },
+  {
+    "id": "r01-018",
+    "category": "research",
+    "categoryTitle": "Research meeting discussion",
+    "frequencyRank": 2,
+    "bad": "What means this part of the paper?",
+    "good": "Could you clarify what this part of the paper means?",
+    "why": "In a present simple question, use “does” before the subject and keep the main verb in its base form (“What does this mean?”). “Could you clarify…” is a more collaborative way to ask about a passage during a research discussion.",
+    "tags": [
+      "research",
+      "research meeting",
+      "clarification"
+    ],
+    "story": [
+      "We were reading a paper together before the group meeting.",
+      "A paragraph described an assumption that was not obvious to me.",
+      "I asked, “Could you clarify what this part of the paper means?”",
+      "A colleague paraphrased the claim and pointed to the definition above it.",
+      "We checked how the authors used the term in the next section.",
+      "The passage made more sense once we connected the two parts."
+    ]
+  },
+  {
+    "id": "r01-019",
+    "category": "research",
+    "categoryTitle": "Research meeting discussion",
+    "frequencyRank": 2,
+    "bad": "I couldn’t understand the last step.",
+    "good": "I’m not sure I follow the last step.",
+    "why": "The original is grammatical, but it can sound like a blunt judgment of the explanation. “I’m not sure I follow…” frames the difficulty as a request for clarification and is a common, tactful phrase in meetings.",
+    "tags": [
+      "research",
+      "research meeting",
+      "clarification"
+    ],
+    "story": [
+      "A teammate walked us through a derivation on the whiteboard.",
+      "The first few steps were familiar, but the final transition was quick.",
+      "I said, “I’m not sure I follow the last step.”",
+      "They rewrote the equation and explained which assumption they used.",
+      "I asked one more question about the variable substitution.",
+      "Then I could see how the result followed from the earlier line."
+    ]
+  },
+  {
+    "id": "r01-020",
+    "category": "research",
+    "categoryTitle": "Research meeting discussion",
+    "frequencyRank": 2,
+    "bad": "We have delay in the project.",
+    "good": "We’re slightly behind schedule.",
+    "why": "“Behind schedule” is the usual phrase for work that is taking longer than planned. “Slightly” gives a measured update; name the cause and revised date if the team needs to make a new plan.",
+    "tags": [
+      "research",
+      "research meeting",
+      "planning"
+    ],
+    "story": [
+      "Our team had planned to finish the annotation by Thursday.",
+      "A few files needed extra review, so the work was taking longer than expected.",
+      "I updated the group by saying, “We’re slightly behind schedule.”",
+      "I explained which part needed more time and gave a revised estimate.",
+      "The team moved one internal review to the following week.",
+      "We updated the shared timeline before ending the meeting."
+    ]
+  },
+  {
+    "id": "r01-021",
+    "category": "research",
+    "categoryTitle": "Research presentations",
+    "frequencyRank": 1,
+    "bad": "Next slide shows the main result.",
+    "good": "The next slide shows the main result.",
+    "why": "Use “the” because you mean the particular slide that follows in this presentation. The simple present “shows” is natural when describing what a slide, figure, or table contains.",
+    "tags": [
+      "presentation",
+      "research"
+    ],
+    "story": [
+      "I was rehearsing the transition between the methods and results sections.",
+      "The audience would have seen several setup slides before this point.",
+      "I said, “The next slide shows the main result.”",
+      "Then I brought up the chart and explained its axes.",
+      "I highlighted the comparison that answered our research question.",
+      "The transition helped the audience see why the result mattered."
+    ]
+  },
+  {
+    "id": "r01-022",
+    "category": "research",
+    "categoryTitle": "Research presentations",
+    "frequencyRank": 1,
+    "bad": "We will discuss more detail later.",
+    "good": "We’ll discuss this in more detail later.",
+    "why": "The natural phrase is “in more detail,” and the audience needs an object such as “this” to show what you will return to. This wording signals that the current slide gives only a brief overview.",
+    "tags": [
+      "presentation",
+      "research"
+    ],
+    "story": [
+      "I was giving a short overview of a complicated evaluation setup.",
+      "The audience needed the main idea before seeing all the details.",
+      "I said, “We’ll discuss this in more detail later.”",
+      "I moved on to the result that depended on the setup.",
+      "Near the end, I returned to the evaluation choices and answered questions.",
+      "The audience had enough context to follow the deeper explanation."
+    ]
+  },
+  {
+    "id": "r01-023",
+    "category": "research",
+    "categoryTitle": "Research presentations",
+    "frequencyRank": 1,
+    "bad": "I will share you the slides after presentation.",
+    "good": "I’ll share the slides after the presentation.",
+    "why": "“Share” takes the thing being shared as its object; use “with” before the recipient (“share the slides with you”). “After the presentation” takes “the” when referring to the specific talk you have just given.",
+    "tags": [
+      "presentation",
+      "research"
+    ],
+    "story": [
+      "I had presented our early findings at a department seminar.",
+      "A few people asked for the charts so they could review them later.",
+      "I told the audience, “I’ll share the slides after the presentation.”",
+      "After the questions, I checked the file for the latest figures.",
+      "I sent the deck to the attendees with a short note.",
+      "Several colleagues replied with useful comments the next day."
+    ]
+  },
+  {
+    "id": "r01-024",
+    "category": "research",
+    "categoryTitle": "Research presentations",
+    "frequencyRank": 2,
+    "bad": "Thank you for listening my presentation.",
+    "good": "Thanks for your attention.",
+    "why": "“Listen” takes “to” before the thing you listen to, but “Thanks for your attention” is the conventional concise closing for a presentation. You can also say “Thank you for listening to my presentation” when you specifically want to mention listening.",
+    "tags": [
+      "presentation",
+      "formal"
+    ],
+    "story": [
+      "I had reached the final slide after presenting our study.",
+      "The audience had followed the methods and results and asked several questions.",
+      "I closed by saying, “Thanks for your attention.”",
+      "The session chair thanked me and invited the audience to continue the discussion.",
+      "A few people came over afterward to ask about the dataset.",
+      "I shared the paper link with them before leaving the room."
+    ]
+  }
+]

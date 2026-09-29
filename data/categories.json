@@ -22,5 +22,11 @@
     "name": "Everyday conversations",
     "icon": "☕",
     "desc": "Natural English for daily life"
+  },
+  {
+    "id": "research",
+    "name": "Teaching & Research",
+    "icon": "🎓",
+    "desc": "Natural English for teaching, presentations, and research meetings"
   }
 ]

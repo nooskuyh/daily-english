@@ -4246,5 +4246,554 @@
       "A few people came over afterward to ask about the dataset.",
       "I shared the paper link with them before leaving the room."
     ]
+  },
+  {
+    "id": "r02-001",
+    "category": "research",
+    "categoryTitle": "Explaining algorithms and systems",
+    "frequencyRank": 1,
+    "bad": "The algorithm receives in input and gives output.",
+    "good": "The algorithm takes an input and returns an output.",
+    "why": "English commonly says an algorithm “takes an input” and “returns an output.” These verb–noun pairings are standard in technical explanations; “receive as input” is also natural, but “receive in input” is not the usual construction.",
+    "tags": [
+      "research",
+      "presentation",
+      "computer science",
+      "algorithms"
+    ],
+    "story": [
+      "I was introducing a search algorithm during our lab presentation.",
+      "The audience had seen the problem statement but not the implementation.",
+      "I began with, “The algorithm takes an input and returns an output.”",
+      "Then I named the input structure and described what the output represents.",
+      "A slide showed how the first transformation prepares the data.",
+      "The team could follow the rest of the explanation from that starting point."
+    ]
+  },
+  {
+    "id": "r02-002",
+    "category": "research",
+    "categoryTitle": "Explaining algorithms and systems",
+    "frequencyRank": 1,
+    "bad": "First, we divide the input to tokens.",
+    "good": "First, we split the input into tokens.",
+    "why": "Use “split something into parts” when describing how one item is divided into smaller units. “Tokens” is plural because the operation usually produces multiple units; “divide” can also work with “into,” but “split into tokens” is the usual concise phrasing here.",
+    "tags": [
+      "research",
+      "presentation",
+      "computer science",
+      "algorithms"
+    ],
+    "story": [
+      "I was explaining the preprocessing stage of a language model.",
+      "The first slide showed a sentence before and after tokenization.",
+      "I said, “First, we split the input into tokens.”",
+      "Then I explained how each token receives an ID.",
+      "The next diagram showed those IDs moving into the model.",
+      "The audience could see where the later computations begin."
+    ]
+  },
+  {
+    "id": "r02-003",
+    "category": "research",
+    "categoryTitle": "Explaining algorithms and systems",
+    "frequencyRank": 1,
+    "bad": "We repeat this step until the loss will converge.",
+    "good": "We repeat this step until the loss converges.",
+    "why": "In a time or condition clause introduced by “until,” use the present simple for a future event: “until the loss converges.” The main clause can still describe the repeated action; the extra “will” is not used in this standard pattern.",
+    "tags": [
+      "research",
+      "presentation",
+      "computer science",
+      "algorithms"
+    ],
+    "story": [
+      "I was describing the training loop in a methods talk.",
+      "The audience wanted to know how long the optimization continues.",
+      "I explained, “We repeat this step until the loss converges.”",
+      "A plot showed the loss decreasing over successive updates.",
+      "I noted that in practice we also stop at a preset limit.",
+      "That distinction helped clarify the procedure and its implementation."
+    ]
+  },
+  {
+    "id": "r02-004",
+    "category": "research",
+    "categoryTitle": "Explaining algorithms and systems",
+    "frequencyRank": 1,
+    "bad": "The algorithm runs in O(n) time complexity.",
+    "good": "The algorithm runs in linear time.",
+    "why": "“Runs in linear time” is a concise verbal description of O(n) time complexity. The original is understandable, but “in O(n) time complexity” combines two ways of naming the same property; use the concise phrase in speech and give the formal notation on the slide if useful.",
+    "tags": [
+      "research",
+      "presentation",
+      "computer science",
+      "algorithms"
+    ],
+    "story": [
+      "I was comparing two algorithms for processing a large list.",
+      "One audience member asked how their running times differ as the list grows.",
+      "I said, “The algorithm runs in linear time.”",
+      "Then I wrote O(n) next to the pseudocode.",
+      "We discussed how the number of operations changes with input size.",
+      "The notation and the spoken explanation described the same growth rate."
+    ]
+  },
+  {
+    "id": "r02-005",
+    "category": "research",
+    "categoryTitle": "Explaining algorithms and systems",
+    "frequencyRank": 1,
+    "bad": "The runtime increases linear as the input grows.",
+    "good": "The runtime grows linearly with the input size.",
+    "why": "Use the adverb “linearly” to describe how the runtime grows, and “with” to connect that growth to input size. This phrasing states the relationship clearly without claiming an exact runtime for every input.",
+    "tags": [
+      "research",
+      "presentation",
+      "computer science",
+      "algorithms"
+    ],
+    "story": [
+      "Our team was discussing how the method scales to larger datasets.",
+      "The runtime plot showed a steady increase as the inputs grew.",
+      "I summarized the trend by saying, “The runtime grows linearly with the input size.”",
+      "I pointed to the axes and clarified how we measured each run.",
+      "A colleague asked whether the same pattern held for longer sequences.",
+      "We added that case to the next round of experiments."
+    ]
+  },
+  {
+    "id": "r02-006",
+    "category": "research",
+    "categoryTitle": "Explaining algorithms and systems",
+    "frequencyRank": 1,
+    "bad": "We evaluate the model in three benchmarks.",
+    "good": "We evaluate the model on three benchmarks.",
+    "why": "English usually uses “evaluate a model on a benchmark or dataset” to name the test set. “In” is used for a setting or environment (“in a low-resource setting”), while “on” introduces the benchmark used for evaluation.",
+    "tags": [
+      "research",
+      "presentation",
+      "computer science"
+    ],
+    "story": [
+      "I was presenting the evaluation setup for our new model.",
+      "The audience needed to know which tasks were included.",
+      "I said, “We evaluate the model on three benchmarks.”",
+      "I named each benchmark and briefly described its test split.",
+      "One reviewer asked whether all methods used the same data.",
+      "I showed the shared evaluation protocol on the next slide."
+    ]
+  },
+  {
+    "id": "r02-007",
+    "category": "research",
+    "categoryTitle": "Explaining algorithms and systems",
+    "frequencyRank": 1,
+    "bad": "We compare our results with baseline.",
+    "good": "We compare our results with the baseline.",
+    "why": "Use “the baseline” when you mean the specific reference method in the experiment; the singular countable noun needs a determiner. “Compare our results with” is a natural way to describe the evaluation, and “against” is another common option.",
+    "tags": [
+      "research",
+      "presentation",
+      "computer science"
+    ],
+    "story": [
+      "I was walking the group through the main evaluation table.",
+      "The baseline appeared in the first row for reference.",
+      "I said, “We compare our results with the baseline.”",
+      "Then I explained the metric and pointed out the largest difference.",
+      "A colleague asked whether the baseline had the same training budget.",
+      "We checked the experiment settings before interpreting the result."
+    ]
+  },
+  {
+    "id": "r02-008",
+    "category": "research",
+    "categoryTitle": "Explaining algorithms and systems",
+    "frequencyRank": 2,
+    "bad": "This module is in charge to parse input.",
+    "good": "This module handles input parsing.",
+    "why": "“In charge” is followed by “of,” not “to,” and it usually describes responsibility assigned to a person or team. For a software component, “handles input parsing” is concise and directly names the component’s function.",
+    "tags": [
+      "research",
+      "presentation",
+      "computer science",
+      "design"
+    ],
+    "story": [
+      "I was explaining the architecture of a data-processing pipeline.",
+      "Each box in the diagram represented a separate software module.",
+      "I pointed to the first box and said, “This module handles input parsing.”",
+      "I described how it checks the incoming format before passing data onward.",
+      "The next component performs normalization and validation.",
+      "The separation makes each part easier to test independently."
+    ]
+  },
+  {
+    "id": "r02-009",
+    "category": "research",
+    "categoryTitle": "Explaining algorithms and systems",
+    "frequencyRank": 2,
+    "bad": "The data is flowing from parser to planner.",
+    "good": "The data flows from the parser to the planner.",
+    "why": "Use the simple present to describe a stable process or a data-flow diagram. “The parser” and “the planner” refer to specific components, so they take “the”; the continuous form would emphasize data moving at this moment.",
+    "tags": [
+      "research",
+      "presentation",
+      "computer science",
+      "design"
+    ],
+    "story": [
+      "I showed a diagram of the system’s main components.",
+      "The audience asked how a request moves through the pipeline.",
+      "I traced the arrows and said, “The data flows from the parser to the planner.”",
+      "I explained what information each component adds.",
+      "Then I showed where the planner sends its result.",
+      "The diagram made the handoff between components easier to understand."
+    ]
+  },
+  {
+    "id": "r02-010",
+    "category": "research",
+    "categoryTitle": "Explaining algorithms and systems",
+    "frequencyRank": 2,
+    "bad": "The design separates retrieval and generation into different.",
+    "good": "The design separates retrieval from generation.",
+    "why": "The verb “separate” commonly takes the pattern “separate A from B.” The shorter alternative names the two stages directly; add “into two stages” if you want to emphasize the resulting structure.",
+    "tags": [
+      "research",
+      "presentation",
+      "computer science",
+      "design"
+    ],
+    "story": [
+      "I was introducing a two-stage system for a paper discussion.",
+      "The first stage finds documents, and the second produces a response.",
+      "I summarized the architecture by saying, “The design separates retrieval from generation.”",
+      "A diagram showed the output of one stage becoming the input to the next.",
+      "We discussed how this structure makes each stage easier to evaluate.",
+      "I also noted that the stages still depend on each other’s outputs."
+    ]
+  },
+  {
+    "id": "r02-011",
+    "category": "research",
+    "categoryTitle": "Explaining algorithms and systems",
+    "frequencyRank": 2,
+    "bad": "The main bottleneck locates in the database lookup.",
+    "good": "The main bottleneck is the database lookup.",
+    "why": "“Bottleneck” names the component or operation that limits performance, so a linking verb such as “is” connects it to the cause. “Is located” describes physical position; it does not fit as naturally when identifying which operation slows the system.",
+    "tags": [
+      "research",
+      "presentation",
+      "computer science",
+      "performance"
+    ],
+    "story": [
+      "We profiled the service after response times began to increase.",
+      "The trace showed that one operation took much longer than the others.",
+      "At the meeting, I said, “The main bottleneck is the database lookup.”",
+      "I showed the timing breakdown and explained how we measured it.",
+      "A teammate suggested checking whether the cache was being used.",
+      "We added that measurement to the next profiling run."
+    ]
+  },
+  {
+    "id": "r02-012",
+    "category": "research",
+    "categoryTitle": "Explaining algorithms and systems",
+    "frequencyRank": 2,
+    "bad": "This assumption is held in small graph but not dense one.",
+    "good": "This assumption holds for small graphs, but not for dense ones.",
+    "why": "“Hold” means remain valid in this context, so use the active form “the assumption holds.” “For” introduces the cases where it applies, and plural “graphs” and “ones” refer to the class of graphs being discussed.",
+    "tags": [
+      "research",
+      "presentation",
+      "computer science"
+    ],
+    "story": [
+      "I was explaining an assumption behind our graph algorithm.",
+      "The method behaved differently as the graph became denser.",
+      "I clarified, “This assumption holds for small graphs, but not for dense ones.”",
+      "I showed two examples with different edge densities.",
+      "A student asked what happens near the transition point.",
+      "We discussed how to test that boundary in a follow-up experiment."
+    ]
+  },
+  {
+    "id": "r02-013",
+    "category": "research",
+    "categoryTitle": "Explaining algorithms and systems",
+    "frequencyRank": 2,
+    "bad": "The method is sensitive with choosing the threshold.",
+    "good": "The method is sensitive to the choice of threshold.",
+    "why": "The adjective “sensitive” is followed by “to” when naming the factor that affects a method. “The choice of threshold” makes clear that the result may change depending on which threshold is selected.",
+    "tags": [
+      "research",
+      "presentation",
+      "computer science",
+      "evaluation"
+    ],
+    "story": [
+      "We tested the method with several threshold values.",
+      "The scores changed more than we had expected.",
+      "I noted, “The method is sensitive to the choice of threshold.”",
+      "I showed the range of results rather than reporting only the best value.",
+      "My advisor asked whether the threshold could be selected on validation data.",
+      "We added that question to our evaluation plan."
+    ]
+  },
+  {
+    "id": "r02-014",
+    "category": "research",
+    "categoryTitle": "Explaining algorithms and systems",
+    "frequencyRank": 2,
+    "bad": "Our implement uses caching for avoid repeat computation.",
+    "good": "Our implementation uses caching to avoid repeated computation.",
+    "why": "“Implementation” is the noun for the code or realized system; “implement” is a verb. Use “to avoid” to express purpose, and “repeated computation” is the natural noun phrase for work that would otherwise be done again.",
+    "tags": [
+      "research",
+      "presentation",
+      "computer science",
+      "design"
+    ],
+    "story": [
+      "I was describing an optimization in our prototype.",
+      "The system often requested the same intermediate result more than once.",
+      "I explained, “Our implementation uses caching to avoid repeated computation.”",
+      "I showed how the cache stores the result for later requests.",
+      "The team asked whether it changed memory use.",
+      "I added a small table comparing runtime and memory for both settings."
+    ]
+  },
+  {
+    "id": "r02-015",
+    "category": "research",
+    "categoryTitle": "Explaining algorithms and systems",
+    "frequencyRank": 2,
+    "bad": "We can make same result with this configuration.",
+    "good": "We can reproduce the result with this configuration.",
+    "why": "In research, “reproduce a result” means obtain the same finding by following a specified procedure or setup. “Make the same result” is not the usual collocation; naming the configuration helps others understand what they need to repeat.",
+    "tags": [
+      "research",
+      "presentation",
+      "computer science",
+      "reproducibility"
+    ],
+    "story": [
+      "A collaborator wanted to verify a result from our earlier run.",
+      "I shared the configuration file and the version of the dataset.",
+      "I explained, “We can reproduce the result with this configuration.”",
+      "They ran the experiment on their machine that afternoon.",
+      "The score was close to ours, so we compared the random seeds.",
+      "We documented the remaining difference in the experiment notes."
+    ]
+  },
+  {
+    "id": "r02-016",
+    "category": "research",
+    "categoryTitle": "Ph.D. meetings with an advisor",
+    "frequencyRank": 1,
+    "bad": "I narrowed my research question into two directions.",
+    "good": "I’ve narrowed my project down to two possible research directions.",
+    "why": "Use “narrow something down to” when you reduce a project to a smaller set of options. “Research directions” names the alternatives clearly, and the present perfect connects the work you have done to the current meeting.",
+    "tags": [
+      "PhD",
+      "advisor",
+      "research meeting",
+      "planning"
+    ],
+    "story": [
+      "I had been reading papers to refine the focus of my dissertation.",
+      "By our meeting, I had identified two promising directions.",
+      "I told my advisor, “I’ve narrowed my research question to two possible directions.”",
+      "I summarized the evidence for each one.",
+      "My advisor asked which direction seemed more feasible with our available data.",
+      "We agreed that I would draft a short comparison before deciding."
+    ]
+  },
+  {
+    "id": "r02-017",
+    "category": "research",
+    "categoryTitle": "Ph.D. meetings with an advisor",
+    "frequencyRank": 1,
+    "bad": "I want to discuss about my dissertation scope.",
+    "good": "I’d like your advice on my dissertation scope.",
+    "why": "“Discuss” takes a direct object, so it does not need “about”; “talk about” is the alternative pattern. “I’d like your advice on…” is a courteous way to signal that you want guidance on a specific decision.",
+    "tags": [
+      "PhD",
+      "advisor",
+      "research meeting",
+      "requests"
+    ],
+    "story": [
+      "I had drafted an outline for my dissertation proposal.",
+      "Some parts felt too broad for the time I had available.",
+      "At our meeting, I said, “I’d like your advice on my dissertation scope.”",
+      "I showed the current outline and explained which sections I was unsure about.",
+      "My advisor suggested focusing the first study on one dataset.",
+      "I revised the outline after the meeting."
+    ]
+  },
+  {
+    "id": "r02-018",
+    "category": "research",
+    "categoryTitle": "Ph.D. meetings with an advisor",
+    "frequencyRank": 1,
+    "bad": "I’m deciding two research directions.",
+    "good": "I’m deciding between two research directions.",
+    "why": "Use “decide between” when choosing one option from two alternatives. The present progressive shows that the choice is still in progress, making this a clear opening for your advisor’s input.",
+    "tags": [
+      "PhD",
+      "advisor",
+      "research meeting",
+      "planning"
+    ],
+    "story": [
+      "I had finished reading the papers my advisor recommended.",
+      "Two research directions seemed promising for different reasons.",
+      "I explained, “I’m deciding between two research directions.”",
+      "I described the strengths and risks I saw in each option.",
+      "My advisor asked which one connected more closely to the central research question.",
+      "We agreed on a small experiment to help compare them."
+    ]
+  },
+  {
+    "id": "r02-019",
+    "category": "research",
+    "categoryTitle": "Ph.D. meetings with an advisor",
+    "frequencyRank": 1,
+    "bad": "I made a progress on the implementation.",
+    "good": "I’ve made progress on the implementation.",
+    "why": "“Progress” is an uncountable noun, so it does not take “a.” The present perfect is natural for reporting work completed over a period that leads up to the current advisor meeting.",
+    "tags": [
+      "PhD",
+      "advisor",
+      "research meeting",
+      "progress"
+    ],
+    "story": [
+      "I had spent the week connecting the new module to our pipeline.",
+      "The basic version was running, although a few tests still failed.",
+      "I began my update by saying, “I’ve made progress on the implementation.”",
+      "I showed what worked and described the test that was still failing.",
+      "My advisor suggested checking the input format at the module boundary.",
+      "I wrote that down as my next debugging step."
+    ]
+  },
+  {
+    "id": "r02-020",
+    "category": "research",
+    "categoryTitle": "Ph.D. meetings with an advisor",
+    "frequencyRank": 1,
+    "bad": "I have a block with the analysis.",
+    "good": "I’m blocked on the analysis because I’m missing the latest data.",
+    "why": "“Be blocked on” is a natural way to report work you cannot move forward on. Naming the reason helps your advisor respond with useful guidance instead of having to guess what kind of help you need.",
+    "tags": [
+      "PhD",
+      "advisor",
+      "research meeting",
+      "progress"
+    ],
+    "story": [
+      "I had planned to finish the analysis before our weekly meeting.",
+      "The latest data extract had not arrived, so I could not run the final comparison.",
+      "I told my advisor, “I’m blocked on the analysis because I’m missing the latest data.”",
+      "I explained what I had completed while waiting.",
+      "My advisor helped me identify a smaller check I could do with the available data.",
+      "I left with a useful task for the rest of the week."
+    ]
+  },
+  {
+    "id": "r02-021",
+    "category": "research",
+    "categoryTitle": "Ph.D. meetings with an advisor",
+    "frequencyRank": 1,
+    "bad": "What should I prioritize to the next meeting?",
+    "good": "What should I prioritize before our next meeting?",
+    "why": "Use “before” to set a deadline that comes earlier than the meeting. “Prioritize” takes the work directly as its object, so the question asks which task deserves attention first.",
+    "tags": [
+      "PhD",
+      "advisor",
+      "research meeting",
+      "planning"
+    ],
+    "story": [
+      "We had reviewed several possible follow-up tasks for the project.",
+      "There was not enough time to complete all of them before our next check-in.",
+      "I asked, “What should I prioritize before our next meeting?”",
+      "My advisor recommended finishing the error analysis first.",
+      "We moved the lower-priority figure revision to the following week.",
+      "I updated my task list while the plan was still fresh."
+    ]
+  },
+  {
+    "id": "r02-022",
+    "category": "research",
+    "categoryTitle": "Ph.D. meetings with an advisor",
+    "frequencyRank": 1,
+    "bad": "I want your feedback for this design choice.",
+    "good": "Could I get your feedback on this design choice?",
+    "why": "Use “feedback on” to introduce the work or decision you want someone to review. “Could I get…” frames the request politely, and “this design choice” points to a specific decision rather than asking for general feedback.",
+    "tags": [
+      "PhD",
+      "advisor",
+      "research meeting",
+      "design"
+    ],
+    "story": [
+      "I had to choose how to divide the system into components.",
+      "I wrote down the trade-offs before our scheduled meeting.",
+      "I asked my advisor, “Could I get your feedback on this design choice?”",
+      "I explained why I had considered the two alternatives.",
+      "My advisor pointed out how one option would simplify testing.",
+      "I updated the design notes after we agreed on a direction."
+    ]
+  },
+  {
+    "id": "r02-023",
+    "category": "research",
+    "categoryTitle": "Ph.D. meetings with an advisor",
+    "frequencyRank": 2,
+    "bad": "I’m not sure this scope can finish in my Ph.D.",
+    "good": "I’m not sure this scope is feasible within my Ph.D. timeline.",
+    "why": "A project scope is “feasible” if it can realistically be completed with the available time and resources. “Within my Ph.D. timeline” makes the constraint clear without saying that the scope itself can finish.",
+    "tags": [
+      "PhD",
+      "advisor",
+      "research meeting",
+      "planning"
+    ],
+    "story": [
+      "I had outlined three studies for my dissertation.",
+      "Each study was interesting, but the full plan seemed ambitious.",
+      "I told my advisor, “I’m not sure this scope is feasible within my Ph.D. timeline.”",
+      "We estimated the work involved in data collection and evaluation.",
+      "My advisor suggested moving one study to future work.",
+      "The revised plan felt more realistic and still addressed the main question."
+    ]
+  },
+  {
+    "id": "r02-024",
+    "category": "research",
+    "categoryTitle": "Ph.D. meetings with an advisor",
+    "frequencyRank": 2,
+    "bad": "Can we decide a milestone in next month?",
+    "good": "Could we agree on a milestone for next month?",
+    "why": "“Agree on a milestone” is the usual phrasing when you and your advisor settle on a shared target. “For next month” names when the milestone is planned; “in the next month” would mean at some point during the coming month.",
+    "tags": [
+      "PhD",
+      "advisor",
+      "research meeting",
+      "planning"
+    ],
+    "story": [
+      "I wanted to leave our meeting with a clear short-term goal.",
+      "We had discussed several tasks but had not chosen a target date.",
+      "I asked, “Could we agree on a milestone for next month?”",
+      "My advisor suggested completing the first evaluation table.",
+      "We chose a date to review it together.",
+      "I added the milestone to my project plan."
+    ]
   }
 ]
